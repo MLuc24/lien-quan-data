@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "5v5-pvp-cup-vinh-quang",
+    "name": "5v5 PVP – Cúp Vinh Quang",
+    "url": "https://lienquan.garena.vn/hoc-vien/che-do-choi/d/5v5-pvp-cup-vinh-quang/",
+    "image": "https://lienquan.garena.vn/wp-content/uploads/2024/05/csm.png",
+    "searchKey": "5v5 pvp cup vinh quang",
+    "description": [
+      "Cúp Vinh Quang diễn ra vào cuối tuần từ 20h đến 22h30 và sẽ chỉ mở theo các đợt đặc biệt.",
+      "Người chơi ghép đơn hoặc ghép đội để tìm trận Cấm/Chọn như đấu xếp hạng.",
+      "Mỗi mùa Cúp Vinh Quang có 4 vòng (4 ngày) thi đấu, mỗi ngày sẽ có 3 trận đấu với kết quả được tính như sau:",
+      "Thắng 0 trận sẽ đạt hạng 4",
+      "Thắng 1 trận sẽ đạt hạng 3",
+      "Thắng 2 trận sẽ đạt hạng 2",
+      "Thắng 3 trận sẽ đạt hạng 1",
+      "Hạng 1 sẽ nhận được Cúp kèm ghi chú tương ứng về số lận hạng 1 trong mùa tương ứng. Ngoài ra, các đội tham gia sẽ nhận một lượng điểm để đổi quà trong phần sự kiện."
+    ]
+  },
+  {
+    "slug": "1v1-pvp-thanh-pho-den",
+    "name": "1v1 PVP – Thành phố đen",
+    "url": "https://lienquan.garena.vn/hoc-vien/che-do-choi/d/1v1-pvp-thanh-pho-den/",
+    "image": "https://lienquan.garena.vn/wp-content/uploads/2024/05/map1v11.jpg",
+    "searchKey": "1v1 pvp thanh pho den",
+    "description": [
+      "Đơn đấu (Thành phố đen): là chế độ chơi 1vs1, tại đây chỉ có duy nhất 1 đường và không có tài nguyên rừng. Bản đồ này dành cho 2 người chơi muốn thể hiện các kĩ năng của bản thân với nhau."
+    ]
+  },
+  {
+    "slug": "3v3-pvp-dau-truong-bo-ba",
+    "name": "3v3 PVP – Đấu trường bộ ba",
+    "url": "https://lienquan.garena.vn/hoc-vien/che-do-choi/d/3v3-pvp-dau-truong-bo-ba/",
+    "image": "https://lienquan.garena.vn/wp-content/uploads/2024/05/map3v31.jpg",
+    "searchKey": "3v3 pvp dau truong bo ba",
+    "description": [
+      "Đấu trường Bộ ba là chế độ chơi 3vs3 có 1 đường di chuyển chính và 2 đường rừng. Một chế độ chơi mới lạ dành cho bất kì người chơi nào muốn khám phá."
+    ]
+  },
+  {
+    "slug": "5v5-pvp-binh-nguyen-vo-tan",
+    "name": "5v5 PVP – Bình Nguyên Vô Tận",
+    "url": "https://lienquan.garena.vn/hoc-vien/che-do-choi/d/5v5-pvp-binh-nguyen-vo-tan/",
+    "image": "https://lienquan.garena.vn/wp-content/uploads/2024/05/map5v51.jpg",
+    "searchKey": "5v5 pvp binh nguyen vo tan",
+    "description": [
+      "Bình Nguyên Vô Tận là bản đồ 5v5 với 3 đường quen thuộc, bao gồm cả quái vật rừng và quái vật khổng lồ. Mục tiêu chính vẫn là phá hủy nhà chính của đối phương."
+    ]
+  },
+  {
+    "slug": "1v1-pvp",
+    "name": "5v5 ARAM – Hỗn loạn đường giữa",
+    "url": "https://lienquan.garena.vn/hoc-vien/che-do-choi/d/1v1-pvp/",
+    "image": "https://lienquan.garena.vn/wp-content/uploads/2024/05/map5v5-aram1.jpg",
+    "searchKey": "5v5 aram hon loan duong giua",
+    "description": [
+      "Hồn loạn đường giữa xảy ra ở Đấu trường độc đạo. Đây là bản đồ đấu 5v5 nhưng chỉ có 1 đường di chuyển duy nhất, đồng thời không hề có tài nguyên rừng."
+    ]
+  }
+]

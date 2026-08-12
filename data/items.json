@@ -1,0 +1,1853 @@
+[
+  {
+    "slug": "chuy-bang-suong",
+    "name": "Chùy băng sương",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2025/07/Chuy-bang-suong.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2060,
+    "stats": [
+      "+60 Công vật lý, +30% Tốc đánh, +900 Máu tối đa"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Đông Băng: Đánh thường và tung chiêu làm chậm 5% – 10% tốc chạy của mục tiêu trong 1.5 giây, cộng dồn tối đa 2 lần.",
+      "Nội tại duy nhất – Hàn Khí: Đánh thường và tung chiêu gây thêm 140 – 280 (+45% công vật lý thêm) sát thương vật lý. Thời gian hồi chiêu: 3 giây."
+    ],
+    "searchKey": "chuy bang suong"
+  },
+  {
+    "slug": "huyet-anh-dao",
+    "name": "Huyết ảnh đao",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2025/07/Huyet-dao.png",
+    "group": "Công vật lý",
+    "tier": "Trung cấp",
+    "gold": 830,
+    "stats": [
+      "+30 Công vật lý, +10% Hút máu"
+    ],
+    "passives": [
+      "Nội tại – Huyết yến: Khi bản thân thấp hơn 30% máu, trong 5 giây tích lũy hồi  400 – 610 máu tối đa. Thời gian hồi chiêu: 20 giây."
+    ],
+    "searchKey": "huyet anh dao"
+  },
+  {
+    "slug": "the-uoc-carano",
+    "name": "Thệ ước Carano",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2025/07/The-uoc-Carano.jpg",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 2050,
+    "stats": [
+      "+180 Công phép, +12% Hút máu phép, +5% Tốc chạy"
+    ],
+    "passives": [
+      "Bảo hộ khẩn cấp: Khi máu dưới 30%, lập tức hóa giải khống chế đồng thời nhận lá chắn chặn 510 – 1000 (+ 100% công phép + 8% máu thêm) sát thương trong 4 giây và tăng 30% tốc chạy trong thời gian hiệu lực – Nội tại duy nhất"
+    ],
+    "searchKey": "the uoc carano"
+  },
+  {
+    "slug": "ma-phap-truong-bao",
+    "name": "Ma pháp trường bào",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2025/07/Ma-phap-truong-bao-1.jpg",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 2160,
+    "stats": [
+      "+120 Công phép +900 Máu tối đa"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Linh thể: Nhận 26 – 40 (+2% máu bản thân) công phép, tối đa không vượt quá 100 điểm.",
+      "Nội tại – Phá phép: Nhận 32 – 60 (+3% máu bản thân thêm) xuyên giáp phép, tối đa không vượt quá 150 điểm."
+    ],
+    "searchKey": "ma phap truong bao"
+  },
+  {
+    "slug": "cau-chiem-tinh",
+    "name": "Cầu chiêm tinh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/11/cau-chiem-tinh.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 800,
+    "stats": [
+      "+ 80 Công phép"
+    ],
+    "passives": [
+      "Vang vọng: Tung chiêu bùng nổ trong phạm vi gây 180 sát thương phép, 5 giây hồi chiêu – Nội tại duy nhất"
+    ],
+    "searchKey": "cau chiem tinh"
+  },
+  {
+    "slug": "diet-than-cung",
+    "name": "Diệt thần cung",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/11/diet-than-cung.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2980,
+    "stats": [
+      "+ 50 Công vật lý",
+      "+ 30% Tốc đánh",
+      "+ 10% Tỷ lệ chí mạng"
+    ],
+    "passives": [
+      "Phá thần: Đòn đánh thường kèm 50 sát thương vật lý (gấp đôi với tướng đánh xa) – Nội tại duy nhất – hồi chiêu 0.35 giây",
+      "Xuyên thấu: Tăng 20% xuyên giáp (gấp đôi với tướng đánh xa) – Nội tại duy nhất"
+    ],
+    "searchKey": "diet than cung"
+  },
+  {
+    "slug": "huyet-cung",
+    "name": "Huyết cung",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/11/huyet-cung.png",
+    "group": "Công vật lý",
+    "tier": "Trung cấp",
+    "gold": 1100,
+    "stats": [
+      "+ 40 Công vật lý",
+      "+10% Tốc đánh"
+    ],
+    "passives": [
+      "Xuyên thấu: Tăng 10% xuyên giáp (gấp đôi với tướng đánh xa) – Nội tại duy nhất"
+    ],
+    "searchKey": "huyet cung"
+  },
+  {
+    "slug": "liet-hoa-than-toc",
+    "name": "Liệt hoả thần tốc",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16237.png",
+    "group": "Bảo thạch",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+ 1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Kích hoạt chủ động – Thần tốc: Tốc chạy của các tướng đồng minh trong phạm vi sẽ tăng dần trong vòng 2 giây, lên tới 20% – 100%, kéo dài 4 giây. Khi đi ngang qua một tướng đồng minh không được tăng tốc, hiệu ứng này sẽ được đồng bộ hóa với tướng đồng minh. Khi tấn công hoặc bị tướng địch đánh trúng sẽ chỉ giữ lại 20% tốc độ tăng thêm. Hồi chiêu 75 giây."
+    ],
+    "passives": [
+      "Nội tại – Tưởng thưởng: Tăng 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội."
+    ],
+    "searchKey": "liet hoa than toc"
+  },
+  {
+    "slug": "liet-hoa-mo-troi",
+    "name": "Liệt hoả mở trói",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16234.png",
+    "group": "Bảo thạch",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+ 1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Kích hoạt chủ động – Mở trói: Hóa giải tất cả hiệu ứng khống chế cho bản thân và đồng đội trong phạm vi đồng thời miễn khống trong 0.5 giây. Hồi chiêu 90 giây."
+    ],
+    "passives": [
+      "Nội tại – Tưởng thưởng: Tăgn 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội."
+    ],
+    "searchKey": "liet hoa mo troi"
+  },
+  {
+    "slug": "liet-hoa-hoi-huyet",
+    "name": "Liệt hoả hồi huyết",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16236.png",
+    "group": "Bảo thạch",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+ 1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Kích hoạt chủ động – Hồi huyết: Bản thân gắn liên kết với 1 tướng đồng minh (ít máu nhất trong phạm vi) và trong 5 giây hồi 500 – 1000 + 20% máu tối đa cùng 25% năng lượng tối đa cho cả 2. Vượt quá cự ly nhất định liên kết sẽ đứt. Bị tướng địch tấn công hoặc tấn công tướng địch, hiệu quả hồi phục chỉ còn 20% hiệu lực. Mỗi 50 giây dự trữ 1 lần, tối đa dự trữ 2 lần."
+    ],
+    "passives": [
+      "Nội tại – Tưởng thưởng: Tăng 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội."
+    ],
+    "searchKey": "liet hoa hoi huyet"
+  },
+  {
+    "slug": "liet-hoa-ma-nhan",
+    "name": "Liệt hoả ma nhãn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16232.png",
+    "group": "Bảo thạch",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+ 1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Kích hoạt chủ động – Ma nhãn: Liên tục phát quang tầm nhìn chuẩn trong phạm vi xung quanh 4 giây và lập tức gây 2 lần sát thương phép cho tướng địch lân cận trong 2 giây. Mỗi lần gây sát thương tương đương với 8% máu tướng địch hiện tại kèm làm chậm 50%. Hồi chiêu 45 giây."
+    ],
+    "passives": [
+      "Nội tại – Tưởng thưởng: Tăgn 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội."
+    ],
+    "searchKey": "liet hoa ma nhan"
+  },
+  {
+    "slug": "liet-hoa-than-khien",
+    "name": "Liệt hoả thần khiên",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16231.png",
+    "group": "Bảo thạch",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+ 1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Kích hoạt chủ động -Thần khiên: Lập tức tạo 1 lớp lá chắn giúp hấp thu 680 – 1800 sát thương cho bản thân và đồng đội lân cận trong 3 giây. Hồi chiêu 60 giây."
+    ],
+    "passives": [
+      "Nội tại – Tưởng thưởng: Tăng 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội."
+    ],
+    "searchKey": "liet hoa than khien"
+  },
+  {
+    "slug": "dai-dia-hoi-huyet",
+    "name": "Đại địa hồi huyết",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16216.png",
+    "group": "Bảo thạch",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Kích hoạt chủ động – Hồi huyết: Bản thân gắn liên kết với 1 tướng đồng minh (ít máu nhất trong phạm vi) và trong 5 giây hồi 500 – 1000 + 20% máu tối đa cùng 25% năng lượng tối đa cho cả 2. Vượt quá cự ly nhất định liên kết sẽ đứt. Bị tướng địch tấn công hoặc tấn công tướng địch, hiệu quả hồi phục chỉ còn 20% hiệu lực. Mỗi 50 giây dự trữ 1 lần, tối đa dự trữ 2 lần."
+    ],
+    "passives": [
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận.",
+      "Nội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa."
+    ],
+    "searchKey": "dai dia hoi huyet"
+  },
+  {
+    "slug": "dai-dia-ma-nhan",
+    "name": "Đại địa ma nhãn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16212.png",
+    "group": "Bảo thạch",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Kích hoạt chủ động – Ma nhãn: Liên tục phát quang tầm nhìn chuẩn trong phạm vi xung quanh 4 giây và lập tức gây 2 lần sát thương phép cho tướng địch lân cận trong 2 giây. Mỗi lần gây sát thương tương đương với 8% máu tướng địch hiện tại kèm làm chậm 50%. Hồi chiêu 45 giây."
+    ],
+    "passives": [
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận",
+      "Nội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa."
+    ],
+    "searchKey": "dai dia ma nhan"
+  },
+  {
+    "slug": "dai-dia-than-khien",
+    "name": "Đại địa thần khiên",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16211.png",
+    "group": "Bảo thạch",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Thần khiên: Lập tức tạo 1 lớp lá chắn giúp hấp thu 680 – 1800 sát thương cho bản thân và đồng đội lân cận trong 3 giây. Hồi chiêu 60 giây – Kích hoạt chủ động"
+    ],
+    "passives": [
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận.",
+      "Nội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa."
+    ],
+    "searchKey": "dai dia than khien"
+  },
+  {
+    "slug": "dai-dia-mo-troi",
+    "name": "Đại địa Mở trói",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16214.png",
+    "group": "Bảo thạch",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Kích hoạt chủ động – Mở trói: Hóa giải tất cả hiệu ứng khống chế cho bản thân và đồng đội trong phạm vi đồng thời miễn khống trong 0.5 giây. Hồi chiêu 90 giây."
+    ],
+    "passives": [
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận.",
+      "Nội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa."
+    ],
+    "searchKey": "dai dia mo troi"
+  },
+  {
+    "slug": "dai-dia-than-toc",
+    "name": "Đại địa thần tốc",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16217.png",
+    "group": "Bảo thạch",
+    "tier": "Trung cấp",
+    "gold": 1900,
+    "stats": [
+      "+1200 Máu tối đa",
+      "+8% Tốc chạy",
+      "Kích hoạt chủ động – Thần tốc: Tốc chạy của các tướng đồng minh trong phạm vi sẽ tăng dần trong vòng 2 giây, lên tới 20% – 100%, kéo dài 4 giây. Khi đi ngang qua một tướng đồng minh không được tăng tốc, hiệu ứng này sẽ được đồng bộ hóa với tướng đồng minh. Khi tấn công hoặc bị tướng địch đánh trúng sẽ chỉ giữ lại 20% tốc độ tăng thêm. Hồi chiêu 75 giây."
+    ],
+    "passives": [
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận.",
+      "Nội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa."
+    ],
+    "searchKey": "dai dia than toc"
+  },
+  {
+    "slug": "hoa-he-bao-thach",
+    "name": "Hoả hệ bảo thạch",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2級輔助裝-法.png",
+    "group": "Bảo thạch",
+    "tier": "Trung cấp",
+    "gold": 900,
+    "stats": [
+      "+600 Máu tối đâ",
+      "+5% Tốc chạy"
+    ],
+    "passives": [
+      "Nội tại – Tưởng thưởng: Tăng 16  – 30 thuộc tính chủ đạo ( 1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép ). Tăng 200-410 máu tối đa",
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 6 kinh nghiệm và tăng 6 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu cho bản thân và đồng đội."
+    ],
+    "searchKey": "hoa he bao thach"
+  },
+  {
+    "slug": "tho-he-bao-thach",
+    "name": "Thổ hệ bảo thạch",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2級輔助裝-坦.png",
+    "group": "Bảo thạch",
+    "tier": "Trung cấp",
+    "gold": 900,
+    "stats": [
+      "+600 Máu tối đâ",
+      "+5% Tốc chạy"
+    ],
+    "passives": [
+      "Nội tại – Tưởng thưởng: Tăng 16  – 30 thuộc tính chủ đạo ( 1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép ). Tăng 200-410 máu tối đa",
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 6 kinh nghiệm và tăng 6 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)",
+      "Nội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận."
+    ],
+    "searchKey": "tho he bao thach"
+  },
+  {
+    "slug": "nguyen-to-bao-thach",
+    "name": "Nguyên tố bảo thạch",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icona78636f147efe1ac850a5495c044a9565ef2df9dd61a31.png",
+    "group": "Bảo thạch",
+    "tier": "Cơ bản",
+    "gold": 300,
+    "stats": [
+      "+ 5% Tốc chạy"
+    ],
+    "passives": [
+      "Nội tại – Hậu cần: Mỗi 3 giây tăng 6 kinh nghiệm và tăng 6 vàng cho tướng ít vàng nhất trong đội.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến 13 phút sẽ đạt tối đa)"
+    ],
+    "searchKey": "nguyen to bao thach"
+  },
+  {
+    "slug": "giay-hermes",
+    "name": "Giày Hermes",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b86b4a1e5a5c3801f0c11fd76a8cbe0c5875f18bcc5ec1.png",
+    "group": "Giày",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+300 Máu tối đa",
+      "+70 Tốc chạy",
+      "Hoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút"
+    ],
+    "passives": [
+      "Nội tại duy nhất: Gia tốc",
+      "Nhanh nhạy: Tăng 60 Tốc chạy khi thoát khỏi trạng thái giao tranh – Nội tại duy nhất"
+    ],
+    "searchKey": "giay hermes"
+  },
+  {
+    "slug": "giay-du-muc",
+    "name": "Giày du mục",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3ff001f7078fc0b3f77e9ec7b283e2735875f14d9d0a31.png",
+    "group": "Giày",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+20% Tốc đánh",
+      "+60 Tốc chạy",
+      "Hoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút"
+    ],
+    "passives": [
+      "Nội tại duy nhất: Gia tốc",
+      "Nội tại duy n hất: Đánh thường hồi 20 máu (Hồi chiêu: 0.3 giây)(Giảm 1 nửa hiệu ứng đối với đơn vị không phải tướng)"
+    ],
+    "searchKey": "giay du muc"
+  },
+  {
+    "slug": "giay-phu-thuy",
+    "name": "Giày phù thủy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/85bfb0396118e0b32f1e3f4b34911d235875f11c6208c1.png",
+    "group": "Giày",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+60 tốc chạy",
+      "+100 Xuyên giáp phép",
+      "Hoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút"
+    ],
+    "passives": [
+      "Nội tại duy nhất",
+      "Nội tại duy nhất"
+    ],
+    "searchKey": "giay phu thuy"
+  },
+  {
+    "slug": "giay-thuat-si",
+    "name": "Giày thuật sĩ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/114e22fe9d424beb6fe4aca5c456c5c35875f0f2d82ec1.png",
+    "group": "Giày",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+15% Giảm hồi chiêu",
+      "+60 Tốc chạy",
+      "Hoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút"
+    ],
+    "passives": [
+      "Nội tại duy nhất: Gia tốc",
+      "Giảm 15% hồi chiêu tối đa kỹ năng phụ trợ – Nội tại duy nhất"
+    ],
+    "searchKey": "giay thuat si"
+  },
+  {
+    "slug": "giay-kien-cuong",
+    "name": "Giày kiên cường",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3a856551539a716067add52f8fc65bc65875f0c7db9e51.png",
+    "group": "Giày",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+90 Giáp phép",
+      "+60 Tốc chạy",
+      "+35% Kháng hiệu ứng",
+      "Hoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút"
+    ],
+    "passives": [
+      "Nội tại duy nhất: Gia tốc",
+      "Nội tại duy nhất (kháng hiệu ứng là giảm thời gian chịu các loại khống chế)"
+    ],
+    "searchKey": "giay kien cuong"
+  },
+  {
+    "slug": "giay-ho-ve",
+    "name": "Giày hộ vệ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0b2a528cdd009437b1635def58e353675875f09318ffd1.png",
+    "group": "Giày",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+110 Giáp",
+      "+60 Tốc chạy",
+      "Hoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút"
+    ],
+    "passives": [
+      "Nội tại duy nhất: Gia tốc",
+      "Giảm 10% sát thương vật lý phải chịu – Nội tại duy nhất"
+    ],
+    "searchKey": "giay ho ve"
+  },
+  {
+    "slug": "giay-thep",
+    "name": "Giày thép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/de8cb12606b2dd64c2a2ae53225453395875f0551a9091.png",
+    "group": "Giày",
+    "tier": "Cơ bản",
+    "gold": 250,
+    "stats": [
+      "+30 Tốc chạy"
+    ],
+    "passives": [
+      "Nội tại duy nhất: Gia tốc"
+    ],
+    "searchKey": "giay thep"
+  },
+  {
+    "slug": "nham-thuan",
+    "name": "Nham thuẫn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icone5253595746abc893db9abe7568410315ef414f03aac11.png",
+    "group": "Phòng thủ",
+    "tier": "Cao cấp",
+    "gold": 1980,
+    "stats": [
+      "+1200 Máu tối đa",
+      "+240 Giáp",
+      "Tích tụ: Nhận lá chắn tương đương (30% máu tối đa + 10% máu đã mất) trong 3 giây và giảm 70% sát thương gây ra trong thời gian này. Hồi chiêu 60 giây – Kích hoạt duy nhất & có thể dùng khi bị khống chế"
+    ],
+    "passives": [],
+    "searchKey": "nham thuan"
+  },
+  {
+    "slug": "phu-chu-truong-sinh",
+    "name": "Phù chú trường sinh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icond155d1aa807b4022dd22a16cfa171d5f5853665105cd41.png",
+    "group": "Phòng thủ",
+    "tier": "Cao cấp",
+    "gold": 2190,
+    "stats": [
+      "+150 giáp",
+      "+100 giáp phép",
+      "+1500 máu tối đa"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Trường Sinh: Mỗi 2 giây hồi 1% máu tối . Nếu trong 3s không bị tướng địch hoặc trụ tấn công, hiệu quả hồi phục sẽ trở thành 4%."
+    ],
+    "searchKey": "phu chu truong sinh"
+  },
+  {
+    "slug": "ao-choang-bang-gia",
+    "name": "Áo choàng băng giá",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon55eaf54151e5f99b1442aceb380cb3cf58536633305011.png",
+    "group": "Phòng thủ",
+    "tier": "Cao cấp",
+    "gold": 1970,
+    "stats": [
+      "+10% Giảm hồi chiêu",
+      "+200 Giáp",
+      "+800 Máu tối đa"
+    ],
+    "passives": [
+      "Sức mạnh nguyên tố: Sau khi tung chiêu, trong 5 giây sẽ khiến đòn đánh kế gây thêm 100 (+30% công vật lý) sát thương vật lý lan trong phạm vi 3m quanh mục tiêu kèm 30% làm chậm địch (tướng đánh xa làm chậm chỉ được 20%) trong 0.5 giây; 0.65 giây hồi – Nội tại duy nhất"
+    ],
+    "searchKey": "ao choang bang gia"
+  },
+  {
+    "slug": "giap-ho-menh",
+    "name": "Giáp hộ mệnh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon6b6c892834f3b9840bec892627dbeedb5b87c72793cd01.png",
+    "group": "Phòng thủ",
+    "tier": "Cao cấp",
+    "gold": 2400,
+    "stats": [
+      "+120 Giáp"
+    ],
+    "passives": [
+      "Chiến khí: Tăng sát thương bản thân gây ra thêm 10% – Nội tại Duy nhất",
+      "Phục sinh: Tướng sẽ sống lại sau 2 giây tại nơi bị hạ gục với 2100 – 3500 Máu; 150 giây hồi chiêu. Đặc biệt mỗi trận chỉ có tác dụng 2 lần – Nội tại duy nhất"
+    ],
+    "searchKey": "giap ho menh"
+  },
+  {
+    "slug": "huan-chuong-troy",
+    "name": "Huân chương Troy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7c7e5cbc16a0a12b0363ffec0dd4bbe0583eb735ebea21.png",
+    "group": "Phòng thủ",
+    "tier": "Cao cấp",
+    "gold": 2320,
+    "stats": [
+      "+200 Giáp phép",
+      "+1000 Máu tối đa",
+      "+10% Giảm hồi chiêu"
+    ],
+    "passives": [
+      "Hộ thân: Rời khỏi giao tranh nhận được một lớp bảo hộ giúp hấp thu 460 – 1300 sát thương phép – Nội tại duy nhất",
+      "Nội lực: Nhận 0 – 112 giáp phép (tăng theo cấp) – Nội tại duy nhất"
+    ],
+    "searchKey": "huan chuong troy"
+  },
+  {
+    "slug": "giap-gaia",
+    "name": "Giáp Gaia",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9f2d442bf8b0f7597bd23de1af9c1ba9583eb6859264b1.png",
+    "group": "Phòng thủ",
+    "tier": "Cao cấp",
+    "gold": 2180,
+    "stats": [
+      "+200 Giáp phép",
+      "+1200 Máu tối đa"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Hồi phục: Khi chịu sát thương, tướng hồi 4% máu tối đa trong 2 giây (10 giây hồi chiêu).",
+      "Thêm mới Nội tại duy nhất thứ 2 – Huyết Thống: Mỗi 10% máu bị mất thì hiệu ứng hồi máu sẽ tăng 5%"
+    ],
+    "searchKey": "giap gaia"
+  },
+  {
+    "slug": "khien-huyen-thoai",
+    "name": "Khiên huyền thoại",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/22878b0202ea24b883044a9c642d5536583eb618cf2971.png",
+    "group": "Phòng thủ",
+    "tier": "Cao cấp",
+    "gold": 2180,
+    "stats": [
+      "+360 Giáp",
+      "+400 Năng lượng",
+      "+20% Giảm hồi chiêu"
+    ],
+    "passives": [
+      "Trói Buộc Tinh Thần: Giảm 30% tốc đánh của kẻ địch lân cận trong phạm vi 5m – Nội tại duy nhất"
+    ],
+    "searchKey": "khien huyen thoai"
+  },
+  {
+    "slug": "khien-that-truyen",
+    "name": "Khiên thất truyền",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/098ae164502918650b6334ce885d7d71583eb5aa4f7e31.png",
+    "group": "Phòng thủ",
+    "tier": "Cao cấp",
+    "gold": 2100,
+    "stats": [
+      "+275 Giáp",
+      "+1200 Máu tối đa"
+    ],
+    "passives": [
+      "Lính gác: Nếu tướng chịu sát thương, giảm 30% Tốc đánh và 15% Tốc chạy của những đối thủ đã ra đòn đánh – Nội tại duy nhất"
+    ],
+    "searchKey": "khien that truyen"
+  },
+  {
+    "slug": "ao-choang-than-ra",
+    "name": "Áo choàng thần Ra",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconc412f57b9e56e33473ff1a7c87f64c3c5c8b6e31b77f71.png",
+    "group": "Phòng thủ",
+    "tier": "Cao cấp",
+    "gold": 2060,
+    "stats": [
+      "+1000 Máu tối đa",
+      "+225 Giáp",
+      "+60 Hồi máu/5s"
+    ],
+    "passives": [
+      "Hỏa diệm: Gây 2% máu tối đa thành sát thương phép mỗi giây lên những kẻ địch cạnh bên (tăng 50% sát thương lên quái và lính) – Nội tại duy nhất",
+      "Tróc nã – Hỏa diệm gây sát thương thiêu đốt và giảm 40% hiệu ứng hồi máu của địch trong 3s – Nội tại duy nhất"
+    ],
+    "searchKey": "ao choang than ra"
+  },
+  {
+    "slug": "giap-cuong-no",
+    "name": "Giáp cuồng nộ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f1221bb1919f19d0ffd7aa3b9d521248583eb5022028c1.png",
+    "group": "Phòng thủ",
+    "tier": "Trung cấp",
+    "gold": 1900,
+    "stats": [
+      "+225 Giáp",
+      "+1200 Máu tối đa",
+      "+5% Tốc chạy"
+    ],
+    "passives": [
+      "Điên cuồng: Sau khi chịu sát thương, gia tăng 1% tốc chạy và sát thương gây ra thêm 2%, hiệu ứng có thể cộng dồn 5 lần, kéo dài 3 giây – Nội tại duy nhất"
+    ],
+    "searchKey": "giap cuong no"
+  },
+  {
+    "slug": "hercule-thinh-no",
+    "name": "Hercule thịnh nộ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconce863be5ae7f9884727b453959c033e159eebee5cca801.png",
+    "group": "Phòng thủ",
+    "tier": "Trung cấp",
+    "gold": 2000,
+    "stats": [
+      "+80 Công vật lý",
+      "+240 Giáp"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Cuồng Nộ: Khi máu của tướng xuống dưới 40%, tăng 20% hút máu (chỉ đánh gần) và tạo ra một lớp lá chắn 880 – 2000 trong 8 giây, 60 giây hồi chiêu."
+    ],
+    "searchKey": "hercule thinh no"
+  },
+  {
+    "slug": "giap-thong-kho",
+    "name": "Giáp thống khổ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1daf820a0922c35d2b4dfe54082d35f2583eb43c655ad1.png",
+    "group": "Phòng thủ",
+    "tier": "Trung cấp",
+    "gold": 1940,
+    "stats": [
+      "+300 Giáp",
+      "+1200 Máu tối đa"
+    ],
+    "passives": [
+      "Phản pháo: Phản lại 15% sát thương vật lý đã gánh chịu thành sát thương phép lên mục tiêu (sát thương chưa trải qua các cơ chế giảm trừ theo giáp) – Nội tại duy nhất"
+    ],
+    "searchKey": "giap thong kho"
+  },
+  {
+    "slug": "giap-hiep-si",
+    "name": "Giáp hiệp sĩ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8126b39e85bcfef53fad3131bafc2cd5583eb36918dac1.png",
+    "group": "Phòng thủ",
+    "tier": "Trung cấp",
+    "gold": 730,
+    "stats": [
+      "+210 Giáp"
+    ],
+    "passives": [
+      "Lính gác: Nếu tướng chịu sát thương, giảm 15% tốc đánh của những đối thủ đã ra đòn đánh – Nội tại duy nhất"
+    ],
+    "searchKey": "giap hiep si"
+  },
+  {
+    "slug": "gang-bach-kim",
+    "name": "Găng bạch kim",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f38b144529e66db02a901c175847440b583eb3271e7d01.png",
+    "group": "Phòng thủ",
+    "tier": "Trung cấp",
+    "gold": 660,
+    "stats": [
+      "+10% giảm hồi chiêu",
+      "+110 Giáp"
+    ],
+    "passives": [],
+    "searchKey": "gang bach kim"
+  },
+  {
+    "slug": "dai-khang-phep",
+    "name": "Đai kháng phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/72ed5eddefd9d571f0db1fc9527d2f22583eb2fa338c81.png",
+    "group": "Phòng thủ",
+    "tier": "Trung cấp",
+    "gold": 1000,
+    "stats": [
+      "+700 Máu tối đa",
+      "+110 Giáp phép"
+    ],
+    "passives": [
+      "Hồi phục: Nếu chịu sát thương, tướng sẽ hồi 4% máu tối đa trong 2 giây; 15 giây hồi chiêu – Nội tại duy nhất"
+    ],
+    "searchKey": "dai khang phep"
+  },
+  {
+    "slug": "tim-incubus",
+    "name": "Tim Incubus",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d0d241f0a2a236806b000ff5241f9802583eb2a658eed1.png",
+    "group": "Phòng thủ",
+    "tier": "Trung cấp",
+    "gold": 720,
+    "stats": [
+      "+150 Giáp"
+    ],
+    "passives": [
+      "Hỏa diệm: Gây 50 – 78 sát thương phép mỗi giây lên những kẻ địch cạnh bên (tăng 50% sát thương lên quái và lính) – Nội tại duy nhất"
+    ],
+    "searchKey": "tim incubus"
+  },
+  {
+    "slug": "giap-chan",
+    "name": "Giáp chân",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b776c4c957f4e6f1e947e06686743a8c583eb243203f71.png",
+    "group": "Phòng thủ",
+    "tier": "Trung cấp",
+    "gold": 900,
+    "stats": [
+      "+1000 Máu tối đa"
+    ],
+    "passives": [],
+    "searchKey": "giap chan"
+  },
+  {
+    "slug": "day-chuyen-hong-ngoc",
+    "name": "Dây chuyền hồng ngọc",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconc297c6ca61d3e8715eea595918f2b1d15ef49a36db0c01.png",
+    "group": "Phòng thủ",
+    "tier": "Cơ bản",
+    "gold": 540,
+    "stats": [
+      "+600 Máu tối đa"
+    ],
+    "passives": [],
+    "searchKey": "day chuyen hong ngoc"
+  },
+  {
+    "slug": "bua-suc-manh",
+    "name": "Bùa sức mạnh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon9b4b623c7f5f3db68735401591039e6e59eec0dfee3aa1.png",
+    "group": "Phòng thủ",
+    "tier": "Cơ bản",
+    "gold": 140,
+    "stats": [
+      "+30 Hồi máu/5s"
+    ],
+    "passives": [],
+    "searchKey": "bua suc manh"
+  },
+  {
+    "slug": "gang-giac-dau",
+    "name": "Găng giác đấu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon60c31461246a65b82f647310a13cc35b5ef41468c818d1.png",
+    "group": "Phòng thủ",
+    "tier": "Cơ bản",
+    "gold": 220,
+    "stats": [
+      "+90 Giáp phép"
+    ],
+    "passives": [],
+    "searchKey": "gang giac dau"
+  },
+  {
+    "slug": "giap-nhe",
+    "name": "Giáp nhẹ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1e01e847498a4e8ac12a56b22189783d583eb1929d05a1.png",
+    "group": "Phòng thủ",
+    "tier": "Cơ bản",
+    "gold": 220,
+    "stats": [
+      "+ 90 Giáp"
+    ],
+    "passives": [],
+    "searchKey": "giap nhe"
+  },
+  {
+    "slug": "nhan-hong-ngoc",
+    "name": "Nhẫn hồng ngọc",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon84752d478c1737c85f2eb77a063cb11a5ef4145c956231.png",
+    "group": "Phòng thủ",
+    "tier": "Cơ bản",
+    "gold": 300,
+    "stats": [
+      "+300 Máu tối đa"
+    ],
+    "passives": [],
+    "searchKey": "nhan hong ngoc"
+  },
+  {
+    "slug": "xuyen-tam-lenh",
+    "name": "Xuyên tâm lệnh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a93be23a737e4619fa8539820f25a8725e453576be69c1.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 1980,
+    "stats": [
+      "+140 Công phép",
+      "+500 Máu tối đa"
+    ],
+    "passives": [
+      "Nội tại – Oán chú: Tung chiêu trúng kẻ địch sẽ giảm 10% công phép và 100 giáp phép của mục tiêu, kéo dài 3 giây."
+    ],
+    "searchKey": "xuyen tam lenh"
+  },
+  {
+    "slug": "bang-nhan-skadi",
+    "name": "Băng nhẫn Skadi",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ff28203912b57f6855013cad060d0f8f5e45355793b4d1.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 2100,
+    "stats": [
+      "+140 Công phép",
+      "+ 600 Máu tối đa",
+      "+5% Giảm Hồi chiêu"
+    ],
+    "passives": [
+      "Giáp băng: Nhận (+50% công phép) giáp, giáp phép, nhưng không vượt quá 230 điểm – Nội tại Duy nhất"
+    ],
+    "searchKey": "bang nhan skadi"
+  },
+  {
+    "slug": "qua-cau-bang-suong",
+    "name": "Quả cầu băng sương",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconf30f58d64f6de018d472a24497b8e8475ef414dc8c8931.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 2200,
+    "stats": [
+      "+220 Công phép",
+      "+ 12% Hút máu phép",
+      "Phong ấn: Trở thành bất khả xâm phạm và bất động trong 1.5 giây; Sau khi kết thúc sẽ nhận 1 lá chắn giúp chặn 500 (+ mỗi cấp*40) (+50% công phép) trong 1 giây. 75 giây hồi chiêu – Kích hoạt Duy nhất"
+    ],
+    "passives": [],
+    "searchKey": "qua cau bang suong"
+  },
+  {
+    "slug": "mat-na-berith",
+    "name": "Mặt nạ Berith",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/722dfa95e17bc0ae4fca1370b39db24e583eb4a552d901.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 1800,
+    "stats": [
+      "+140 Công phép",
+      "+10% Giảm hồi chiêu",
+      "+600 Máu tối đa",
+      "Thống khổ: Chiêu thức trúng đích khiến kẻ địch chịu 80 (2% máu hiện tại mục tiêu ) thành sát thương phép mỗi giây trong 3 giây. (Sát thương tối đa lên Quái rừng: 200)"
+    ],
+    "passives": [],
+    "searchKey": "mat na berith"
+  },
+  {
+    "slug": "truong-bang",
+    "name": "Trượng băng",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/18a94ba7877043520ad478e08bc4b0bc583eb43f03b4d1.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 2020,
+    "stats": [
+      "+140 Công phép",
+      "+850 Máu tối đa",
+      "+5% Tốc chạy"
+    ],
+    "passives": [
+      "Giá băng: Chiêu thức gây sát thương đồng thời làm chậm 20% Tốc chạy của đối thủ trong 2 giây – Nội tại duy nhất"
+    ],
+    "searchKey": "truong bang"
+  },
+  {
+    "slug": "thap-tu-kiem",
+    "name": "Thập Tự Kiếm",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icona69219340114945bffc9ee0648b76df659eebed145bd21.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+180 Công phép",
+      "+20% Tốc đánh",
+      "+5% Tốc chạy"
+    ],
+    "passives": [
+      "Cấp nhận: Đòn đánh thường kế tiếp tăng 15% tốc đánh cộng thêm trong 4 giây; cộng dồn 2 lần – Nội tại Duy nhất",
+      "Thánh quang: Đòn đánh thường gây 40 (+20% công phép thêm) sát thương phép – Nội tại duy nhất (hồi chiêu: 0.35 giây)"
+    ],
+    "searchKey": "thap tu kiem"
+  },
+  {
+    "slug": "quyen-truong-rhea",
+    "name": "Quyền trượng Rhea",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2eabc8620f02b21582e3b88ea1f95f40583eb3ad4c2941.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 2050,
+    "stats": [
+      "+160 Công phép",
+      "+800 Máu tối đa",
+      "+25% Hút máu phép"
+    ],
+    "passives": [
+      "Nội tại – Chuyển hóa: Mỗi 2% hút máu phép chuyển thành 1% giảm hồi chiêu"
+    ],
+    "searchKey": "quyen truong rhea"
+  },
+  {
+    "slug": "ngoc-dai-phap-su",
+    "name": "Ngọc đại pháp sư",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5e2bc1f8eb06b085df149928bb6db37f583eb34e349451.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 1800,
+    "stats": [
+      "+140 Công phép",
+      "+10% Giảm hồi chiêu"
+    ],
+    "passives": [
+      "Trường tồn: Mỗi 30 giây nhận thêm 12 Công phép, và 120 Máu. Hiệu ứng cộng dồn tối đa 10 lần – Nội tại duy nhất",
+      "Tưởng thưởng anh hùng: Khi tướng lên cấp, hồi phục 20% Máu và 10% Năng lượng trong 3 giây  – Nội tại duy nhất"
+    ],
+    "searchKey": "ngoc dai phap su"
+  },
+  {
+    "slug": "vuong-mien-hecate",
+    "name": "Vương miện Hecate",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/29845a83cf9ddd3d17e0fcd07aabe61e583eb2e7b1a651.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 2400,
+    "stats": [
+      "+240 Công phép"
+    ],
+    "passives": [
+      "Thuật sư: +35% Công phép – Nội tại duy nhất"
+    ],
+    "searchKey": "vuong mien hecate"
+  },
+  {
+    "slug": "truong-bung-no",
+    "name": "Trượng bùng nổ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3cdbf8caaf2dc260fd962f5d31c074c5583eb2abdcb021.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 1800,
+    "stats": [
+      "+200 Công phép",
+      "+5% Tốc chạy"
+    ],
+    "passives": [
+      "Vang vọng: Tạo nên một vùng nổ nhỏ gây 120 (+40% công phép thêm) sát thương phép xung quanh mục tiêu bị trúng chiêu, 5 giây hồi chiêu – Nội tại duy nhất"
+    ],
+    "searchKey": "truong bung no"
+  },
+  {
+    "slug": "sach-thanh",
+    "name": "Sách thánh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13b087b42ee35a7138a782d260cff7c9583eb099e321d1.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 2610,
+    "stats": [
+      "+350 Công phép",
+      "+10% Giảm hồi chiêu"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Pháp thể: Mỗi 100 công phép tăng 0.5% sát thương gây ra và 0.5% tỷ lệ miễn thương."
+    ],
+    "searchKey": "sach thanh"
+  },
+  {
+    "slug": "guom-hien-triet",
+    "name": "Gươm hiền triết",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a9f9ae5e132e65a1711d6c59bb616dff583eb0417f88d1.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 2100,
+    "stats": [
+      "+140 Công phép",
+      "+600 Máu tối đa",
+      "+10% Giảm hồi chiêu"
+    ],
+    "passives": [
+      "Diệt thần: Tung chiêu hoặc đánh thường trúng tướng địch sẽ cộng dồn 10 – 24 xuyên giáp phép, tối đa cộng dồn 10 lần, kéo dài 3 giây – Nội tại duy nhất"
+    ],
+    "searchKey": "guom hien triet"
+  },
+  {
+    "slug": "guom-tan-the",
+    "name": "Gươm tận thế",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fae96e865899f2e3e2cda185b58aee12583eafaae4a281.png",
+    "group": "Phép thuật",
+    "tier": "Cao cấp",
+    "gold": 1800,
+    "stats": [
+      "+180 Công phép",
+      "+10% Giảm hồi chiêu",
+      "+5% tốc chạy"
+    ],
+    "passives": [
+      "Sức mạnh nguyên tố: Sau khi tung chiêu, đòn đánh kế tiếp gây thêm (30% công vật lý+80% công phép) sát thương phép, 2 giây hồi chiêu – Nội tại duy nhất"
+    ],
+    "searchKey": "guom tan the"
+  },
+  {
+    "slug": "sach-truy-hon",
+    "name": "Sách Truy Hồn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c9420fcfd346612dd10cfc7cc3ca9b575965da11b6b361.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 1900,
+    "stats": [
+      "+140 Công phép",
+      "+600 Máu tối đa",
+      "+ 10% Giảm hồi chiêu"
+    ],
+    "passives": [
+      "Tróc nã: Đòn đánh thường/tung chiêu gây sát thương sẽ khiến mục tiêu bị giảm 40% hiệu quả hồi máu, kéo dài trong 3 giây  – Nội tại duy nhất"
+    ],
+    "searchKey": "sach truy hon"
+  },
+  {
+    "slug": "day-chuyen-luc-bao",
+    "name": "Dây chuyền lục bảo",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon8103b0d6e1a14ff19e46c13910e854115976f9749f2ac1.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 1800,
+    "stats": [
+      "+160 Công phép",
+      "+15% Giảm hồi chiêu",
+      "+ 25 Hồi năng lượng/5s"
+    ],
+    "passives": [
+      "Hiền giả: Mỗi giây hồi 1% năng lượng – Nội tại duy nhất"
+    ],
+    "searchKey": "day chuyen luc bao"
+  },
+  {
+    "slug": "truong-hon-mang",
+    "name": "Trượng hỗn mang",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconb1d589bb71a28a6cb2c3f9f5bbb2e5a05976f9dd872e81.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 2050,
+    "stats": [
+      "+180 Công phép",
+      "+10% Giảm hồi chiêu",
+      "+40% Xuyên giáp phép"
+    ],
+    "passives": [
+      "Nội tại duy nhất"
+    ],
+    "searchKey": "truong hon mang"
+  },
+  {
+    "slug": "huyet-truong",
+    "name": "Huyết trượng",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d9e5acef68f2f58e65fbb98a8be457ff583eb23412f3a1.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 800,
+    "stats": [
+      "+80 Công phép",
+      "+12% Hút máu phép"
+    ],
+    "passives": [],
+    "searchKey": "huyet truong"
+  },
+  {
+    "slug": "vong-duc-hanh",
+    "name": "Vòng đức hạnh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/87e8108995142053f4c9404279233a20583eb207e77931.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 720,
+    "stats": [
+      "+60 Công phép",
+      "+20 Hồi năng lượng/5s",
+      "+5% Giảm hồi chiêu"
+    ],
+    "passives": [],
+    "searchKey": "vong duc hanh"
+  },
+  {
+    "slug": "phuong-hoang-le",
+    "name": "Phượng hoàng lệ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16bdc639fcd2451b890a545c4b09f6e1583eb1c5c672e1.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 500,
+    "stats": [
+      "+50 Công phép"
+    ],
+    "passives": [
+      "Tưởng thưởng anh hùng: Khi tướng lên cấp, hồi phục 20% Máu và 10% Năng lượng trong 3 giây  – Nội tại duy nhất"
+    ],
+    "searchKey": "phuong hoang le"
+  },
+  {
+    "slug": "mat-na-ma-quai",
+    "name": "Mặt nạ ma quái",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/77650eb45ea686167327f9128590dc53583eb194634c31.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 960,
+    "stats": [
+      "+100 Công phép"
+    ],
+    "passives": [
+      "Diệt thần: +75 Xuyên giáp phép – Nội tại Duy nhất"
+    ],
+    "searchKey": "mat na ma quai"
+  },
+  {
+    "slug": "guom-nguyen-to",
+    "name": "Gươm nguyên tố",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/73bcd25e5a2f1139dec8c7b09c8b8650583eb15c7cce91.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 820,
+    "stats": [
+      "+ 40 Công phép",
+      "+10% Giảm hồi chiêu"
+    ],
+    "passives": [
+      "Sức mạnh nguyên tố: Sau khi tung chiêu, đòn đánh thường tiếp theo của tướng gây thêm (30% công vật lý+18% công phép) sát thương phép, 3 giây hồi chiêu – Nội tại duy nhất"
+    ],
+    "searchKey": "guom nguyen to"
+  },
+  {
+    "slug": "so-ma-thuat",
+    "name": "Sớ ma thuật",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/585ee3fa8a1f94fd26d8e0336e534609583eb11f66eac1.png",
+    "group": "Phép thuật",
+    "tier": "Trung cấp",
+    "gold": 820,
+    "stats": [
+      "+120 Công phép"
+    ],
+    "passives": [],
+    "searchKey": "so ma thuat"
+  },
+  {
+    "slug": "nhan-ma-phap",
+    "name": "Nhẫn ma pháp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/447da6386d8e761eea825726bd9bf224583eb1046a87b1.png",
+    "group": "Phép thuật",
+    "tier": "Cơ bản",
+    "gold": 300,
+    "stats": [
+      "+5% giảm hồi chiêu"
+    ],
+    "passives": [
+      "Nội tại duy nhất"
+    ],
+    "searchKey": "nhan ma phap"
+  },
+  {
+    "slug": "sach-co",
+    "name": "Sách cổ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a1f23877567b4d9b450624aa7b6a99f9583eb0df82d641.png",
+    "group": "Phép thuật",
+    "tier": "Cơ bản",
+    "gold": 540,
+    "stats": [
+      "+80 Công phép"
+    ],
+    "passives": [],
+    "searchKey": "sach co"
+  },
+  {
+    "slug": "day-chuyen-ma-thuat",
+    "name": "Dây chuyền ma thuật",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon43d3c483d428cf8f1e7a4b03fff7356b5ef4143e8db341.png",
+    "group": "Phép thuật",
+    "tier": "Cơ bản",
+    "gold": 120,
+    "stats": [
+      "+10 Hồi năng lượng/5s"
+    ],
+    "passives": [],
+    "searchKey": "day chuyen ma thuat"
+  },
+  {
+    "slug": "nhan-lapis",
+    "name": "Nhẫn Lapis",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icona33a692bf196ac687212c8bd472e4a655ef4142a343721.png",
+    "group": "Phép thuật",
+    "tier": "Cơ bản",
+    "gold": 220,
+    "stats": [
+      "+300 Năng lượng tối đa"
+    ],
+    "passives": [],
+    "searchKey": "nhan lapis"
+  },
+  {
+    "slug": "sach-phep",
+    "name": "Sách phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1108678613455e7b64ca9507065db8d5583eb07ed42e91.png",
+    "group": "Phép thuật",
+    "tier": "Cơ bản",
+    "gold": 300,
+    "stats": [
+      "+40 Công phép"
+    ],
+    "passives": [],
+    "searchKey": "sach phep"
+  },
+  {
+    "slug": "cung-bao-to",
+    "name": "Cung Bão Tố",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8f835e52d8078207bb955bc2657867ba5ac48dd56f1791.png",
+    "group": "Đi rừng",
+    "tier": "Cao cấp",
+    "gold": 2000,
+    "stats": [
+      "+30% Tốc đánh",
+      "+15% Hút máu",
+      "+7% Tốc chạy"
+    ],
+    "passives": [
+      "Lốc xoáy: Mỗi đòn đánh thường tích một điểm cộng dồn hiệu ứng lên nạn nhân, thứ sẽ gây thêm 15 – 19 sát thương phép; tối đa cộng dồn hiệu ứng 6 lần – Nội tại duy nhất. Hồi chiêu 0.3 giây.",
+      "Lùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 0.8% tốc đánh và 0.2% hút máu, tối đa cộng dồn 25 lần – Nội tại duy nhất.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)",
+      "Săn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất"
+    ],
+    "searchKey": "cung bao to"
+  },
+  {
+    "slug": "kiem-truy-hon",
+    "name": "Kiếm truy hồn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/962f75587871dfe385b2eed0071fd80f5875efc662a801.png",
+    "group": "Đi rừng",
+    "tier": "Cao cấp",
+    "gold": 2000,
+    "stats": [
+      "+90 Công vật lý",
+      "+5% Giảm hồi chiêu",
+      "+8% Tốc chạy",
+      "Nhận hiệu ứng tê tái"
+    ],
+    "passives": [
+      "Săn bắt: Đòn đánh thường hoặc chiêu sẽ gây thêm 60-172 sát thương chuẩn lên quái rừng mỗi 0.5s, kéo dài 2s. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất.",
+      "Xuyến chắn: +60 xuyên giáp – Nội tại duy nhất",
+      "Lùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 2 công vật lý và 0.2% giảm hồi chiêu, tối đa cộng dồn 25 lần – Nội tại duy nhất.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)"
+    ],
+    "searchKey": "kiem truy hon"
+  },
+  {
+    "slug": "riu-leviathan",
+    "name": "Rìu Leviathan",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5cbcea0c03cb8fbcffef6706943b59095875ef42bc1b91.png",
+    "group": "Đi rừng",
+    "tier": "Cao cấp",
+    "gold": 2000,
+    "stats": [
+      "+1200 Máu tối đa",
+      "+5% Giảm hồi chiêu",
+      "+6% Tốc cháy",
+      "Nhận hiệu ứng tê tái"
+    ],
+    "passives": [
+      "Hỏa diệm: Gây 2% máu tối đa thành sát thương phép mỗi giây lên những kẻ địch cạnh bên (tăng 100% sát thương lên quái) – Nội tại duy nhất",
+      "Lùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 0.8% tốc đánh và 0.2% hút máu, tối đa cộng dồn 25 lần – Nội tại duy nhất.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)",
+      "Săn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất"
+    ],
+    "searchKey": "riu leviathan"
+  },
+  {
+    "slug": "guom-loki",
+    "name": "Gươm Loki",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e0c0df64d8c799425e512a41035121625875eeb337a461.png",
+    "group": "Đi rừng",
+    "tier": "Cao cấp",
+    "gold": 2000,
+    "stats": [
+      "+150 Công phép",
+      "+5% Giảm hồi chiêu",
+      "+7% Tốc chạy",
+      "Nhận hiệu ứng tê tái",
+      "Sức mạnh nguyên tố: Sau khi tung chiêu, đòn đánh thường tiếp theo gây thêm (35% công vật lý+50% công phép) sát thương phép; 2 giây hồi chiêu."
+    ],
+    "passives": [
+      "Lùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 0.8% tốc đánh và 0.2% hút máu, tối đa cộng dồn 25 lần – Nội tại duy nhất.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)",
+      "Săn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất"
+    ],
+    "searchKey": "guom loki"
+  },
+  {
+    "slug": "cung-gio-loc",
+    "name": "Cung Gió Lốc",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3e4d4da0fbaef18cc27b280233abd8585ac48ccdb8a361.png",
+    "group": "Đi rừng",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+12% Tốc đánh",
+      "Nhận hiệu ứng tê tái"
+    ],
+    "passives": [
+      "Lùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 0.8% tốc đánh và 0.2% hút máu, tối đa cộng dồn 15 lần – Nội tại duy nhất.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)",
+      "Săn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất"
+    ],
+    "searchKey": "cung gio loc"
+  },
+  {
+    "slug": "dao-truy-kich",
+    "name": "Đao truy kích",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/65a0e3833daa8a27a33a72e7e4e7494e5875ed8cb51931.png",
+    "group": "Đi rừng",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+25 Công vật lý",
+      "Nhận hiệu ứng tê tái"
+    ],
+    "passives": [
+      "Lùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 2 công vật lý và 0.2% giảm hồi chiêu, tối đa cộng dồn 15 lần – Nội tại duy nhất.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)",
+      "Săn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất"
+    ],
+    "searchKey": "dao truy kich"
+  },
+  {
+    "slug": "riu-gnoll",
+    "name": "Rìu Gnoll",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/059cb0940752f504cfa9c07a88362cf45875ed3ea79971.png",
+    "group": "Đi rừng",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+400 Máu tối đa",
+      "Nhận hiệu ứng tê tái"
+    ],
+    "passives": [
+      "Hỏa diệm: Gây 50 – 78 sát thương phép mỗi giây lên những kẻ địch cạnh bên (tăng 100% sát thương lên quái và lính) – Nội tại duy nhất",
+      "Lùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 25 máu tối đa và 0.2% giảm hồi chiêu, tối đa cộng dồn 15 lần – Nội tại duy nhất.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)",
+      "Săn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất"
+    ],
+    "searchKey": "riu gnoll"
+  },
+  {
+    "slug": "guom-hien-te",
+    "name": "Gươm hiến tế",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13ecad971cf548f39cbf6d46243665725875ecda3ef671.png",
+    "group": "Đi rừng",
+    "tier": "Trung cấp",
+    "gold": 700,
+    "stats": [
+      "+40 Công phép",
+      "Nhận hiệu ứng tê tái"
+    ],
+    "passives": [
+      "Lùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 4 công phép và 0.2% giảm hồi chiêu, tối đa cộng dồn 15 lần – Nội tại duy nhất.",
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)",
+      "Săn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất"
+    ],
+    "searchKey": "guom hien te"
+  },
+  {
+    "slug": "rua-tho-san",
+    "name": "Rựa thợ săn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconfaba84adb480e565d9815a2b898bb8995bcd9218e940c1.jpg",
+    "group": "Đi rừng",
+    "tier": "Cơ bản",
+    "gold": 250,
+    "stats": [
+      "Khi trang bị đi rừng được nâng cấp, Trừng trị sẽ trở thành Tê Cóng. Tê Cóng có thể vừa gây sát thương vừa làm chậm tốc chạy của tướng địch."
+    ],
+    "passives": [
+      "Nội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)",
+      "Thợ săn: Hạ quái rừng giúp tăng 20% EXP. Đòn đánh thường/chiêu trúng đích sẽ gây 50-120 ST chuẩn lên quái rừng mỗi 0.5s, kéo dài 2s – Nội tại duy nhất"
+    ],
+    "searchKey": "rua tho san"
+  },
+  {
+    "slug": "xa-nhat-cung",
+    "name": "Xạ Nhật Cung",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon6bc7c27ebfd950b0fe16493db552c983658d55e7787b81.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2000,
+    "stats": [
+      "+30% Tốc đánh",
+      "+10% Tỷ lệ chí mạng",
+      "+ 5% Tốc chạy",
+      "Xạ Nhật: Tăng phạm vi tầm bắn của đòn đánh thường thêm 150 và 20% tốc chạy trong 5 giây (chỉ có tác dụng với tướng đánh xa). Thời gian hồi chiêu: 60 giây – Kích hoạt duy nhất"
+    ],
+    "passives": [
+      "Ngắm Chuẩn: Đòn đánh thường gây thêm 50 sát thương vật lý (tăng gấp đôi với tướng đánh xa, hồi chiêu: 0,35 giây) – Nội tại duy nhất"
+    ],
+    "searchKey": "xa nhat cung"
+  },
+  {
+    "slug": "thuong-xuyen-pha",
+    "name": "Thương Xuyên Phá",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b3d3556b6bd3eaf5e90b966647b6d8a75976bb54845d91.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 1900,
+    "stats": [
+      "+110 Công vật lý"
+    ],
+    "passives": [
+      "Khinh công: Rời khỏi trạng thái giao tranh giúp tăng 10% Tốc chạy – Nội tại duy nhất",
+      "Nghiền ép: Tăng 40 – 180 chỉ số xuyên giáp – Nội tại duy nhất"
+    ],
+    "searchKey": "thuong xuyen pha"
+  },
+  {
+    "slug": "vuot-hung-tan",
+    "name": "Vuốt Hung Tàn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c65bf282a71890970ac6880b773460945965d91139a151.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 1960,
+    "stats": [
+      "+30% Tốc đánh",
+      "+20% Tỷ lệ chí mạng",
+      "+5% Tốc chạy"
+    ],
+    "passives": [
+      "Hung bạo: Các đòn đánh thường trúng đích giúp tăng tốc đánh thêm 10%, kéo dài 2 giây, cộng dồn tối đa 5 lần – Nội tại duy nhất"
+    ],
+    "searchKey": "vuot hung tan"
+  },
+  {
+    "slug": "cung-ta-ma",
+    "name": "Cung tà ma",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconcaa38dc0fdd84ce09ed77e83e1cfb2eb5ef414c91c8131.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2250,
+    "stats": [
+      "+90 Công vật lý",
+      "+10% Hút máu",
+      "+10% Tỷ lệ chí mạng",
+      "Hấp huyết: tăng 60% hút máu trong 3 giây; 60 giây hồi chiêu (chỉ hữu hiệu với tướng đánh xa) – Kích hoạt duy nhất"
+    ],
+    "passives": [],
+    "searchKey": "cung ta ma"
+  },
+  {
+    "slug": "thuong-khung-kiem",
+    "name": "Thương khung kiếm",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6db8867b63ea27f159d706fc6a85783e658d54fc54c591.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2120,
+    "stats": [
+      "+100 Công vật lý",
+      "+10% Giảm hồi chiêu",
+      "+ 500 Máu tối đa",
+      "Bất khuất: Nhận 40% miễn thương trong 2 giây, có thể dùng khi bị khống chế. Thời gian hồi chiêu: 90 giây – Kích hoạt duy nhất"
+    ],
+    "passives": [
+      "Trì trệ: Tung chiêu trúng sẽ làm chậm tướng địch đầu tiên 30% và giảm 20% sát thương hắn gây ra trong 3 giây. Thời gian hồi chiêu: 8 giây – Nội tại duy nhất"
+    ],
+    "searchKey": "thuong khung kiem"
+  },
+  {
+    "slug": "nanh-fenrir",
+    "name": "Nanh Fenrir",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7ccbeb5a9d92d6616b38fb9f8a6d697f583eb0099ad9e1.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2800,
+    "stats": [
+      "+180 công vật lý",
+      "+5% giảm hồi chiêu"
+    ],
+    "passives": [
+      "Chinh Phạt: Khi máu của mục tiêu xuống dưới 50% sẽ chịu thêm 30% sát thương – Nội tại duy nhất"
+    ],
+    "searchKey": "nanh fenrir"
+  },
+  {
+    "slug": "song-dao-bao-tap",
+    "name": "Song đao bão táp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/42d4233ea5d7ed2db0af6ae09c5686d9583eafd6a6f201.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 1920,
+    "stats": [
+      "+35% Tốc đánh",
+      "+25% Tỷ lệ chí mạng",
+      "+7% Tốc chạy"
+    ],
+    "passives": [
+      "Cuồng phong: Tăng 35% Kháng hiệu ứng trong 2 giây sau khi đánh chí mạng – Nội tại duy nhất (kháng hiệu ứng là giảm thời gian chịu các loại khống chế)"
+    ],
+    "searchKey": "song dao bao tap"
+  },
+  {
+    "slug": "guom-sam-set",
+    "name": "Gươm sấm sét",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f2ae054a4509ca5bfbf6c1246d6a0e7d583eaf9d711da1.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 1840,
+    "stats": [
+      "+35% Tốc đánh",
+      "+8% Tốc chạy"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Chớp giật: Đòn đánh thường gây thêm 45-87 sát thương phép. Mỗi 3 đòn đánh thường sẽ phóng ra một chùm sét gây 150-430 sát thương phép lên 1 mục tiêu và lan ra các mục tiêu khác trong phạm vi. Nội tại duy nhất (Hồi chiêu: 0.3s)."
+    ],
+    "searchKey": "guom sam set"
+  },
+  {
+    "slug": "phuc-hop-kiem",
+    "name": "Phức hợp kiếm",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2ed0a1b9762b0eaed6ef8c26f69fabb0583eaf5e888731.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2150,
+    "stats": [
+      "+70 Công vật lý",
+      "+15% Tốc đánh",
+      "+10% Giảm hồi chiêu",
+      "+600 Máu tối đa"
+    ],
+    "passives": [
+      "Cuồng bạo: Đòn đánh thường tăng 10% Tốc chạy – Nội tại duy nhất",
+      "Sức mạnh nguyên tố: Trong vòng 5 giây sau khi tung chiêu, đòn đánh thường tiếp theo của tướng gây thêm 100% công vật lý sát thương vật lý, 2 giây hồi chiêu – Nội tại duy nhất"
+    ],
+    "searchKey": "phuc hop kiem"
+  },
+  {
+    "slug": "quy-kiem",
+    "name": "Quỷ Kiếm",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/dac326474d6d7eb4b8f77074edb8b8cf583eaefc61eff1.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 1800,
+    "stats": [
+      "+100 Công vật lý",
+      "+25% Hút máu",
+      "+600 Máu tối đa"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Huyết yến: Khi máu bản thân dưới 30%, trong 5 giây sẽ hồi tổng cộng 400 – 610 máu. Thời gian hồi chiêu: 20 giây."
+    ],
+    "searchKey": "quy kiem"
+  },
+  {
+    "slug": "kiem-muramasa",
+    "name": "Kiếm Muramasa",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icone607457dda37172782dc9180e3cd036a59eebe79887cd1.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2020,
+    "stats": [
+      "+80 Công vật lý",
+      "+10% Giảm hồi chiêu",
+      "+500 Máu tối đa"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Xuyên thấu: +35% xuyên giáp"
+    ],
+    "searchKey": "kiem muramasa"
+  },
+  {
+    "slug": "thanh-kiem",
+    "name": "Thánh kiếm",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon48a62735ee508f6a920e823fafd9b21159eebea8e613f1.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2120,
+    "stats": [
+      "+100 Công vật lý",
+      "+25% Tỷ lệ chí mạng"
+    ],
+    "passives": [
+      "Nội tại Duy nhất",
+      "Thánh kiếm: Sau khi đánh chí mạng giúp tăng (3 – 45) tốc chạy trong 1.5 giây (chỉ hữu hiệu khi dùng bởi tướng đánh xa) – Nội tại duy nhất",
+      "Sát thương chí mạng tăng 40% – Nội tại duy nhất"
+    ],
+    "searchKey": "thanh kiem"
+  },
+  {
+    "slug": "kiem-fafnir",
+    "name": "Kiếm Fafnir",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/96fd7b63339a3f0e510781f375eb356d583ead06b76221.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2040,
+    "stats": [
+      "+60 Công vật lý",
+      "+30% Tốc đánh",
+      "+10% Hút máu"
+    ],
+    "passives": [
+      "Hơi thở rồng: Đòn đánh thường gây thêm sát thương vật lý tương đương 8% Máu hiện tại của mục tiêu. Hồi chiêu 0.3 giây – tối đa 80 lên quái rừng – Nội tại duy nhất"
+    ],
+    "searchKey": "kiem fafnir"
+  },
+  {
+    "slug": "thuong-longinus",
+    "name": "Thương Longinus",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e31c3c90f650c04ebdb29ea2ca200265583eacda186ed1.png",
+    "group": "Công vật lý",
+    "tier": "Cao cấp",
+    "gold": 2030,
+    "stats": [
+      "+80 Công vật lý",
+      "+15% Giảm hồi chiêu",
+      "+500 Máu tối đa",
+      "+60 Xuyên giáp – Phá giáp"
+    ],
+    "passives": [
+      "Nội tại duy nhất",
+      "Toái giáp: Gây sát thương sẽ trừ 6% Giáp của nạn nhân, cộng dồn lên đến 4 lần, kéo dài 5 giây (hồi chiêu 0.3 giây) – Nội tại duy nhất"
+    ],
+    "searchKey": "thuong longinus"
+  },
+  {
+    "slug": "dao-truy-hon",
+    "name": "Đao Truy Hồn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon39afcfcf7b6f28bebbf64b598f7f586b59f0056b0a4811.png",
+    "group": "Công vật lý",
+    "tier": "Trung cấp",
+    "gold": 1900,
+    "stats": [
+      "+80 Công vật lý",
+      "+ 800 Máu tối đa",
+      "+ 10% Giảm hồi chiêu"
+    ],
+    "passives": [
+      "Tróc nã: Đòn đánh thường/ tung chiêu gây sát thương sẽ khiến mục tiêu bị giảm 40% hiệu quả hồi máu, kéo dài 3 giây  – Nội tại duy nhất"
+    ],
+    "searchKey": "dao truy hon"
+  },
+  {
+    "slug": "liem-doat-menh",
+    "name": "Liềm Đoạt Mệnh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6e4830c854d7f71dd8ad51b25d9abffd5965d8cb4027d1.png",
+    "group": "Công vật lý",
+    "tier": "Trung cấp",
+    "gold": 2000,
+    "stats": [
+      "+75 Công vật lý",
+      "+15% Tốc đánh",
+      "+500 Máu tối đa"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Thần linh can thiệp: Miễn nhiễm sát thương chí tử và vô địch 0.75s đồng thời tăng 25% tốc chạy & 25% tốc đánh. Sau 4 phút mang theo, thời gian hiệu ứng vô địch sẽ kéo dài đến 1.5s, hồi chiêu 120s."
+    ],
+    "searchKey": "liem doat menh"
+  },
+  {
+    "slug": "guom-uriel",
+    "name": "Gươm Uriel",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icone8e8d84ac94fa585c3a9661cce80fbf159eebe5b292891.png",
+    "group": "Công vật lý",
+    "tier": "Trung cấp",
+    "gold": 2000,
+    "stats": [
+      "+80 Công vật lý",
+      "+25% Tốc đánh",
+      "+200 Giáp phép"
+    ],
+    "passives": [
+      "Nội tại duy nhất – Bảo hộ ma pháp: Khi máu tướng xuống dưới 40%, Phong Ấn Uriel giúp tăng lá chắn trong 5 giây giúp chặn 600 – 2000 sát thương phép, +25% kháng hiệu ứng, tăng 30% tốc chạy trong 5 giây, 75 giây hồi chiêu.",
+      "Nội tại duy nhất – Cuồng bạo: Đòn đánh thường tăng 10% tốc chạy."
+    ],
+    "searchKey": "guom uriel"
+  },
+  {
+    "slug": "phi-tieu",
+    "name": "Phi tiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2621c9b1fed23acd4be27b91dfa78e38583eac94287361.png",
+    "group": "Công vật lý",
+    "tier": "Trung cấp",
+    "gold": 750,
+    "stats": [
+      "+20% Tốc đánh"
+    ],
+    "passives": [
+      "Điểm yếu: Đòn đánh thường sẽ được tăng sát thương vật lý thêm 21 – 35 với tướng đánh gần hoặc 42 – 70 với tướng đánh xa – Nội tại duy nhất. Hồi chiêu 0.3 giây"
+    ],
+    "searchKey": "phi tieu"
+  },
+  {
+    "slug": "thuong-dau-si",
+    "name": "Thương đấu sĩ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/90f53ba831f13f5a01df70376b561701583eabc0c7d101.png",
+    "group": "Công vật lý",
+    "tier": "Trung cấp",
+    "gold": 830,
+    "stats": [
+      "+50 Công vật lý"
+    ],
+    "passives": [
+      "Phá giáp: +60 Xuyên giáp – Nội tại duy nhất"
+    ],
+    "searchKey": "thuong dau si"
+  },
+  {
+    "slug": "song-dao",
+    "name": "Song đao",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a1f25b14e89dff8b8512abda77f54c3c583eab9aa21001.png",
+    "group": "Công vật lý",
+    "tier": "Trung cấp",
+    "gold": 780,
+    "stats": [
+      "+25% Tốc đánh",
+      "+5% Tốc chạy"
+    ],
+    "passives": [],
+    "searchKey": "song dao"
+  },
+  {
+    "slug": "chuy-co",
+    "name": "Chùy cổ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/184d423b3a6e763b0238f31b0f9b28f5583eab794ea9b1.png",
+    "group": "Công vật lý",
+    "tier": "Trung cấp",
+    "gold": 740,
+    "stats": [
+      "+25 Công vật lý",
+      "+15% Tốc đánh"
+    ],
+    "passives": [
+      "Cuồng bạo: Đòn đánh thường tăng 10% Tốc chạy – Nội tại duy nhất"
+    ],
+    "searchKey": "chuy co"
+  },
+  {
+    "slug": "kiem-dai",
+    "name": "Kiếm dài",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/05beffe85dbc5379e596f4719db29918583eab4bd2b8b1.png",
+    "group": "Công vật lý",
+    "tier": "Cơ bản",
+    "gold": 910,
+    "stats": [
+      "+80 Công vật lý"
+    ],
+    "passives": [],
+    "searchKey": "kiem dai"
+  },
+  {
+    "slug": "chuy-xich",
+    "name": "Chùy xích",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a888ca6d4b74729819ffa78263621f7c583eab330ef401.png",
+    "group": "Công vật lý",
+    "tier": "Cơ bản",
+    "gold": 450,
+    "stats": [
+      "+40 Công vật lý"
+    ],
+    "passives": [],
+    "searchKey": "chuy xich"
+  },
+  {
+    "slug": "chuy-mau",
+    "name": "Chùy máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon3b486c0c20f8e67265b3ccd88aa0cc615ef413d98e41b1.png",
+    "group": "Công vật lý",
+    "tier": "Cơ bản",
+    "gold": 410,
+    "stats": [
+      "+10 Công vật lý",
+      "+8% Hút máu"
+    ],
+    "passives": [],
+    "searchKey": "chuy mau"
+  },
+  {
+    "slug": "gang-tay",
+    "name": "Găng tay",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconad6ef58a9c119afbe9fce74b3025b1c95ef413c1a087b1.png",
+    "group": "Công vật lý",
+    "tier": "Cơ bản",
+    "gold": 300,
+    "stats": [
+      "+8% Tỷ lệ chí mạng"
+    ],
+    "passives": [],
+    "searchKey": "gang tay"
+  },
+  {
+    "slug": "dao-gam",
+    "name": "Dao găm",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d0892f500e089e6e24d02a65ba5fe048583eaaa57aa961.png",
+    "group": "Công vật lý",
+    "tier": "Cơ bản",
+    "gold": 290,
+    "stats": [
+      "+10% Tốc đánh"
+    ],
+    "passives": [],
+    "searchKey": "dao gam"
+  },
+  {
+    "slug": "kiem-ngan",
+    "name": "Kiếm ngắn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon2e47616ebfaf6569b90f705b86600dc55ef41367e43541.png",
+    "group": "Công vật lý",
+    "tier": "Cơ bản",
+    "gold": 250,
+    "stats": [
+      "+20 Công vật lý"
+    ],
+    "passives": [],
+    "searchKey": "kiem ngan"
+  }
+]

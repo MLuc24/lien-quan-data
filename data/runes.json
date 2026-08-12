@@ -1,0 +1,1124 @@
+[
+  {
+    "slug": "xanh-ii-giap-phep",
+    "name": "Xanh II Giáp phép",
+    "rawName": "Xanh II Giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/985ceb215d7cfd963391472001d2e1735dbab2663c1391.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Giáp phép +5.6"
+    ],
+    "searchKey": "xanh ii giap phep"
+  },
+  {
+    "slug": "xanh-i-hoi-chieu",
+    "name": "Xanh I Hồi chiêu",
+    "rawName": "Xanh I Hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/386c2bec6d867442d6b871e86c6c31bd5dbbaed5b55d91.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [
+      "Giảm hồi chiêu +0.3%"
+    ],
+    "searchKey": "xanh i hoi chieu"
+  },
+  {
+    "slug": "xanh-ii-hoi-chieu",
+    "name": "Xanh II Hồi chiêu",
+    "rawName": "Xanh II Hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d5f5c6849fef95e195bd8a3873cf24d45dbab3191e9f11.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Giảm hồi chiêu +0.6%"
+    ],
+    "searchKey": "xanh ii hoi chieu"
+  },
+  {
+    "slug": "xanh-iii-giap-phep",
+    "name": "Xanh III Giáp phép",
+    "rawName": "Xanh III Giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/cb214db34a5200d9a9babc902dbdb0e75dbaa86803e9a1.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Giáp phép +9"
+    ],
+    "searchKey": "xanh iii giap phep"
+  },
+  {
+    "slug": "xanh-iii-giam-hoi-chieu",
+    "name": "Xanh III Giảm hồi chiêu",
+    "rawName": "Xanh III Giảm hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5521795176fd60028f7dd656d1f21f765dbaa958685601.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Giảm hồi chiêu +1%"
+    ],
+    "searchKey": "xanh iii giam hoi chieu"
+  },
+  {
+    "slug": "xanh-i-giap",
+    "name": "Xanh I Giáp",
+    "rawName": "Xanh I Giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8af725f3a91ccb58ec7776ffb26cc5135dbbae1697dd91.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [
+      "Giáp +2.7"
+    ],
+    "searchKey": "xanh i giap"
+  },
+  {
+    "slug": "xanh-ii-giap",
+    "name": "Xanh II Giáp",
+    "rawName": "Xanh II Giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9f5f238581db9d3fd895e5cb165d6e705dbab1fbbb7a31.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Giáp +5.6"
+    ],
+    "searchKey": "xanh ii giap"
+  },
+  {
+    "slug": "xanh-iii-giap",
+    "name": "Xanh III Giáp",
+    "rawName": "Xanh III Giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6b20648969855f29d43768fcc0c80e6b5dbaa81ec0b251.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Giáp +9"
+    ],
+    "searchKey": "xanh iii giap"
+  },
+  {
+    "slug": "xanh-i-giap-phep",
+    "name": "Xanh I Giáp phép",
+    "rawName": "Xanh I Giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fe9e851f7cc0cb1d5096b930564619bc5dbbae57c8f841.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [],
+    "searchKey": "xanh i giap phep"
+  },
+  {
+    "slug": "xanh-i-mau-hoi-chieu",
+    "name": "Xanh I Máu/Hồi chiêu",
+    "rawName": "Xanh I Máu/Hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/aa69137cc61718eb9c4573514c6c75005dbbae423f5851.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [],
+    "searchKey": "xanh i mau hoi chieu"
+  },
+  {
+    "slug": "xanh-i-giap-giap-phep-hoi-chieu",
+    "name": "Xanh I Giáp/Giáp phép/Hồi chiêu",
+    "rawName": "Xanh I Giáp/Giáp phép/Hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6988b8a5ba9df6f88775c84dfb3a3f855dbbaf0abb9971.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [
+      "Giáp +0.8",
+      "Giáp phép +0.8",
+      "Giảm hồi chiêu +0.2%"
+    ],
+    "searchKey": "xanh i giap giap phep hoi chieu"
+  },
+  {
+    "slug": "xanh-ii-giap-giap-phep-hoi-chieu",
+    "name": "Xanh II Giáp/Giáp phép/Hồi chiêu",
+    "rawName": "Xanh II Giáp/Giáp phép/Hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d0a527ff938b21e040bec205c62c44615dbab35b1f4a71.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Giáp +1.7",
+      "Giáp phép +1.7",
+      "Giảm hồi chiêu +0.4%"
+    ],
+    "searchKey": "xanh ii giap giap phep hoi chieu"
+  },
+  {
+    "slug": "xanh-iii-giap-giap-phep-hoi-chieu",
+    "name": "Xanh III Giáp/Giáp phép/Hồi chiêu",
+    "rawName": "Xanh III Giáp/Giáp phép/Hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b4428615b8a98fc4fdefbe2f0f53a5015dbaa976c21481.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Giáp +2.7",
+      "Giáp phép +2.7",
+      "Giảm hồi chiêu +0.6%"
+    ],
+    "searchKey": "xanh iii giap giap phep hoi chieu"
+  },
+  {
+    "slug": "xanh-iii-toc-danh-xuyen-giap-phep",
+    "name": "Xanh III Tốc đánh/Xuyên giáp phép",
+    "rawName": "Xanh III Tốc đánh/Xuyên giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1b320435df09ec65266cd98d0baf7c9b5dbaa94271e901.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Tốc đánh +0.6%",
+      "Xuyên giáp phép +6.4"
+    ],
+    "searchKey": "xanh iii toc danh xuyen giap phep"
+  },
+  {
+    "slug": "xanh-ii-toc-danh-xuyen-giap-phep",
+    "name": "Xanh II Tốc đánh/Xuyên giáp phép",
+    "rawName": "Xanh II Tốc đánh/Xuyên giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/64b65a13bc699f298500694f1324acb65dbab2f68adb21.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Xuyên giáp phép +4",
+      "Tốc đánh +0.4%"
+    ],
+    "searchKey": "xanh ii toc danh xuyen giap phep"
+  },
+  {
+    "slug": "xanh-i-cong-vat-ly-xuyen-giap",
+    "name": "Xanh I Công vật lý/Xuyên giáp",
+    "rawName": "Xanh I Công vật lý/Xuyên giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/03694dbaebf12d55cec4948c906a478e5dbbae939a8191.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [
+      "Công vật lý +0.3",
+      "Xuyên giáp +1.9"
+    ],
+    "searchKey": "xanh i cong vat ly xuyen giap"
+  },
+  {
+    "slug": "xanh-iii-cong-vat-ly-xuyen-giap",
+    "name": "Xanh III Công vật lý/Xuyên giáp",
+    "rawName": "Xanh III Công vật lý/Xuyên giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6da9d4a9710dd6767b2fb01946b034aa5dbaa92a495731.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Công vật lý +0.9",
+      "Xuyên giáp +6.4"
+    ],
+    "searchKey": "xanh iii cong vat ly xuyen giap"
+  },
+  {
+    "slug": "xanh-i-hut-phep-giap",
+    "name": "Xanh I Hút phép/Giáp",
+    "rawName": "Xanh I Hút phép/Giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e9e258be25648bfd647662edc46e3d465dbbaeeba6be91.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [
+      "Giáp +1.8",
+      "Hút máu phép +0.2%"
+    ],
+    "searchKey": "xanh i hut phep giap"
+  },
+  {
+    "slug": "xanh-ii-hut-phep-giap",
+    "name": "Xanh II Hút phép/Giáp",
+    "rawName": "Xanh II Hút phép/Giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/82fcfb5751450e0b606d3e61b67ab0af5dbab33969a2c1.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Giáp +3.7",
+      "Hút máu phép +0.4%"
+    ],
+    "searchKey": "xanh ii hut phep giap"
+  },
+  {
+    "slug": "xanh-ii-cong-vat-ly-xuyen-giap",
+    "name": "Xanh II Công vật lý/Xuyên giáp",
+    "rawName": "Xanh II Công vật lý/Xuyên giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/66cfc42d8ea34d60100e4501efcfa8a05dbab2c3b30381.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Công vật lý +0.6",
+      "Xuyên giáp +4"
+    ],
+    "searchKey": "xanh ii cong vat ly xuyen giap"
+  },
+  {
+    "slug": "xanh-iii-hut-mau-phep-giap",
+    "name": "Xanh III Hút máu phép/Giáp",
+    "rawName": "Xanh III Hút máu phép/Giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c3b7f78f7b25c68bd99b3ed153d5f0975dbaa966e12861.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Hút máu phép +0.7%",
+      "Giáp +5.9"
+    ],
+    "searchKey": "xanh iii hut mau phep giap"
+  },
+  {
+    "slug": "xanh-i-cong-phep-hoi-chieu",
+    "name": "Xanh I Công phép/Hồi chiêu",
+    "rawName": "Xanh I Công phép/Hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7b756949e4fb32ca76ac11c2da5f51645dbbae746d6a21.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [
+      "Công phép +0.7",
+      "Giảm hồi chiêu +0.2%"
+    ],
+    "searchKey": "xanh i cong phep hoi chieu"
+  },
+  {
+    "slug": "xanh-ii-cong-phep-hoi-chieu",
+    "name": "Xanh II Công phép/Hồi chiêu",
+    "rawName": "Xanh II Công phép/Hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/dc1170fed300e7da9fc97d9d7dc73d2f5dbab293008ac1.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Công phép +1.5",
+      "Giảm hồi chiêu +0.4%"
+    ],
+    "searchKey": "xanh ii cong phep hoi chieu"
+  },
+  {
+    "slug": "xanh-iii-cong-phep-giam-hoi-chieu",
+    "name": "Xanh III Công phép/Giảm hồi chiêu",
+    "rawName": "Xanh III Công phép/Giảm hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3a8c7879426abc487d4bb8f96972617f5dbaa88b65a2f1.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Công phép +2.4",
+      "Giảm hồi chiêu +0.7%"
+    ],
+    "searchKey": "xanh iii cong phep giam hoi chieu"
+  },
+  {
+    "slug": "xanh-i-toc-danh-xuyen-giap-phep",
+    "name": "Xanh I Tốc đánh/Xuyên giáp phép",
+    "rawName": "Xanh I Tốc đánh/Xuyên giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/67ada1a2e2475b7b2a408868fa400a785dbbaebaeef9a1.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [
+      "Xuyên giáp +1.9",
+      "Tốc đánh +0.2%"
+    ],
+    "searchKey": "xanh i toc danh xuyen giap phep"
+  },
+  {
+    "slug": "xanh-ii-mau-hoi-chieu",
+    "name": "Xanh II Máu/Hồi chiêu",
+    "rawName": "Xanh II Máu/Hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b104d5f79f9bd9117d2d088de8cee3025dbab24aa33c61.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Máu tối đa +23.4",
+      "Giảm hồi chiêu +0.4%"
+    ],
+    "searchKey": "xanh ii mau hoi chieu"
+  },
+  {
+    "slug": "xanh-iii-mau-toi-da-giam-hoi-chieu",
+    "name": "Xanh III Máu tối đa/Giám hồi chiêu",
+    "rawName": "Xanh III Máu tối đa/Giám hồi chiêu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9af4a3d03987d8645650b777c8454afe5dbaa851659231.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Máu tối đa +37.5",
+      "Giảm hồi chiêu +0.6%"
+    ],
+    "searchKey": "xanh iii mau toi da giam hoi chieu"
+  },
+  {
+    "slug": "xanh-i-giap-giap-phep",
+    "name": "Xanh I Giáp/Giáp phép",
+    "rawName": "Xanh I Giáp/Giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ad5dd08882f61cfd42d5295a3029106d5dbbae2c07f2d1.png",
+    "color": "Xanh",
+    "tier": "I",
+    "stats": [
+      "Giáp +1.5",
+      "Giáp phép +1.5"
+    ],
+    "searchKey": "xanh i giap giap phep"
+  },
+  {
+    "slug": "xanh-ii-giap-giap-phep",
+    "name": "Xanh II Giáp/Giáp phép",
+    "rawName": "Xanh II Giáp/Giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c38f2cdb006a26d996dd733b2195b9295dbab22660ec81.png",
+    "color": "Xanh",
+    "tier": "II",
+    "stats": [
+      "Giáp +3.1",
+      "Giáp phép 3.1"
+    ],
+    "searchKey": "xanh ii giap giap phep"
+  },
+  {
+    "slug": "xanh-iii-giap-giap-phep",
+    "name": "Xanh III Giáp/Giáp phép",
+    "rawName": "Xanh III Giáp/Giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7690a4b67160f80804b96d272e62f1fc5dbaa83d003c51.png",
+    "color": "Xanh",
+    "tier": "III",
+    "stats": [
+      "Giáp +5",
+      "Giáp phép +5"
+    ],
+    "searchKey": "xanh iii giap giap phep"
+  },
+  {
+    "slug": "tim-iii-toc-danh-toc-chay",
+    "name": "Tím III Tốc đánh/Tốc chạy",
+    "rawName": "Tím III Tốc đánh/Tốc chạy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/40af8a62234d3cd119663d62b21816e15dbaa5eda06491.png",
+    "color": "Tím",
+    "tier": "III",
+    "stats": [
+      "Tốc đánh +1%",
+      "Tốc chạy +1%"
+    ],
+    "searchKey": "tim iii toc danh toc chay"
+  },
+  {
+    "slug": "tim-i-toc-danh-chay",
+    "name": "Tím I Tốc đánh/chạy",
+    "rawName": "Tím I Tốc đánh/chạy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4b67bf139befd480ab2f75c958e4ce135dbbb2da4c88c1.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Tốc chạy +0.3%",
+      "Tốc đánh +0.3%"
+    ],
+    "searchKey": "tim i toc danh chay"
+  },
+  {
+    "slug": "tim-iii-mau-toi-da-hoi-mau",
+    "name": "Tím III Máu tối đa/Hồi máu",
+    "rawName": "Tím III Máu tối đa/Hồi máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/65754d3fbfc53c9c5ab666fa6e30083f5dbaa5a060d411.png",
+    "color": "Tím",
+    "tier": "III",
+    "stats": [
+      "Máu tối đa +60",
+      "Hồi máu/5s +4.5"
+    ],
+    "searchKey": "tim iii mau toi da hoi mau"
+  },
+  {
+    "slug": "tim-iii-mau-hoi-mau-toc-chay",
+    "name": "Tím III Máu/Hồi máu/Tốc chạy",
+    "rawName": "Tím III Máu/Hồi máu/Tốc chạy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a84a0c2a715680f3d65d26dd6a5ecee25dbaa5d4e05211.png",
+    "color": "Tím",
+    "tier": "III",
+    "stats": [
+      "Máu tối đa +45",
+      "Hồi máu/5s +5.2",
+      "Tốc chạy +0.4%"
+    ],
+    "searchKey": "tim iii mau hoi mau toc chay"
+  },
+  {
+    "slug": "tim-ii-mau-hoi-mau",
+    "name": "Tím II Máu/Hồi máu",
+    "rawName": "Tím II Máu/Hồi máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/41a8342712bef214a318df110f7b51cb5dbab143a8bd71.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Máu tối đa +37.5",
+      "Hồi máu/5s +2.8"
+    ],
+    "searchKey": "tim ii mau hoi mau"
+  },
+  {
+    "slug": "tim-i-ty-le-chi-mang-mau",
+    "name": "Tím I Tỷ lệ chí mạng/Máu",
+    "rawName": "Tím I Tỷ lệ chí mạng/Máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/de9819b9fe743449f3c02225760ef4a45dbbb1ef1a5bb1.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Máu tối đa +18",
+      "Tỷ lệ chí mạng +0.2%"
+    ],
+    "searchKey": "tim i ty le chi mang mau"
+  },
+  {
+    "slug": "tim-i-mau-hoi-mau",
+    "name": "Tím I Máu/Hồi máu",
+    "rawName": "Tím I Máu/Hồi máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/648c9f9a32006de20e5ef7876d7deb4e5dbbb213e96861.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Máu tối đa +18",
+      "Hồi máu/5s +1.4"
+    ],
+    "searchKey": "tim i mau hoi mau"
+  },
+  {
+    "slug": "tim-i-mau-hoi-mau-toc-chay",
+    "name": "Tím I Máu/Hồi máu/Tốc chạy",
+    "rawName": "Tím I Máu/Hồi máu/Tốc chạy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4b0b5c6d0517d3fed9ed088a541279605dbbb2a1b4b311.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Máu tối đa +13.5",
+      "Tốc chạy +0.1%",
+      "Hồi máu/5s +1.6"
+    ],
+    "searchKey": "tim i mau hoi mau toc chay"
+  },
+  {
+    "slug": "tim-iii-hut-mau-thu-phep",
+    "name": "Tím III Hút máu/Thủ phép",
+    "rawName": "Tím III Hút máu/Thủ phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/89928ff0fbb871f595dfa1e33968f19b5dbaa5b7292241.png",
+    "color": "Tím",
+    "tier": "III",
+    "stats": [
+      "Hút máu +1%",
+      "Giáp phép +4.1"
+    ],
+    "searchKey": "tim iii hut mau thu phep"
+  },
+  {
+    "slug": "tim-ii-hut-mau-giap-phep",
+    "name": "Tím II Hút máu/Giáp phép",
+    "rawName": "Tím II Hút máu/Giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/712965230d22291e5bb6994954ae58895dbab125b8e781.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Giáp phép +4.1",
+      "Hút máu +1%"
+    ],
+    "searchKey": "tim ii hut mau giap phep"
+  },
+  {
+    "slug": "tim-i-hut-mau-giap-phep",
+    "name": "Tím I Hút máu/Giáp phép",
+    "rawName": "Tím I Hút máu/Giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5877ae05836c97b1d0e0527dd54bf8b45dbbb25da73c01.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Giáp phép +1.2",
+      "Hút máu +0.3%"
+    ],
+    "searchKey": "tim i hut mau giap phep"
+  },
+  {
+    "slug": "tim-iii-cong-vat-ly-toc-chay",
+    "name": "Tím III Công vật lý/Tốc chạy",
+    "rawName": "Tím III Công vật lý/Tốc chạy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/98ea3d0add4cebc2c2da81d14bec9b985dbaa5e3239ff1.png",
+    "color": "Tím",
+    "tier": "III",
+    "stats": [
+      "Công vật lý +1.6",
+      "Tốc chạy +1%"
+    ],
+    "searchKey": "tim iii cong vat ly toc chay"
+  },
+  {
+    "slug": "tim-i-cong-vat-ly-toc-chay",
+    "name": "Tím I Công vật lý/Tốc chạy",
+    "rawName": "Tím I Công vật lý/Tốc chạy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/046a41a39133bd3d631cda394b1728d55dbbb2bfb085c1.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Công vật lý +0.5",
+      "Tốc chạy +0.3%"
+    ],
+    "searchKey": "tim i cong vat ly toc chay"
+  },
+  {
+    "slug": "tim-iii-cong-phep-hut-mau-phep",
+    "name": "Tím III Công phép/Hút máu phép",
+    "rawName": "Tím III Công phép/Hút máu phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/28657b0ffd357a22c00bd9e3c2fb94dc5dbaa5c7170071.png",
+    "color": "Tím",
+    "tier": "III",
+    "stats": [
+      "Công phép +2.4",
+      "Hút máu phép +1%"
+    ],
+    "searchKey": "tim iii cong phep hut mau phep"
+  },
+  {
+    "slug": "tim-ii-cong-hut-mau-phep",
+    "name": "Tím II Công/Hút máu phép",
+    "rawName": "Tím II Công/Hút máu phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/52e8d59fb42030dc07cbbbe5bf50e33d5dbab0f86ddc21.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Công phép +1.5",
+      "Hút máu phép +0.6%"
+    ],
+    "searchKey": "tim ii cong hut mau phep"
+  },
+  {
+    "slug": "tim-i-cong-hut-mau-phep",
+    "name": "Tím I Công/Hút máu phép",
+    "rawName": "Tím I Công/Hút máu phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/99be6d28d7e977d716b0a8317995d3225dbbb27c8b28c1.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Công phép +0.7",
+      "Hút máu phép +0.3%"
+    ],
+    "searchKey": "tim i cong hut mau phep"
+  },
+  {
+    "slug": "tim-i-mau",
+    "name": "Tím I Máu",
+    "rawName": "Tím I Máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7d4fa67bdcef09f4d9402ad1b6db32845dbbb1906849f1.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Máu tối đa +22.5"
+    ],
+    "searchKey": "tim i mau"
+  },
+  {
+    "slug": "tim-ii-hut-mau-phep",
+    "name": "Tím II Hút máu phép",
+    "rawName": "Tím II Hút máu phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f1468c5ddc95907313c7530461bb255d5dbaafb73ac7a1.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Hút máu phép +1%"
+    ],
+    "searchKey": "tim ii hut mau phep"
+  },
+  {
+    "slug": "tim-i-hut-mau-phep",
+    "name": "Tím I Hút máu phép",
+    "rawName": "Tím I Hút máu phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/568a997b17a153ad8c0090b525a6e54c5dbbb1b1e60de1.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Hút máu phép +0.5%"
+    ],
+    "searchKey": "tim i hut mau phep"
+  },
+  {
+    "slug": "tim-i-hut-mau",
+    "name": "Tím I Hút máu",
+    "rawName": "Tím I Hút máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a36965ac013c92a0f1c4e8a766c57fa15dbbb1cbe4e7a1.png",
+    "color": "Tím",
+    "tier": "I",
+    "stats": [
+      "Hút máu +0.5%"
+    ],
+    "searchKey": "tim i hut mau"
+  },
+  {
+    "slug": "tim-iii-hut-mau-phep",
+    "name": "Tím III Hút máu phép",
+    "rawName": "Tím III Hút máu phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ecf15391090639ed2609ead3646dd1575dbaa5283e1951.png",
+    "color": "Tím",
+    "tier": "III",
+    "stats": [
+      "Hút máu phép +1.6%"
+    ],
+    "searchKey": "tim iii hut mau phep"
+  },
+  {
+    "slug": "tim-iii-mau-toi-da",
+    "name": "Tím III Máu tối đa",
+    "rawName": "Tím III Máu tối đa",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b4bbd1f3e34fcb420dedbe1c84e2f8bb5dbaa5057a4121.png",
+    "color": "Tím",
+    "tier": "III",
+    "stats": [
+      "Máu tối đa +75"
+    ],
+    "searchKey": "tim iii mau toi da"
+  },
+  {
+    "slug": "tim-ii-toc-danh-chay",
+    "name": "Tím II Tốc đánh/Chạy",
+    "rawName": "Tím II Tốc đánh/Chạy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/82f4699b7d0bc250b4dedecb866679945dbaafeb210971.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Tốc đánh +0.6%",
+      "Tốc chạy +0.6%"
+    ],
+    "searchKey": "tim ii toc danh chay"
+  },
+  {
+    "slug": "tim-ii-mau-hoi-mau-toc-chay",
+    "name": "Tím II Máu/Hồi máu/Tốc chạy",
+    "rawName": "Tím II Máu/Hồi máu/Tốc chạy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/962b3b3d93c93b68224b3042ae32f4e25dbaaec2db7d31.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Máu tối đa +28.1",
+      "Hồi máu/5s +3.3",
+      "Tốc chạy +0.3%"
+    ],
+    "searchKey": "tim ii mau hoi mau toc chay"
+  },
+  {
+    "slug": "tim-ii-hut-mau",
+    "name": "Tím II Hút máu",
+    "rawName": "Tím II Hút máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bedc0c7772d8eead397c00ed65a3f4fb5dbaaf8b877c21.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Hút máu +1%"
+    ],
+    "searchKey": "tim ii hut mau"
+  },
+  {
+    "slug": "tim-ii-ty-le-chi-mang-mau",
+    "name": "Tím II Tỷ lệ chí mạng/Máu",
+    "rawName": "Tím II Tỷ lệ chí mạng/Máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0a0569f08b3722a7948c2dc807a892c85dbaaf5e421c91.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Máu tối đa +37.5",
+      "Tỷ lệ chí mạng +0.3%"
+    ],
+    "searchKey": "tim ii ty le chi mang mau"
+  },
+  {
+    "slug": "tim-ii-cong-vat-ly-toc-chay",
+    "name": "Tím II Công vật lý/Tốc chạy",
+    "rawName": "Tím II Công vật lý/Tốc chạy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8eb81b52a93c271799c74c38844d8dbd5dbaae80d3ec11.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Công vật lý +1",
+      "Tốc chạy +0.6%"
+    ],
+    "searchKey": "tim ii cong vat ly toc chay"
+  },
+  {
+    "slug": "tim-ii-mau-toi-da",
+    "name": "Tím II Máu tối đa",
+    "rawName": "Tím II Máu tối đa",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/df2175e30512446acf5d78970ec01b585dbaae4c7556d1.png",
+    "color": "Tím",
+    "tier": "II",
+    "stats": [
+      "Máu tối đa +46.9"
+    ],
+    "searchKey": "tim ii mau toi da"
+  },
+  {
+    "slug": "do-iii-cong-phep",
+    "name": "Đỏ III Công phép",
+    "rawName": "Đỏ III Công phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/079aa77056e962b0c8dfa87ff62355775dba6862df0c11.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Công phép +5.3"
+    ],
+    "searchKey": "do iii cong phep"
+  },
+  {
+    "slug": "do-iii-cong-vat-ly",
+    "name": "Đỏ III Công Vật lý",
+    "rawName": "Đỏ III Công Vật lý",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3cf57bafb768ddec440476a5c58ad2e35dbaa42b575ae1.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Công vật lý +3.2"
+    ],
+    "searchKey": "do iii cong vat ly"
+  },
+  {
+    "slug": "do-iii-cong-vat-ly-xuyen-giap",
+    "name": "Đỏ III Công vật lý/Xuyên giáp",
+    "rawName": "Đỏ III Công vật lý/Xuyên giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3cf57bafb768ddec440476a5c58ad2e35dbaa42b575ae1.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Công vật lý +2",
+      "Xuyên giáp +3.6"
+    ],
+    "searchKey": "do iii cong vat ly xuyen giap"
+  },
+  {
+    "slug": "do-iii-cong-vat-ly-hut-mau",
+    "name": "Đỏ III Công vật lý/Hút máu",
+    "rawName": "Đỏ III Công vật lý/Hút máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3cf57bafb768ddec440476a5c58ad2e35dbaa42b575ae1.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Công vậy lý +2.5",
+      "Hút máu +0.5%"
+    ],
+    "searchKey": "do iii cong vat ly hut mau"
+  },
+  {
+    "slug": "do-iii-ti-le-chi-mang-sat-thuong-chi-mang",
+    "name": "Đỏ III Tỉ lệ chí mạng/Sát thương chí mạng",
+    "rawName": "Đỏ III Tỉ lệ chí mạng/Sát thương chí mạng",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0d0c5eafd9c5a7eefb99d8ad26ca97755dbaa4885c62c1.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Tỷ lệ chí mạng +0.7%",
+      "Sát thương chí mạng +3.6%"
+    ],
+    "searchKey": "do iii ti le chi mang sat thuong chi mang"
+  },
+  {
+    "slug": "do-iii-cong-phep-xuyen-thu-phep",
+    "name": "Đỏ III Công phép/Xuyên thủ phép",
+    "rawName": "Đỏ III Công phép/Xuyên thủ phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/079aa77056e962b0c8dfa87ff62355775dba6862df0c11.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Công phép +4.2",
+      "Xuyên giáp phép +2.4"
+    ],
+    "searchKey": "do iii cong phep xuyen thu phep"
+  },
+  {
+    "slug": "do-iii-cong-phep-toc-danh",
+    "name": "Đỏ III Công phép/Tốc đánh",
+    "rawName": "Đỏ III Công phép/Tốc đánh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/079aa77056e962b0c8dfa87ff62355775dba6862df0c11.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Công phép +4.2",
+      "Tốc đánh +0.6%"
+    ],
+    "searchKey": "do iii cong phep toc danh"
+  },
+  {
+    "slug": "do-iii-ti-le-chi-mang",
+    "name": "Đỏ III Tỉ lệ chí mạng",
+    "rawName": "Đỏ III Tỉ lệ chí mạng",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0d0c5eafd9c5a7eefb99d8ad26ca97755dbaa4885c62c1.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Tỷ lệ chí mạng +1.6%"
+    ],
+    "searchKey": "do iii ti le chi mang"
+  },
+  {
+    "slug": "do-iii-toc-danh-ti-le-chi-mang",
+    "name": "Đỏ III Tốc đánh/Tỉ lệ chí mạng",
+    "rawName": "Đỏ III Tốc đánh/Tỉ lệ chí mạng",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/389eff3d95b4e9437e1f68aa6f1666d25dbaa4b1981481-1.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Tốc đánh +1.6%",
+      "Tỷ lệ chí mạng +0.5%"
+    ],
+    "searchKey": "do iii toc danh ti le chi mang"
+  },
+  {
+    "slug": "do-ii-cong-vat-ly-xuyen-giap",
+    "name": "Đỏ II Công vật lý/Xuyên giáp",
+    "rawName": "Đỏ II Công vật lý/Xuyên giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1164871d952e7e4b059e545c3a5cf7705dbaab98e2cd31.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Công vật lý +1.3",
+      "Xuyên giáp +2.3"
+    ],
+    "searchKey": "do ii cong vat ly xuyen giap"
+  },
+  {
+    "slug": "do-ii-cong-vat-ly",
+    "name": "Đỏ II Công vật lý",
+    "rawName": "Đỏ II Công vật lý",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1164871d952e7e4b059e545c3a5cf7705dbaab98e2cd31.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Công vật lý +2"
+    ],
+    "searchKey": "do ii cong vat ly"
+  },
+  {
+    "slug": "do-ii-toc-danh-ty-le-chi-mang",
+    "name": "Đỏ II Tốc đánh/Tỷ lệ chí mạng",
+    "rawName": "Đỏ II Tốc đánh/Tỷ lệ chí mạng",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/15206edeb5c721af4332afd8c019240d5dbaab766ce291.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Tốc đánh +1%",
+      "Tỷ lệ chí mạng +0.3%"
+    ],
+    "searchKey": "do ii toc danh ty le chi mang"
+  },
+  {
+    "slug": "do-ii-cong-phep-xuyen-giap-phep",
+    "name": "Đỏ II Công phép/Xuyên giáp phép",
+    "rawName": "Đỏ II Công phép/Xuyên giáp phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ff2f1a7bdc4d928749ed857afaad6d695dbaab8b272f11.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Công phép +2.6",
+      "Xuyên giáp phép +1.5%"
+    ],
+    "searchKey": "do ii cong phep xuyen giap phep"
+  },
+  {
+    "slug": "do-ii-cong-phep",
+    "name": "Đỏ II Công phép",
+    "rawName": "Đỏ II Công phép",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/62acb603ba3bec776b7413c6b6c993915dbaacf00457a1.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Công phép +3.3"
+    ],
+    "searchKey": "do ii cong phep"
+  },
+  {
+    "slug": "do-ii-ti-le-chi-mang1",
+    "name": "Đỏ II Tỉ lệ chí mạng1",
+    "rawName": "Đỏ II Tỉ lệ chí mạng1",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/15206edeb5c721af4332afd8c019240d5dbaab766ce291.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Tỷ lệ chí mạng +1%"
+    ],
+    "searchKey": "do ii ti le chi mang1"
+  },
+  {
+    "slug": "do-ii-ti-le-chi-mang-sat-thuong-chi-mang",
+    "name": "Đỏ II Tỉ lệ chí mạng/Sát thương chí mạng",
+    "rawName": "Đỏ II Tỉ lệ chí mạng/Sát thương chí mạng",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/15206edeb5c721af4332afd8c019240d5dbaab766ce291.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Tỷ lệ chí mạng +0.4%",
+      "Sát thương chí mạng +2.3%"
+    ],
+    "searchKey": "do ii ti le chi mang sat thuong chi mang"
+  },
+  {
+    "slug": "do-ii-cong-phep-toc-danh",
+    "name": "Đỏ II Công phép/Tốc đánh",
+    "rawName": "Đỏ II Công phép/Tốc đánh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ff2f1a7bdc4d928749ed857afaad6d695dbaab8b272f11.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Công phép +2.6",
+      "Tốc đánh +0.4%"
+    ],
+    "searchKey": "do ii cong phep toc danh"
+  },
+  {
+    "slug": "do-ii-cong-vat-ly-hut-mau",
+    "name": "Đỏ II Công vật lý/Hút máu",
+    "rawName": "Đỏ II Công vật lý/Hút máu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1164871d952e7e4b059e545c3a5cf7705dbaab98e2cd31.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Công vật lý +1.6",
+      "Hút máu +0.3%"
+    ],
+    "searchKey": "do ii cong vat ly hut mau"
+  },
+  {
+    "slug": "do-ii-toc-danh-mau-giap",
+    "name": "Đỏ II Tốc đánh/Máu/Giáp",
+    "rawName": "Đỏ II Tốc đánh/Máu/Giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bb1f49ec3e79c433318b9996a59f541a5dbaaaca72ab01.png",
+    "color": "Đỏ",
+    "tier": "II",
+    "stats": [
+      "Tốc đánh +0.6%",
+      "Máu tối đa +21.1",
+      "Giáp +1.4"
+    ],
+    "searchKey": "do ii toc danh mau giap"
+  },
+  {
+    "slug": "do-iii-toc-danh-mau-giap",
+    "name": "Đỏ III Tốc đánh/Máu/Giáp",
+    "rawName": "Đỏ III Tốc đánh/Máu/Giáp",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/389eff3d95b4e9437e1f68aa6f1666d25dbaa4b1981481.png",
+    "color": "Đỏ",
+    "tier": "III",
+    "stats": [
+      "Tốc đánh +1%",
+      "Máu tối đa +33.7",
+      "Giáp +2.3"
+    ],
+    "searchKey": "do iii toc danh mau giap"
+  },
+  {
+    "slug": "do-i-toc-danh-ty-le-chi-mang",
+    "name": "Đỏ I Tốc đánh/Tỷ lệ chí mạng",
+    "rawName": "ĐỎ I TỐC ĐÁNH/TỶ LỆ CHÍ MẠNG",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2189ac4d38f5bf19fd95dd538bf964885dbbb10faabe91.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Tỷ lệ chí mạng +0.2%",
+      "Tốc đánh +0.5%"
+    ],
+    "searchKey": "do i toc danh ty le chi mang"
+  },
+  {
+    "slug": "do-i-ty-le-chi-mang",
+    "name": "Đỏ I Tỷ lệ chí mạng",
+    "rawName": "ĐỎ I TỶ LỆ CHÍ MẠNG",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/71ea217106f0e0d5d7b8a8090144ebf05dbbb0f839d761.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Tỷ lệ chí mạng +0.5%"
+    ],
+    "searchKey": "do i ty le chi mang"
+  },
+  {
+    "slug": "do-i-cong-phep-toc-danh",
+    "name": "Đỏ I Công phép/Tốc đánh",
+    "rawName": "ĐỎ I CÔNG PHÉP/TỐC ĐÁNH",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b9fad32a6565fd4ffd011fc7273bf2435dbbb0e516d591.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Công phép +1.3",
+      "Tốc đánh +0.2%"
+    ],
+    "searchKey": "do i cong phep toc danh"
+  },
+  {
+    "slug": "do-i-cong-xuyen-giap-phep",
+    "name": "Đỏ I Công/Xuyên giáp phép",
+    "rawName": "ĐỎ I CÔNG/XUYÊN GIÁP PHÉP",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3f92f5392af769c9ced85e2c92a112f25dbbb0cd414271.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Công phép +1.3",
+      "Xuyên giáp phép +0.7"
+    ],
+    "searchKey": "do i cong xuyen giap phep"
+  },
+  {
+    "slug": "do-i-toc-danh-mau-giap",
+    "name": "Đỏ I Tốc đánh/Máu/Giáp",
+    "rawName": "ĐỎ I TỐC ĐÁNH/MÁU/GIÁP",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f24d07226bc2bc676d4e9a3eac7500c95dbbb0ac2b08c1.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Giáp +0.7",
+      "Máu tối đa +10.1",
+      "Tốc đánh +0.3%"
+    ],
+    "searchKey": "do i toc danh mau giap"
+  },
+  {
+    "slug": "do-i-ty-le-sat-thuong-chi-mang",
+    "name": "Đỏ I Tỷ lệ/Sát thương chí mạng",
+    "rawName": "ĐỎ I TỶ LỆ/SÁT THƯƠNG CHÍ MẠNG",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/065ab30e4804d5272643daf9140239df5dbbb0801316a1.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Tỷ lệ chí mạng +0.2%",
+      "Sát thương chí mạng +1.1%"
+    ],
+    "searchKey": "do i ty le sat thuong chi mang"
+  },
+  {
+    "slug": "do-i-cong-vat-ly-hut-mau",
+    "name": "Đỏ I Công vật lý/Hút máu",
+    "rawName": "ĐỎ I CÔNG VẬT LÝ/HÚT MÁU",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bd5b47618fcd7aa8f24175a8284c2b4c5dbbb00ec523b1.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Công vật lý +0.8",
+      "Hút máu +0.2%"
+    ],
+    "searchKey": "do i cong vat ly hut mau"
+  },
+  {
+    "slug": "do-i-cong-vat-ly-xuyen-giap",
+    "name": "Đỏ I Công vật lý/Xuyên giáp",
+    "rawName": "ĐỎ I CÔNG VẬT LÝ/XUYÊN GIÁP",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4835526a3b99375d36a9230d65d2c2985dbbaff7e94a21.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Công vật lý +0.6",
+      "Xuyên giáp +1.1"
+    ],
+    "searchKey": "do i cong vat ly xuyen giap"
+  },
+  {
+    "slug": "do-i-cong-vat-ly",
+    "name": "Đỏ I Công vật lý",
+    "rawName": "ĐỎ I CÔNG VẬT LÝ",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ed83b200a3d5c57b6c34318ce4cc5c1b5dbbafdca47531.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Công vật lý +1"
+    ],
+    "searchKey": "do i cong vat ly"
+  },
+  {
+    "slug": "do-i-cong-phep",
+    "name": "Đỏ I Công phép",
+    "rawName": "ĐỎ I CÔNG PHÉP",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b062349bdf3af87ee18756d9fcbbe7215dbbafc521cdd1.png",
+    "color": "Đỏ",
+    "tier": "I",
+    "stats": [
+      "Công phép +1.6"
+    ],
+    "searchKey": "do i cong phep"
+  }
+]

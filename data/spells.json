@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "la-chan-sinh-menh",
+    "name": "Lá chắn sinh mệnh",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2026/01/SeaTalk_IMG_20260119_104208-1.png",
+    "description": "Cơ chế mùa – Chỉ xuất hiện trong S1/2026. 90 giây hồi chiêu: Linh bảo tạo thêm lá chắn giúp tướng hấp thu 700 – 1400 (+20% máu đã mất của tướng) sát thương trong 5 giây.",
+    "seasonal": true,
+    "searchKey": "la chan sinh menh"
+  },
+  {
+    "slug": "tu-bao-bon",
+    "name": "Tụ bảo bồn",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2026/01/SeaTalk_IMG_20260119_104213-1.png",
+    "description": "Cơ chế mùa – Chỉ xuất hiện trong S1/2026. Mỗi 10 giây nhận 10 cộng dồn Tụ Bảo; đủ 200 tầng có thể rút vàng. Phụ/hạ thêm 10 cộng dồn mỗi lần.",
+    "seasonal": true,
+    "searchKey": "tu bao bon"
+  },
+  {
+    "slug": "suy-nhuoc",
+    "name": "Suy nhược",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2025/01/suy-nhuoc.png",
+    "description": "90 giây hồi chiêu: Giảm 20% sát thương của kẻ địch lân cận gây ra đồng thời tăng 20% miễn thương cho bản thân trong 4 giây.",
+    "seasonal": false,
+    "searchKey": "suy nhuoc"
+  },
+  {
+    "slug": "toc-bien",
+    "name": "Tốc biến",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2d41ed133babae2334cb5233638e2641583ec26ce508f1.png",
+    "description": "120 hồi chiêu: dịch chuyển trong 1 khoảng cách nhất định theo 1 hướng cụ thể",
+    "seasonal": false,
+    "searchKey": "toc bien"
+  },
+  {
+    "slug": "thanh-tay",
+    "name": "Thanh tẩy",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4de38676e937df626d8625ba1a33cbda583ec235e29471.png",
+    "description": "120 giây hồi chiêu: hóa giải tất cả hiệu ứng bất lợi và khống chế, đồng thời miễn dịch với khống chế trong 1.5 giây",
+    "seasonal": false,
+    "searchKey": "thanh tay"
+  },
+  {
+    "slug": "ngat-ngu",
+    "name": "Ngất ngư",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1c36aaa1eca62d155428fce070031ad1583ec20f05ffc1.png",
+    "description": "90 giây hồi chiêu: làm choáng kẻ địch lân cận và làm chậm đồng thời giảm giao và giáp phép của chúng trong một khoảng thời gian",
+    "seasonal": false,
+    "searchKey": "ngat ngu"
+  },
+  {
+    "slug": "cap-cuu",
+    "name": "Cấp cứu",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/aa3e3334f3d9e532a68f60e436be30cd583ec1cfbb5ff1.png",
+    "description": "120 giây hồi chiêu: hồi 15% máu cho bản thân và những đồng minh xung quanh, đồng thời tăng 15% tốc chạy cho cả nhóm trong 2 giây",
+    "seasonal": false,
+    "searchKey": "cap cuu"
+  },
+  {
+    "slug": "gam-thet",
+    "name": "Gầm thét",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2b16ae85950d367b7a60d8481a381118583ec1a8456911.png",
+    "description": "60 giây hồi chiêu: Tăng 15% kháng hiệu ứng, 10% sát thương và 15% hút máu, 30% hút máu phép, kéo dài 7 giây",
+    "seasonal": false,
+    "searchKey": "gam thet"
+  },
+  {
+    "slug": "trung-tri",
+    "name": "Trừng trị",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13d652f7da1ac0e05374ce62dc3e8dee583ec18be52611.png",
+    "description": "30 giây hồi chiêu: Gây 800 sát thương lên quái xung quanh và làm choáng chúng trong 1 giây",
+    "seasonal": false,
+    "searchKey": "trung tri"
+  },
+  {
+    "slug": "boc-pha",
+    "name": "Bộc phá",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/cc5125aca6d0af36e8e9faebc9d840d6583ec165cad261.png",
+    "description": "90 giây hồi chiêu: Gây sát thương chuẩn tương đương 16% máu đã mất của kẻ địch",
+    "seasonal": false,
+    "searchKey": "boc pha"
+  },
+  {
+    "slug": "toc-hanh",
+    "name": "Tốc hành",
+    "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/011f068e44af36e08efb5814d395f3ee583ec145170121.png",
+    "description": "Tăng tốc chạy trong một khoảng thời gian. Kích hoạt lập tức xóa trạng thái bị làm chậm đang gánh chịu và giảm hiệu ứng bị làm chậm khi đang chạy nhanh. Ngoài ra khi rời giao tranh được tăng tốc chạy",
+    "seasonal": false,
+    "searchKey": "toc hanh"
+  }
+]

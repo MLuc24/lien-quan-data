@@ -1,0 +1,16 @@
+{
+  "name": "lien-quan-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Open JSON dataset for Arena of Valor / Liên Quân Mobile — heroes, items, arcana, spells",
+  "scripts": {
+    "crawl:heroes": "node scripts/crawl-garena-heroes.mjs",
+    "crawl:systems": "node scripts/crawl-garena-systems.mjs",
+    "crawl:fandom": "node scripts/crawl-fandom.mjs",
+    "merge": "node scripts/merge-heroes.mjs",
+    "data": "npm run crawl:heroes && npm run crawl:systems && npm run crawl:fandom && npm run merge"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}

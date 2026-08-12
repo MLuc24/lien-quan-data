@@ -1,0 +1,34 @@
+{
+  "_note": "Ánh xạ slug tướng (theo Garena) sang tiêu đề trang Fandom khi hai bên đặt tên khác nhau. Khoá theo slug chứ không theo tên, vì có hai tướng cùng tên 'Flowborn'. Chỉ thêm mục vào đây khi đã xác minh, không suy đoán — ghép nhầm sẽ gán tiểu sử của tướng này sang tướng khác.",
+
+  "vi": {
+    "flowborn": "Flowborn/Xạ thủ",
+    "flowborn-2": "Flowborn/Pháp sư"
+  },
+
+  "en": {
+    "dieu-thuyen": "Diaochan",
+    "lu-bo": "Lu Bu",
+    "ngo-khong": "Wukong",
+    "jinna": "Jinnar",
+    "richter": "Riktor",
+    "celica": "Brunhilda",
+    "trieu-van": "Zanis"
+  },
+
+  "buildNames": {
+    "qcbs": "Quả cầu băng sương"
+  },
+
+  "_evidence": {
+    "qcbs -> Quả cầu băng sương": "Viết tắt trong bảng build của wiki; tên đầy đủ có trong nhánh 1 của phù hiệu Thành khởi nguyên.",
+    "celica -> Brunhilda": "Nội dung trang Brunhilda có nhắc trực tiếp tên Celica.",
+    "richter -> Riktor": "Nội dung trang Riktor có nhắc trực tiếp tên Richter.",
+    "trieu-van -> Zanis": "Zanis mang danh hiệu 'The Dragoon', hệ Warrior; Triệu Vân là Đấu sĩ với cả 4 chiêu đều tên 'Long' (rồng).",
+    "jinna -> Jinnar": "Chênh đúng một ký tự, không có trang EN nào khác gần hơn.",
+    "dieu-thuyen / lu-bo / ngo-khong": "Tên phiên âm chuẩn của nhân vật Tam Quốc và Tây Du Ký (Diaochan, Lu Bu, Wukong).",
+    "flowborn": "Bản VI tách hai dạng thành hai trang riêng, phân biệt bằng hệ tướng trong tiêu đề."
+  },
+
+  "_khong_co_trang_en": ["tamyn", "flowborn", "flowborn-2"]
+}

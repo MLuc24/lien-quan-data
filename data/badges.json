@@ -1,0 +1,362 @@
+[
+  {
+    "id": "badge1724",
+    "slug": "thanh-khoi-nguyen",
+    "name": "Thành khởi nguyên",
+    "suitableFor": "Tất cả các dạng tướng",
+    "description": "Có năng lực sáng tạo và khoa học kỹ thuật bậc nhất.",
+    "color": "#5392e0",
+    "background": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bg-badge-1.jpg",
+    "backgroundMobile": "https://lienquan.garena.vn/wp-content/uploads/2024/07/bg-badge-1-mo.jpg",
+    "groups": [
+      {
+        "index": 1,
+        "skills": [
+          {
+            "id": "badge1724-group1-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon-badge.png",
+            "name": "Quả cầu băng sương",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1724-group1-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_10105.png",
+            "name": "Siêu hồi máu",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1724-group1-skill3",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_10106.png",
+            "name": "Mật ngữ",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "skills": [
+          {
+            "id": "badge1724-group2-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon-badge-2.png",
+            "name": "Uy áp",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1724-group2-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_10202.png",
+            "name": "Thợ săn",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "skills": [
+          {
+            "id": "badge1724-group3-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_10302.png",
+            "name": "Chuyển sinh",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1724-group3-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_10301.png",
+            "name": "Luyện kim",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "searchKey": "thanh khoi nguyen"
+  },
+  {
+    "id": "badge1723",
+    "slug": "thap-quang-minh",
+    "name": "Tháp quang minh",
+    "suitableFor": "Xạ thủ, Pháp sư",
+    "description": "Đã trải qua Thánh quang tẩy lễ",
+    "color": "#c9bb93",
+    "background": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bg-badge-2.jpg",
+    "backgroundMobile": "https://lienquan.garena.vn/wp-content/uploads/2024/07/bg-badge-2-mo.jpg",
+    "groups": [
+      {
+        "index": 1,
+        "skills": [
+          {
+            "id": "badge1723-group1-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_20101.png",
+            "name": "Tương phản",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1723-group1-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_20102.png",
+            "name": "Sung mãn",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1723-group1-skill3",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_20103.png",
+            "name": "Thánh châu",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "skills": [
+          {
+            "id": "badge1723-group2-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_20202.png",
+            "name": "Xuyên tâm",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1723-group2-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_20201.png",
+            "name": "Bí quyết",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "skills": [
+          {
+            "id": "badge1723-group3-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_20303.png",
+            "name": "Thánh thuẫn",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1723-group3-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_20302.png",
+            "name": "Thần quang",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1723-group3-skill3",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_20301.png",
+            "name": "Tinh linh",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "searchKey": "thap quang minh"
+  },
+  {
+    "id": "badge1722",
+    "slug": "vuc-hon-mang",
+    "name": "Vực hỗn mang",
+    "suitableFor": "Đấu sỹ, Sát thủ",
+    "description": "Gồm các lĩnh chủ Vực hỗn mang",
+    "color": "#c12f1e",
+    "background": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bg-badge-3.jpg",
+    "backgroundMobile": "https://lienquan.garena.vn/wp-content/uploads/2024/07/bg-badge-3-mo.jpg",
+    "groups": [
+      {
+        "index": 1,
+        "skills": [
+          {
+            "id": "badge1722-group1-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_30104.png",
+            "name": "Ma hỏa",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1722-group1-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_30102.png",
+            "name": "Dư ảnh",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1722-group1-skill3",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_30101.png",
+            "name": "Hấp huyết",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "skills": [
+          {
+            "id": "badge1722-group2-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_30202.png",
+            "name": "Cố thủ",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1722-group2-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_30201.png",
+            "name": "Cường công",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "skills": [
+          {
+            "id": "badge1722-group3-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_30304.png",
+            "name": "Ma tính",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1722-group3-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_30302.png",
+            "name": "Ma chú",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1722-group3-skill3",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_30301.png",
+            "name": "Đấu khí",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "searchKey": "vuc hon mang"
+  },
+  {
+    "id": "badge1718",
+    "slug": "rung-nguyen-sinh",
+    "name": "Rừng nguyên sinh",
+    "suitableFor": "Hỗ trợ, Đỡ đòn",
+    "description": "Được bảo vệ bởi sức mạnh rừng sâu",
+    "color": "#6a9c4b",
+    "background": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bg-badge-4.jpg",
+    "backgroundMobile": "https://lienquan.garena.vn/wp-content/uploads/2024/07/bg-badge-4-mo.jpg",
+    "groups": [
+      {
+        "index": 1,
+        "skills": [
+          {
+            "id": "badge1718-group1-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_40103.png",
+            "name": "Canh gác",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1718-group1-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_40102.png",
+            "name": "Ám kích",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1718-group1-skill3",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_40101.png",
+            "name": "Nhạy bén",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "skills": [
+          {
+            "id": "badge1718-group2-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_40202.png",
+            "name": "Sinh tồn",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1718-group2-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_40201.png",
+            "name": "Bơm máu",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "skills": [
+          {
+            "id": "badge1718-group3-skill1",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_40307.png",
+            "name": "Du hiệp",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1718-group3-skill2",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_40306.png",
+            "name": "Mộc giáp",
+            "kind": null,
+            "title": null,
+            "description": ""
+          },
+          {
+            "id": "badge1718-group3-skill3",
+            "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/mowen_40303.png",
+            "name": "Trói buộc",
+            "kind": null,
+            "title": null,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "searchKey": "rung nguyen sinh"
+  }
+]
