@@ -1732,7 +1732,7 @@
       "Sinh nhật: 24-11",
       "Chiều cao: 162cm",
       "Nơi sinh: Vương quốc Norman",
-      "Vai trò: Học viên Carano",
+      "Vai trò: Học sinh Carano",
       "Khác: Annette thường cú đêm ở thư viện nên luôn đeo kính. Annette thường xuyên hồ đồ, quên đông, quên tây, quên cả thế giới.",
       "Bí mật: Lần đầu khi dùng ma pháp hệ gió, Annette đã bị thổi bay vào trong tận phòng ngủ của darcy. Annette rất thích con trai có làn da rám nắng và cơ bắp nảy nở săn chắc. Annette mỗi sáng đều cố gắng học thuộc thần chú một lần."
     ],
@@ -4924,7 +4924,7 @@
       "Nơi sinh: Chưa rõ",
       "Vai trò: Lữ khách ở Vương quốc Rồng",
       "Khác: Bolt Baron hợp tác với Yue để tìm đường về. Bolt Baron dù không ở quê hương vẫn tuân theo cách thức và đạo nghĩa của mình để bảo vệ người dân thường.",
-      "Bí mật: Yue cảm nhận được khí tức \"đồng loại\" từ trên người Bolt Baron. Bolt Baron biết rằng Ming là một kẻ nguy hiểm và luôn cảnh giác với anh ta trong suốt hành trình."
+      "Bí mật: Yue cảm nhận được khí tức \"đồng loại\" từ trên người Bolt Baron. Bolt Baron biết rằng Ming là một kẻ nguy hiểm và luôn cảnh giác với anh ta trong suốt hành trình của mình."
     ],
     "lore": [
       "When Bolt Baron woke up, he saw a chaotic scene.",
@@ -7274,12 +7274,12 @@
   {
     "slug": "dextra",
     "name": "Dextra",
-    "title": null,
+    "title": "Huyết luân cưa",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Hội ám hoàng",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/38f3158929eb4b95500db65559e52d525fc5244a521d11.jpg",
     "searchKey": "dextra",
     "damageType": "Vật lý",
@@ -7302,7 +7302,10 @@
         "name": "Huyết chú",
         "description": "Mỗi khi Dextra đánh thường hoặc tung chiêu trúng kẻ địch, cô sẽ được nhận thêm tốc đánh. Nếu đánh trúng tướng địch, tốc đánh sẽ được cộng dồn hai lần.\n\nMỗi cộng dồn giúp tăng 5% tốc đánh (mỗi 3 cấp tướng tăng thêm 1%), hiệu ứng kéo dài 5 giây và có thể cộng dồn tối đa 16 lần.\n\nKhi tốc đánh đạt giới hạn, đòn đánh thường và chiêu thức của Dextra sẽ kèm theo 60 (+12 mỗi cấp tướng) sát thương chuẩn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/76d5901b0e914b1a59b3a22d0b2afeb85fc554ae5eb671.png",
-        "effects": []
+        "effects": [
+          "Chuẩn",
+          "Cường hóa"
+        ]
       },
       {
         "slot": "1",
@@ -7310,7 +7313,10 @@
         "name": "Luân hồi cưa",
         "description": "Dextra lập tức xóa mọi hiệu ứng làm chậm và cường hóa đòn đánh thường kế gây 150 (+100% công vật lý) + 30/cấp chiêu sát thương vật lý đồng thời làm chậm 50% trong 1 giây.\n\nTrong thời gian này, Dextra nhận trạng thái miễn khống và cứ mỗi 0.5 giây sẽ tăng thêm 50 tốc chạy, cộng dồn tối đa 6 lần. Kẻ địch chạm phải sẽ chịu 50 (+25% công vật lý) + 10/cấp chiêu sát thương vật lý.\n\nSau khi tụ lực kết thúc, hiệu ứng tăng tốc sẽ duy trì thêm 3 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/cadc4185480b6621a2610796dd36acdd5fc554be39c861.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng tốc"
+        ]
       },
       {
         "slot": "2",
@@ -7318,7 +7324,10 @@
         "name": "Huyết sát cưa",
         "description": "Thời gian hồi chiêu 8s - 0.4s/cấp chiêu.\n\nDextra triệu hồi huyết luân cưa từ trên trời rơi xuống gây 100 (+25% công vật lý) + 20/cấp chiêu sát thương vật lý lên khu vực chỉ định.\n\nSau thoáng chốc, lưỡi cưa xoáy sẽ di chuyển về phía Dextra và kéo theo các mục tiêu trên đường đi đồng thời gây 100 (+25% công vật lý) + 20/cấp chiêu sát thương vật lý.\n\nKhi lưỡi cưa trở về, nó sẽ phát nổ tiếp và gây 100 (+25% công vật lý) + 20/cấp chiêu sát thương vật lý lên kẻ địch xung quanh.\n\nMỗi kẻ địch trúng chiêu giúp Dextra hồi 2% máu tối đa, nếu trúng tướng địch sẽ hồi thêm 3% máu tối đa.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ae0747041875de3c610e4fb7619272b65fc554c669deb1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "3",
@@ -7326,7 +7335,9 @@
         "name": "Hiến tế",
         "description": "Thời gian hồi chiêu 70s - 10s/cấp chiêu\n\nDextra giải trừ khống chế, miễn nhiễm sát thương trong 2.5 giây và chuyển hóa 20% sát thương nhận vào thành hồi máu.\n\nKhi nhận sát thương chí tử, nếu chiêu chưa trong thời gian hồi thì Dextra sẽ tự động kích hoạt chiêu và đưa chiêu vào trạng thái hồi.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b3620cf9d75a371b0955aa971a71765f5fc554cedd8ef1.png",
-        "effects": []
+        "effects": [
+          "Hồi phục"
+        ]
       }
     ],
     "skins": [
@@ -7481,7 +7492,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 26-07",
+      "Chiều cao: 175cm",
+      "Nơi sinh: Rừng nguyên sinh",
+      "Vai trò: Thành viên Hội ám hoàng",
+      "Khác: Dextra có khứu giác cực nhạy cảm, nhắm mắt cũng có thể ngửi ra là cái gì. Dextra luôn cố gắng tránh bị chảy máu khi giao tranh.",
+      "Bí mật: Mỗi đêm Dextra đều chờ Sinestrea ngủ ngon rồi mình mới đi ngủ. Dextra từng âm thầm đột nhập vào nhà cũ của Sinestrea để mang về tấm ảnh khi Sinestrea còn bé. Dextra mỗi năm đều cùng Sinestrea cầu nguyện cho những thân nhân đã chết."
+    ],
     "lore": [
       "Dextra is a half-elf.",
       "Since losing her parents, she has lived alone on the edge of the forest. Only having the company of wild beasts and nature, she is simple and direct, much like the animals she shares the forest with. She relies on her intuition to survive this harsh environment.",
@@ -7500,11 +7518,43 @@
       "“Sinestrea, I’ll help you kill the enemy. Then we can go back into the forest and live happily again.”"
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày kiên cường",
+          "Thương Longinus",
+          "Phức hợp kiếm",
+          "Thánh kiếm",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Hấp huyết",
+        "Cường công",
+        "Ma chú",
+        "Nhạy bén",
+        "Bơm máu",
+        "Tương phản",
+        "Xuyên tâm",
+        "Tinh linh",
+        "Hấp huyết",
+        "Cố thủ"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Bộc phá"
+      ],
+      "notes": [
+        "Bộ trang bị gợi ý cho Dextra đi đường đơn. Có thể cân nhắc các trang bị thủ như Khiên thất truyền hay Huân chương Troy để có thêm khả năng chống chịu.",
+        "Có thể lên nhánh chính Đấu khí và/hoặc nhánh phụ Tương phản.",
+        "Mang theo phù hiệu trung tâm Tinh linh có thể giúp Dextra tận dụng tốt nội tại của mình."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/dextra/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Dextra",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Dextra"
     }
   },
@@ -11223,7 +11273,7 @@
       "Xạ thủ"
     ],
     "lane": "Đường Rồng",
-    "faction": "Vực hỗn mang\nĐảo Sương mù",
+    "faction": "Vực hỗn mang\nĐảo Sương mù (phản đồ)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/02c8e3d1db8ee8f32913b478884f33e05c8f254a7686f1.jpg",
     "searchKey": "hayate",
     "damageType": "Vật lý",
@@ -13393,12 +13443,12 @@
   {
     "slug": "kaine",
     "name": "Kaine",
-    "title": null,
+    "title": "Huyết dực phi phong",
     "classes": [
       "Sát thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Tân liên hiệp",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bb649e26633a61d78f7147d56c0828c6658d3bb600ae01.jpg",
     "searchKey": "kaine",
     "damageType": null,
@@ -13508,7 +13558,14 @@
     "stats": [],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 10-08",
+      "Chiều cao: 175cm",
+      "Nơi sinh: Tân liên hiệp",
+      "Vai trò: Lính mới của Công hội đánh thuê",
+      "Khác: Để tránh làm hại những người vô tội, Kaine luôn sử dụng phương thức ám sát để hoàn thành nhiệm vụ đánh thuê. Mọi đồng đội đều nói Kaine là 1 người tốt bụng và biết quan tâm đến người khác.",
+      "Bí mật: Tuy hay gọi richter là ông già nhưng Kaine rất quan tâm anh. Đối với những kẻ không đáng tội chết, Kaine sẽ gửi thư khuyên nhủ cá nhân và mong họ sửa sai. Chú dơi nhỏ tình nguyện làm đồng đội vì mê tít huyết mạch của Kaine."
+    ],
     "lore": [
       "In a group of mercenaries, Kaine is always the most visible person. He dresses cleanly and skillfully, has a serious expression but always maintains good manners. Some selective mercenaries would jokingly call him “Young Master Kaine”. But Kaine himself was once a genuine noble young master...",
       "Born in Ramboat, because of his special blood power, Kaine was strictly controlled by his parents from a young age. His only friend is Stuart - the older brother living next door, but in Stuart's eyes, Kaine with blood power is the collectible he wants the most. He enticed Kaine to practice endlessly and increase his blood power, but one unexpected incident led to his training being exposed, and Kaine's parents took him all night to his relatives' house in Kazell.",
@@ -13518,23 +13575,67 @@
       "After that, on the one hand, Kaine used his blood as a weapon, becoming a nightmare for those who do evil things to oppress the weak, and on the other hand, he searched for Stuart's whereabouts..."
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày Hermes",
+          "Thương Xuyên Phá",
+          "Nanh Fenrir",
+          "Phức hợp kiếm",
+          "Kiếm Muramasa",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Kiếm truy hồn",
+          "Giày Hermes",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Liệt hoả hồi huyết",
+          "Giày Hermes",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Ma hỏa",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Bộc phá",
+        "Trừng trị",
+        "Tê tái"
+      ],
+      "notes": [
+        "Bộ trang bị cho Kaine đi đường đơn giúp đảo đường thường xuyên và bắt lẻ kẻ địch yếu máu.",
+        "Bộ trang bị đi rừng cho Kaine.",
+        "Bộ trang bị đi trợ thủ cho Kaine."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/kaine/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Kaine",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Kaine"
     }
   },
   {
     "slug": "keera",
     "name": "Keera",
-    "title": null,
+    "title": "Dạ yêu linh",
     "classes": [
       "Sát thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Học viện Carano",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8491520381ab2a66489a6c5e1ec98e785e452a5c9fd3c1.jpg",
     "searchKey": "keera",
     "damageType": "Phép",
@@ -13555,7 +13656,9 @@
         "name": "Ám lưu",
         "description": "Keera có sẵn hút máu phép, và đòn đánh thường của cô gây sát thương vật lý. Tuy nhiên sát thương chiêu của Keera sẽ bị chia đều cho số kẻ địch đánh trúng (tối đa là chia 3).",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/77c5257df3fded45a3bf7204e4ff68c55fc557628f1281.png",
-        "effects": []
+        "effects": [
+          "Tăng ST"
+        ]
       },
       {
         "slot": "1",
@@ -13563,7 +13666,10 @@
         "name": "Ác mộng ảo ảnh",
         "description": "Keera đặt 1 huyễn ảnh tại vị trí đang đứng và nhảy đến điểm chỉ định gây sát thương phép trong phạm vi. Nạn nhân gần nhất sẽ bị đánh dấu trong 3 giây đồng thời bị kéo đến gần Keera. Sau khi tung chiêu, 3 đòn đánh thường kế tiếp của Keera được tăng tốc đánh và gây sát thương phép thay vì vật lý.\n\nKích hoạt lần nữa: Huyễn ảnh bắn thẳng đến nạn nhân bị đánh dấu, đánh trúng sẽ gây sát thương phép trong phạm vi. Nếu không đánh dấu được tướng địch, huyễn ảnh sẽ bắn thẳng đến Keera và gây sát thương phép xung quanh.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0d266fe2e65e51928dbb8c8d19dee8c35fc55777e9b4b1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "2",
@@ -13571,7 +13677,10 @@
         "name": "Tam giác quỷ",
         "description": "Keera lướt về phía trước đồng thời tỏa ra 2 phân thân không thể phân biệt, mỗi 1 phân thân chia ra gây sát thương phép đồng thời hình thành một tam giác quỷ, 1 giây sau gây sát thương phép.\n\nKhi tung chiêu Keera không bị chọn làm mục tiêu đồng thời biên giới tam giác sẽ khiến kẻ địch chạm vào bị choáng.\n\nTích lũy 3 ám đao: Đòn đánh thường của Keera chuyển thành đánh xa, tăng tốc đánh và có thể vừa đánh vừa chạy. Kẻ địch nhìn phân thân của Keera sẽ thấy giống nhau nhưng bản thân vẫn phân biệt rõ.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fd3619efaa99e035e1bc7799cbd818045fc5576bdbc291.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Không bị khóa mục tiêu"
+        ]
       },
       {
         "slot": "3",
@@ -13579,7 +13688,10 @@
         "name": "Truy sát",
         "description": "Keera nhận được Hắc ám bảo hộ giúp tăng tốc chạy. Đồng thời, Keera có thể đi xuyên địa hình, kiến trúc và chống chịu 3 đòn đánh thường của tướng địch và nếu chạm vào địa hình sẽ được ẩn thân.\n\nKhi Hắc ám bảo hộ kết thúc sẽ lập tức làm mới chiêu 1 và chiêu 2. Khi chống chịu hết số lần đánh thường sẽ xóa Hắc ám bảo hộ.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/42b366f7da1eeec5655937ade8bba83b5fc55780b51da1.png",
-        "effects": []
+        "effects": [
+          "Đặc biệt",
+          "Tăng tốc"
+        ]
       }
     ],
     "skins": [
@@ -13683,7 +13795,14 @@
     "stats": [],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 20-11",
+      "Chiều cao: 155cm",
+      "Nơi sinh: Không rõ",
+      "Vai trò: Học sinh Carano",
+      "Khác: Keera cười càng ngọt ngào thì chứng tỏ nàng càng tức giận. Keera không thể hiểu được vì sao Annette có ma thuật kém cỏi như thế.",
+      "Bí mật: Keera thường nửa đêm vụng trộm chui vào trong chăn của Sephera. Keera luôn muốn cất giấu đồ ngọt do Sephera làm nhưng toàn bị trộm mất. Keera đã từng được bạn học gửi thư tình dù họ chẳng quen biết cô."
+    ],
     "lore": [
       "A pair of black metallic scissors was entangled by two pink strands and dangled amid the flickering candle light.",
       "Keera pulled her fine hair, strand by strand, until she connected everything that could cause harm. After decorating the room carefully, Keera blew out the candle and crept back to the corner of the room quietly.",
@@ -13732,11 +13851,43 @@
       "“I’m going home, with Mommy!”"
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Gươm Loki",
+          "Giày phù thủy",
+          "Thập Tự Kiếm",
+          "Sách thánh",
+          "Vương miện Hecate",
+          "Quả cầu băng sương"
+        ]
+      ],
+      "badges": [
+        "Ma hỏa",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm",
+        "Tương phản",
+        "Xuyên tâm",
+        "Thánh thuẫn",
+        "Ma hỏa",
+        "Cường công"
+      ],
+      "spells": [
+        "Trừng trị",
+        "Tê tái"
+      ],
+      "notes": [
+        "Bộ trang bị cho Keera trong vai trò đi rừng mang lại lượng công phép cùng tốc đánh lớn; chỉ cần tung chiêu 1 trúng vào chủ lực kẻ địch là có thể nhanh chóng kết liễu nạn nhân, đặc biệt là để khắc chế trực diện khả năng miễn nhiễm sát thương vật lý của Stuart. Nếu cần khả năng xuyên giáp phép có thể lên Mặt nạ ma quái (và nâng cấp lên Trượng hỗn mang nếu cần thiết).",
+        "Trước khi vào giao tranh hãy thi triển sẵn chiêu cuối và tận dụng khi chiêu gần hết hiệu lực để ra đòn và có 2 lần tung chiêu 1 và chiêu 2.",
+        "Ma chú giúp Keera tối đa hóa sát thương gây ra, còn Thánh thuẫn sẽ mang lại lá chắn cùng hút máu phép nếu chẳng may bị tấn công."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/keera/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Keera",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Keera"
     }
   },
@@ -15353,12 +15504,12 @@
   {
     "slug": "liliana",
     "name": "Liliana",
-    "title": null,
+    "title": "Cửu vĩ yêu hồ",
     "classes": [
       "Pháp sư"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường giữa",
+    "faction": "Học viện Carano\nTháp quang minh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/28b06811cb721a8ecb28d6a1db401e745a9fd3a39ae401.jpg",
     "searchKey": "liliana",
     "damageType": "Phép",
@@ -15378,7 +15529,10 @@
         "name": "Yêu hồ",
         "description": "\"Nội tại:\n\nDạng người: Trong trạng thái loài người Liliana sẽ đánh xa.\n\nDạng hồ ly: Tăng giáp và giáp phép và tốc chạy. Đồng thời, đòn đánh thường gây sát thương phép.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bccaeb073d66775a63c7cb059e4942115aa0fe25ece371.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Đặc biệt"
+        ]
       },
       {
         "slot": "1",
@@ -15605,14 +15759,49 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 02-12",
+      "Chiều cao: 172cm",
+      "Nơi sinh: Không rõ",
+      "Vai trò: Giảng viên Carano",
+      "Khác: Liliana sợ nắng khiến da bị đen và lông bị mưa ướt nên luôn mang ô ra ngoài. Liliana chờ mong thư viện sẽ mang đến đợt sách mới để nàng được đọc.",
+      "Bí mật: Mỗi ngày Liliana tốn rất nhiều thời gian để chải chuốt 9 cái đuôi của mình thật mượt. Liliana thi thoảng sẽ biến thành bé trai đáng yêu. Liliana viết nhiều dã sử bán rất đắt hàng."
+    ],
     "lore": [],
-    "trivia": [],
-    "build": null,
+    "trivia": [
+      "Hiệu ứng cường hóa đòn đánh thường của chiêu 1 dạng người không bị giới hạn lên quái rừng như nhiều tướng khác, do đó Liliana có thể thật sự một mình ăn Caesar bạo chúa chỉ trong vài giây nếu như combo chuẩn xác.",
+      "Combo: 24 → 24(→ 24) → 24 → đánh thường."
+    ],
+    "build": {
+      "itemSets": [
+        [
+          "Giày phù thủy",
+          "Trượng bùng nổ",
+          "Vương miện Hecate",
+          "Gươm tận thế",
+          "Trượng hỗn mang",
+          "Quả cầu băng sương"
+        ]
+      ],
+      "badges": [
+        "Tương phản",
+        "Xuyên tâm",
+        "Thần quang",
+        "Ma hỏa",
+        "Cường công"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị phổ biến cho Liliana mang lại cho vị tướng này lượng công phép lớn và khi ở dạng hồ ly có thể trở thành sát thủ thứ hai trong đội hình nhờ lượng sát thương phép khổng lồ từ đòn đánh thường sau khi tung chiêu 1 kết hợp với nội tại của Gươm tận thế. Hồ quang đạn khi bắn ra dù bay chậm nhưng không thể xem thường; kẻ địch bị chọn làm mục tiêu cho nó nếu không có sự cơ động hoặc vô tình tiếp cận Liliana thì gần như không thể thoát khỏi uy lực khủng khiếp của nó.",
+        "Mang theo ngọc hút máu phép có thể cải thiện khả năng hồi phục của Liliana khi lao vào cào kẻ địch."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/liliana/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Liliana",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Liliana"
     }
   },
@@ -20188,12 +20377,12 @@
   {
     "slug": "paine",
     "name": "Paine",
-    "title": null,
+    "title": "Đoạt hồn giả",
     "classes": [
       "Sát thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Học viện Carano",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/47861c6d53d72d0dbea2d1dba0b0e0365e8ade6f180931.jpg",
     "searchKey": "paine",
     "damageType": "Phép",
@@ -20213,7 +20402,10 @@
         "name": "Trảm hồn",
         "description": "Sau mỗi lần tung chiêu, trong 4 giây kế các đòn đánh thường của Paine sẽ gây sát thương phép. Trong đó đòn đánh thường đầu tiên sẽ chuyển thành đột kích sau lưng kẻ địch và gây gấp đôi sát thương.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3dc827986c6355d90753e6649e1f2a715e8ae047a91601.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "1",
@@ -20221,7 +20413,10 @@
         "name": "Hồn gọi xác",
         "description": "Paine xuất hồn theo hướng chỉ định và gây sát thương phép cho kẻ địch trên đường xuyên qua đồng thời được miễn khống chế. Khi chiêu kết thúc hoặc ấn kết thúc, thể xác Paine sẽ lao nhanh đến vị trí linh hồn của hắn và gây tiếp sát thương phép lên kẻ địch trên đường lao đồng thời làm chậm kẻ địch.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e433d4f7599e82bd55a108c35a47d4295e8ae0728c0271.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "2",
@@ -20229,7 +20424,10 @@
         "name": "Vong hồn trận",
         "description": "Paine tung ra một vòng sáng ma hồn gây sát thương phép lên kẻ địch trong phạm vi và khiến chúng câm lặng. Nếu 2 giây sau khi tung chiêu Paine vẫn còn trong vòng sáng ma hồn thì hắn sẽ được hồi nội năng.\n\nNội tại chiêu: Khi Paine chịu sát thương phép, trong 5 giây sẽ chuyển hóa lượng sát thương này thành máu cho bản thân",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d6eaacb471e184500b55a6a777638dff5e8ae092591651.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Câm lặng"
+        ]
       },
       {
         "slot": "3",
@@ -20237,7 +20435,10 @@
         "name": "Diệt hồn truy",
         "description": "Sau khi tụ lực, Paine trong thời gian ngắn nhận miễn thương và lao đến điểm chỉ định đồng thời gây sát thương phép. Ngoài ra những kẻ địch đứng trên đường lao sẽ phải chịu thêm sát thương phép.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d5c7ac666880b55ee8cbdc99d61633a55e8ae106d998b1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Dịch chuyển"
+        ]
       }
     ],
     "skins": [
@@ -20400,7 +20601,14 @@
     ],
     "goldCost": "23888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 12-03",
+      "Chiều cao: 181cm",
+      "Nơi sinh: Tân liên hiệp",
+      "Vai trò: Giáo viên Carano",
+      "Khác: Paine là giáo viên Carano duy nhất khiến người khác nghe tên mà phải sợ vỡ mặt. Paine là người nghiện nhất những buổi trà chiều.",
+      "Bí mật: Paine từng bị đồn gây ra cái chết cho vô số người, nhưng đó là tin vịt. darcy nhận được sự tin cậy của Paine nhờ khả năng thẩm âm tốt. Paine coi thường khả năng thẩm mỹ và khiếu tinh tế của Dirak."
+    ],
     "lore": [
       "“Sound of piano keys”",
       "Faint blue fingers danced on the piano keys. The pleasing sound pierced the silent night.",
@@ -20448,7 +20656,49 @@
       "“Forward!”"
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Gươm Loki",
+          "Giày phù thủy",
+          "Thập Tự Kiếm",
+          "Sách thánh",
+          "Trượng hỗn mang",
+          "Quả cầu băng sương"
+        ],
+        [
+          "Giày phù thủy",
+          "Thập Tự Kiếm",
+          "Gươm tận thế",
+          "Mặt nạ ma quái",
+          "Vương miện Hecate",
+          "Quả cầu băng sương"
+        ]
+      ],
+      "badges": [
+        "Ma hỏa",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm",
+        "Tương phản",
+        "Xuyên tâm",
+        "Thánh thuẫn",
+        "Ma hỏa",
+        "Cường công"
+      ],
+      "spells": [
+        "Trừng trị",
+        "Tê tái",
+        "Bộc phá"
+      ],
+      "notes": [
+        "Bộ trang bị cho Paine trong vai trò đi rừng mang lại công phép cùng tốc đánh lớn giúp bắt lẻ chủ lực kẻ địch dễ dàng, đặc biệt là để khắc chế trực diện khả năng miễn nhiễm sát thương vật lý của Stuart. Nếu kẻ địch ít giáp phép có thể dừng lại ở Mặt nạ ma quái.",
+        "Paine cũng có thể được trọng dụng ở đường tà thần và đường giữa, đặc biệt ở các bậc hạng cao. Tuy nhiên đừng quên rằng đây là chất tướng sát thủ và việc mù quáng lao vào giao tranh với chiêu cuối nếu kẻ địch tập trung đông có thể trở thành con dao hai lưỡi: hoặc chúng sẽ nằm xuống, hoặc Paine sẽ lên bảng đếm số trong chớp mắt.",
+        "Ma chú giúp Paine tối đa hóa sát thương gây ra, còn Thánh thuẫn sẽ mang lại lá chắn cùng hút máu phép nếu chẳng may bị tấn công.",
+        "Trừng trị là phép bổ trợ không thể thiếu khi đi rừng; nếu đi đường trên hoặc đường giữa thì có thể lên Bộc phá."
+      ]
+    },
     "balanceHistory": [
       "- Patch Note 19/01/2021",
       "Optimized the warning effects of Paine's Ultimate.",
@@ -20489,7 +20739,7 @@
     ],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/paine/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Paine",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Paine"
     }
   },
@@ -22732,12 +22982,12 @@
   {
     "slug": "sephera",
     "name": "Sephera",
-    "title": null,
+    "title": "Thiên mệnh thủy sư",
     "classes": [
       "Trợ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Học viện Carano",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/eef053fb25793d536185559e8bf5a82d5c132caaa102e1.jpg",
     "searchKey": "sephera",
     "damageType": "Phép",
@@ -22758,7 +23008,10 @@
         "name": "Suối nguồn",
         "description": "Nội tại: Mỗi khi tung chiêu Sephera sẽ kích hoạt nội tại Suối nguồn gây sát thương phép lên tướng địch lân cận thấp máu nhất, đồng thời hồi máu cho tướng đồng minh lân cận thấp máu nhất.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1edc36db741ef6762422a055a31735205c132d23b02563.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "1",
@@ -22766,7 +23019,10 @@
         "name": "Thuỷ âm",
         "description": "Sephera gảy đàn tấn công 3 kẻ địch lân cận (ưu tiên tướng), gây sát thương phép, đồng thời làm chậm tốc chạy của nạn nhân trong 1 giây. Đặc biệt đòn đánh thường kế tiếp sau khi tung chiêu này sẽ gây sát thương phép, và giúp giảm 1 giây hồi tất cả chiêu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e02eec242f1b880e3213136ea243484e5c132d9c5a9431-1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "2",
@@ -22774,7 +23030,10 @@
         "name": "Ao tù",
         "description": "Sephera được tăng tốc chạy trong thoáng chốc, rồi 1.5 giây sau dựng lên một vòng tròn nước gây sát thương phép kèm hiệu ứng choáng, áp dụng đối với những nạn nhân đứng ở rìa.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/48014064d2379808ae4d2477d70f30045c1361a346e411-1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Choáng"
+        ]
       },
       {
         "slot": "3",
@@ -22782,7 +23041,11 @@
         "name": "Sóng ngầm",
         "description": "Sephera hòa mình vào dòng nước khiến bản thân không thể bị chọn làm mục tiêu trong 1.7 giây, đồng thời giúp hồimáu cho các đồng minh lân cận, và gây sát thương phép lên những kẻ địch cạnh bên.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/023e5341f5aef87afda1047c7ffbaa565c1361d5ef1891-1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Hồi phục",
+          "Không bị khóa mục tiêu"
+        ]
       }
     ],
     "skins": [
@@ -22878,26 +23141,66 @@
     "stats": [],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 24-02",
+      "Chiều cao: 169cm",
+      "Nơi sinh: Vương quốc Norman",
+      "Vai trò: Ma pháp sư",
+      "Khác: Sephera thường ngủ nướng đến mức tới muộn buổi họp trong Ma pháp nghị viện. Sephera rất thích làm đồ ngọt nên mỗi người đều được nàng cho 1 phần, riêng Dirak được 2 phần.",
+      "Bí mật: Sephera luôn nghĩ rằng darcy đáng yêu nhất là khi nghiêm túc nhưng nàng không nói ra. Sephera chăm sóc Keera ngỗ ngược rất chu đáo. Nơi cư trú của Sephera chính là một cái hồ to khủng có chứa nhiều loại cá kỳ quái."
+    ],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Liệt hoả hồi huyết",
+          "Giày thuật sĩ",
+          "Mặt nạ Berith",
+          "Gươm tận thế",
+          "Vương miện Hecate",
+          "Trượng hỗn mang"
+        ],
+        [
+          "Giày thuật sĩ",
+          "Mặt nạ Berith",
+          "Gươm tận thế",
+          "Vương miện Hecate",
+          "Trượng hỗn mang",
+          "Sách thánh"
+        ]
+      ],
+      "badges": [
+        "Ma hỏa",
+        "Cường công",
+        "Ma chú",
+        "Sung mãn",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị đề cử cho Sephera đi trợ thủ để cải thiện hồi máu cho đồng đội đồng thời biến cô thành pháp sư thứ hai trong đội hình.",
+        "Bộ trang bị đi đường giữa cho Sephera."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/sephera/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Sephera",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Sephera"
     }
   },
   {
     "slug": "sinestrea",
     "name": "Sinestrea",
-    "title": null,
+    "title": "Huyết kiếm hỗn mang",
     "classes": [
       "Sát thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Hội ám hoàng",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/680ef284724e077237f33cfc2d8fa72d5fa194bad60f31.jpg",
     "searchKey": "sinestrea",
     "damageType": "Vật lý",
@@ -22918,7 +23221,9 @@
         "name": "Huyết hoa",
         "description": "Mỗi đòn đánh thường trúng mục tiêu của Sinestrea sẽ tăng tầm đánh và tốc đánh, sau 4 lần liên tiếp cô sẽ chuyển sang trạng thái bắn xa. Mỗi khi đổi trạng thái, cô sẽ làm mới thời gian hồi chiêu 1 và chiêu 2.\n\nSau khi vào trận, nút Biến về sẽ được thay thế bằng Huyết tế.\n\nHuyết tế: Sinestrea hy sinh 50% máu hiện tại để gây sát thương cho địch trong phạm vi và làm choáng chúng 0.5 giây đồng thời khiến bản thân không thể bị chọn làm mục tiêu. Ngoài ra mỗi tướng địch bị trúng chiêu giúp cô hồi 10% máu tối đa (Hồi chiêu 150 giây).",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d0b146512f795a344b6f807ea1a945465fa1a0538f93b1.png",
-        "effects": []
+        "effects": [
+          "Cường hóa"
+        ]
       },
       {
         "slot": "1",
@@ -22926,7 +23231,9 @@
         "name": "Huyết đột (Huyết tiễn, khi đánh xa)",
         "description": "Đánh gần: Trong trạng thái cận chiến, Sinestrea lướt về phía trước và lập tức chìm vào giấc ngủ. Đòn đánh kế tiếp sẽ biến thành đột kích gây sát thương vật lý cho mục tiêu và các đơn vị xung quanh. Ngoài ra nếu Sinestrea không di chuyển trong 2.5 giây cô cũng sẽ chìm vào giấc ngủ.\n\nĐánh xa: Sinestrea lướt theo hướng chỉ định và bắn một huyết tiễn. Nếu bắn trúng tướng địch đầu tiên, huyết tiễn sẽ gây sát thương tương đương và đẩy lùi. Nếu phía sau hắn có tường trong phạm vi 4m thì tướng địch này sẽ bị trói buộc (không thể rời khỏi phạm vi chỉ định).",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e7ccb6ae0dc5d35470936654ee62b61b5fa19c6081d721.png",
-        "effects": []
+        "effects": [
+          "24Đánh xa: Sinestrea lướt theo hướng chỉ định và bắn ra một huyết tiễn theo hướng đó. Huyết tiễn sau khi trúng phải tướng địch hoặc quái rừng đầu tiên sẽ gây sát thương vật lý và đẩy lùi nạn nhân; nếu sau lưng có tường trong phạm vi 4m thì nạn nhân sẽ bị trói buộc (không thể thoát ra khỏi phạm vi bị trói) trong 3 giây."
+        ]
       },
       {
         "slot": "2",
@@ -22934,7 +23241,9 @@
         "name": "Huyết sát (Huyết bão, khi đánh xa)",
         "description": "Đánh gần: Trong trạng thái cận chiến, Sinestrea vung kiếm theo hình nón về phía trước gây sát thương vật lý.\n\nĐánh xa: Trong trạng thái đánh xa, Sinestrea ngắm chuẩn hướng chỉ định và khóa tất cả các đơn vị địch trong phạm vi trong một khoảng thời gian. Sau khi kết thúc việc ngắm chuẩn, cô bắn chùm huyết tiễn vào tất cả các đơn vị đó và gây sát thương vật lý gấp đôi.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/77b68f6f87eab58d39931dd4b14d04165fa19cb580d1d1.png",
-        "effects": []
+        "effects": [
+          "24Đánh xa: Sinestrea ngắm chuẩn và khóa tất cả kẻ địch trong phạm vi chỉ định. Mục tiêu bị khóa sẽ bị bắn huyết tiễn đến gây sát thương vật lý kèm theo 10% máu đã mất của chúng thành sát thương vật lý (tối đa 500 lên quái rừng)."
+        ]
       },
       {
         "slot": "3",
@@ -22942,7 +23251,10 @@
         "name": "Huyết ảnh",
         "description": "Sinestrea tiến vào trạng thái đánh xa và mỗi đòn đánh thường trong thời gian này sẽ bắn ra 3 huyết tiễn đồng thời bản thân nhận 10 - 20% hiệu ứng hút máu vật lý kèm tăng 30% tốc chạy và miễn làm chậm.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/89e44aa63095d912e088158a57d2771a5fa19f60bc8421.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Cường hóa"
+        ]
       }
     ],
     "skins": [
@@ -23111,7 +23423,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 12-02",
+      "Chiều cao: 163cm",
+      "Nơi sinh: Tân liên hiệp",
+      "Vai trò: Thành viên Hội ám hoàng",
+      "Khác: Sức mạnh khống chế máu của Sinestrea đến từ Vực hỗn mang. Bởi vì huyết áp thấp nên Sinestrea rất thích ăn đồ ngọt.",
+      "Bí mật: Vì cùng chung dòng máu, Sinestrea cảm nhận được tất cả hỷ nộ ái ố của Dextra. Khi bên cạnh Dextra, Sinestrea có thể ngủ rất ngon. Sinestrea gần đây mới biết rằng trận thảm sát năm đó nhằm vào gia tộc của nàng có để lại dấu vết của ma pháp Tháp quang minh."
+    ],
     "lore": [
       "Blood. It dries slowly in the night wind.",
       "Sinestrea pulled at her thin nightgown, trying to hold in every bit of warmth. Below the nightgown was a pair of pretty bare feet rustling through twigs, leaves, and mud. Right now, all she wanted to do was get as far as possible from that place she once called home.",
@@ -23188,11 +23507,37 @@
       "“From now on, your life is my life!”"
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Kiếm truy hồn",
+          "Giày du mục",
+          "Thương Xuyên Phá",
+          "Chùy băng sương",
+          "Nanh Fenrir",
+          "Thương khung kiếm"
+        ]
+      ],
+      "badges": [
+        "Dư ảnh",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Trừng trị",
+        "Tê tái"
+      ],
+      "notes": [
+        "Bộ trang bị đề cử cho Sinestrea đi rừng giúp tối đa hóa tốc đánh lẫn sát thương gây ra. Có thể lên Giày thuật sĩ để hồi chiêu nhanh và/hoặc Thánh kiếm để tăng tỷ lệ chí mạng cho bản thân.",
+        "Sinestrea là một vị tướng rất khó chịu khi có thể tàng hình toàn thời gian để tạo lợi thế cho đồng đội hoặc lén lút soi tầm nhìn của kẻ địch nhằm cướp mục tiêu hoặc đẩy lẻ và bắt lẻ; mặc dù mang bản chất là một sát thủ nhưng cô nàng say ngủ này lại có thể trói chặt kẻ địch bằng chiêu 1, điều mà trước giờ mới chỉ có một vị tướng mang thiên hướng Đấu sĩ/Đỡ đòn như Omen làm được. Cùng với đó là sự khó chịu cực kỳ lớn khi có thể đánh thường cấu rỉa liên tục bằng chiêu cuối và sát thương bùng nổ trong phạm vi rộng từ chiêu 2 khiến Sinestrea từ sau khi làm lại vào khoảng năm 2025 trở nên cực kỳ lỗi nếu vào tay đúng người chơi và thường xuyên nằm trên bảng cấm ở cả đấu hạng lẫn esport chuyên nghiệp."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/sinestrea/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Sinestrea",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Sinestrea"
     }
   },
@@ -23578,12 +23923,12 @@
   {
     "slug": "stuart",
     "name": "Stuart",
-    "title": null,
+    "title": "Huyết nhãn tà nhân",
     "classes": [
       "Xạ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Rồng",
+    "faction": "Tân liên hiệp (phản diện)\nHội ám hoàng (hợp tác)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/aaba7b63f6e2f5577fbb3465925c8026658d3d704767f1.jpg",
     "searchKey": "stuart",
     "damageType": null,
@@ -23699,7 +24044,14 @@
     "stats": [],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 11-10",
+      "Chiều cao: 179cm",
+      "Nơi sinh: Tân liên hiệp",
+      "Vai trò: Huyết nhân tà nhãn",
+      "Khác: Stuart có khả năng thiên phú nhìn thấy dòng chảy năng lượng trong cơ thể người. Stuart sợ hãi và ghét những con người có dòng chảy năng lượng xấu xí đến gần mình.",
+      "Bí mật: Stuart có một nỗi ám ảnh khác thường về kaine. Để sưu tập dòng chảy năng lượng, Stuart hợp tác với rất nhiều tổ chức, trong đó có Hội ám hoàng. Stuart gọi richter là lão khọm già."
+    ],
     "lore": [
       "The Creator created all things, gave them countless differences, but forgot to give them eyes to distinguish between beauty and badness.",
       "Therefore, sentient beings are completely immersed in ignorance, and can only use their own shallow and stupid eyes to distinguish this world that is also as shallow and stupid as them.”",
@@ -23713,11 +24065,35 @@
       "This scene made Stuart very shocked and excited. At that moment he realized that he had found the function given to him by heaven: He had to become a pattern collector, he wanted beautiful patterns to bloom. Radiate, then make them permanently fixed at the most beautiful moment."
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày du mục",
+          "Thương Xuyên Phá",
+          "Kiếm Fafnir",
+          "Nanh Fenrir",
+          "Giáp Gaia",
+          "Diệt thần cung"
+        ]
+      ],
+      "badges": [
+        "Tương phản",
+        "Xuyên tâm",
+        "Tinh linh",
+        "Shm",
+        "Uy áp"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị cho Stuart đi xạ thủ giúp cải thiện tốc đánh lẫn sát thương gây ra và đồng thời cung cấp lượng giáp phép nhất định để phần nào đối phó với sát thương phép đến từ đối phương, nhất là các tướng đi rừng như keera hay paine. Nếu e ngại trước khả năng khống chế của pháp sư hoặc đỡ đòn đối phương có thể lên Giày kiên cường, còn nếu muốn chơi an toàn với nhiều giáp phép hơn thì có thể thay thế Giáp Gaia thành Huân chương Troy, tuy nhiên vàng cần bỏ ra sẽ đắt hơn. Có thể lên Chùy băng sương nếu muốn có khả năng làm chậm kẻ địch mỗi khi đánh thường giúp kiểm soát thế trận."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/stuart/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Stuart",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Stuart"
     }
   },
@@ -23906,12 +24282,12 @@
   {
     "slug": "taara",
     "name": "Taara",
-    "title": null,
+    "title": "Búa cuồng bạo",
     "classes": [
       "Đỡ đòn"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Vực hỗn mang\nTháp quang minh (từng)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f69423f533b12cbcd8ab15a7127e1e445e79e0b77e4ec1.jpg",
     "searchKey": "taara",
     "damageType": "Vật lý",
@@ -23930,7 +24306,10 @@
         "name": "Chiến ý",
         "description": "\"Nội tại: Mỗi 1% máu tối đa bị mất được thêm công vật lý.\n\nKhi sử dụng chiêu thức/chiêu cuối sẽ tiêu hao 4%/8% máu hiện tại và hồi lại 6% máu đã mất trong 3 giây.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f5fbd9c0377aff8cfad1fa66443bab905840e7300d82e1.png",
-        "effects": []
+        "effects": [
+          "Tăng ST",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "1",
@@ -23938,7 +24317,10 @@
         "name": "Trăn trối",
         "description": "Taara nhảy lên và sử dụng cây búa nặng nề của cô đập lún mặt đất, gây sát thương vật lý và làm chậm tốc chạy của nạn nhân trúng chiêu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/93b2c58aade2134597019530aecf192559706f88d9f831.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "2",
@@ -23946,7 +24328,10 @@
         "name": "Đập tan",
         "description": "Taara vung búa xoay tròn gây hai lượt sát thương vật lý lên kẻ địch lân cận.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bdaeeab0844fbddc7c40493b0659932a59706f9bee6fe1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "ST vùng"
+        ]
       },
       {
         "slot": "3",
@@ -23954,7 +24339,10 @@
         "name": "Thân thể thép",
         "description": "Taara sử dụng hết tiềm năng của mình giúp phục hồi 8% máu tối đa mỗi giây trong 1 thời gian, đồng thời tăng tốc chạy bản thân.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/cd3129805ce41ebfd3a5e298eb2d78cc5840e7201f8591.png",
-        "effects": []
+        "effects": [
+          "Hồi phục",
+          "Tăng tốc"
+        ]
       }
     ],
     "skins": [
@@ -24034,14 +24422,58 @@
     "stats": [],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 08-04",
+      "Chiều cao: 174cm",
+      "Nơi sinh: Vương quốc Okka",
+      "Vai trò: Đọa lạc giả",
+      "Khác: Taara cùng tộc nhân trở thành đọa lạc giả nhưng họ không thể thích ứng tốt như nàng. Đại chùy của Taara chính là được luyện từ thép đen của dãy núi Thép.",
+      "Bí mật: Kẻ mà Taara ghét nhất là Gildur. Taara thường xung phong đi xâm chiếm phía bắc, nguyên nhân là do phía đó là dãy núi Thép. Natalya là người nói chuyện với Taara hợp nhất trong Vực hỗn mang."
+    ],
     "lore": [],
-    "trivia": [],
-    "build": null,
+    "trivia": [
+      "Trình Giảo Kim, bản gốc của Taara ở Liên Quân Mobile, hiện chưa có mặt tại Honor of Kings Global."
+    ],
+    "build": {
+      "itemSets": [
+        [
+          "Giày hộ vệ",
+          "Áo choàng thần Ra",
+          "Giáp Gaia",
+          "Khiên thất truyền",
+          "Giáp thống khổ",
+          "Nham thuẫn"
+        ],
+        [
+          "Rìu Leviathan",
+          "Giày kiên cường",
+          "Giáp thống khổ",
+          "Giáp Gaia",
+          "Nham thuẫn",
+          "Phù chú trường sinh"
+        ]
+      ],
+      "badges": [
+        "Canh gác",
+        "Bơm máu",
+        "Mộc giáp",
+        "Thánh châu",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Trừng trị",
+        "Tê tái",
+        "Bộc phá"
+      ],
+      "notes": [
+        "Bộ trang bị cho Taara đi đường đơn. Taara càng mất máu thì sát thương gây ra càng cao, do đó nên ưu tiên các trang bị cung cấp nhiều máu tối đa và khả năng chống chịu cũng như hồi phục của bản thân. Nên giữ lại chiêu cuối và sử dụng khi còn gần nửa thanh máu để đạt hiệu quả mạnh mẽ nhất trong giao tranh.",
+        "Taara cũng có thể đem theo Trừng trị để đi đường đơn chứ không chỉ đơn thuần là đi rừng; lối chơi này sẽ giúp đồng đội có lợi thế lớn trong việc tranh chấp mục tiêu quan trọng trên bản đồ."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/taara/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Taara",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Taara"
     }
   },
