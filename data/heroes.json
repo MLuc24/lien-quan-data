@@ -1741,7 +1741,7 @@
       "Secrets: Pernah tersasar di kamar D'Arcy akibat salah mantera. Suka pria berkulit gelap dengan senyum mempesona. Melewatkan pagi dengan berlatih di mantera sihir."
     ],
     "trivia": [
-      "Annette được gọi vui là \"Bà hoàng Sổ sứ mệnh\" trong cộng đồng Liên Quân Mobile khi có tới 6 trong tổng số 11 trang phục của vị tướng này đến từ Sổ sứ mệnh.",
+      "Annette được gọi vui là \"Bà hoàng Sổ sứ mệnh\" trong cộng đồng Liên Quân Mobile khi có tới 7 trang phục của vị tướng này đến từ Sổ sứ mệnh.",
       "Nội tại của Annette tính theo khoảng cách chứ không phụ thuộc vào việc người chơi có di chuyển hay không; nếu sử dụng biến về thì sẽ có thể thấy rõ các chiêu giảm hồi chiêu đột ngột, chẳng hạn chiêu cuối có thể giảm tới tận 10-20 giây sau khi biến về thành công."
     ],
     "build": {
@@ -3517,12 +3517,12 @@
   {
     "slug": "aya",
     "name": "Aya",
-    "title": null,
+    "title": "Ca sĩ tinh linh",
     "classes": [
       "Trợ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Rừng nguyên sinh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d4510fa53f153c5e259543597c96bb88658d3efcbcd0f1.jpg",
     "searchKey": "aya",
     "damageType": "Phép",
@@ -3542,7 +3542,10 @@
         "name": "Linh hồn sóc nhỏ",
         "description": "Dưới 40% máu, Aya biến thành sóc nhỏ trong 5 giây, không bị chọn làm mục tiêu và nhận bộ chiêu thức mới.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7b7a9758645dcbb4da402a3bcf55df8d658d438e3695e1.png",
-        "effects": []
+        "effects": [
+          "Biến hóa",
+          "Không bị khóa mục tiêu"
+        ]
       },
       {
         "slot": "1",
@@ -3550,7 +3553,10 @@
         "name": "Nốt nhạc ánh sáng",
         "description": "Bắn ra quang cầu gây sát thương phép và làm chậm kẻ địch đồng thời khiến địch lộ diện",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6a64666569b09ee27814113455e03330658d43cce2b5b1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "2",
@@ -3558,7 +3564,10 @@
         "name": "Rừng sâu bảo hộ",
         "description": "Aya bay đến biến thành lớp giáp ảo bảo vệ đồng đội chỉ định. Nếu đã trong trạng thái giáp ảo, Aya lập tức tạo thêm lá chắn cho đồng đội. Kéo chiêu để nhảy ra khỏi đồng đội.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2c16a441a77ef0d629b8e0ea5f6c2914658d443158c501.png",
-        "effects": []
+        "effects": [
+          "Nhập hồn",
+          "Lá chắn"
+        ]
       },
       {
         "slot": "3",
@@ -3566,7 +3575,10 @@
         "name": "Khúc nhạc rừng sâu",
         "description": "Tạo pháp trận quanh đồng đội có lá chắn linh hồn giúp đồng đội tăng tốc chạy và gây sát thương lên địch trong phạm vi khiến địch bị biến hình",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/aaa53e7c45352b1194d90df281716fd8658d44aeca0771.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Biến hình"
+        ]
       }
     ],
     "skins": [
@@ -3719,18 +3731,65 @@
     ],
     "goldCost": "18,888",
     "voucherCost": "1,199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 21-03",
+      "Chiều cao: 155cm",
+      "Nơi sinh: Rừng nguyên sinh",
+      "Vai trò: Ca sĩ của Rừng nguyên sinh",
+      "Khác: Aya có người bạn là một chú rồng đáng yêu. Tiếng hát của Aya có thể đem đến sức mạnh cho người nghe.",
+      "Bí mật: Buổi diễn đầu tiên của Aya có được nhiều khán giả chính là do krixi ép đến. elandorr đáp ứng sẽ đàn đệm cho Aya hát trong buổi biểu diễn. Aya rời khỏi Rừng nguyên sinh không chỉ vì hẹn với elandorr mà còn vì để ngắm trai đẹp."
+    ],
     "lore": [
       "The spirit of the world tree gave birth to a little squirrel named Aya. After being able to transform into a human, Aya met Eland'orr and Krixi in the Elborne Forest, and it was there that she first encountered the world of music. She would often lie down and listen to Eland'orr play music for her on his shoulders, or have Krixi teach her how to sing. Soon after, Aya became a singer and held concerts in the Elborne Forest. Shortly after her debut, Aya became the little idol of Afata. She believed that singing could bring happiness to others, and she had no idea that behind all this, Krixi was forcing the forest elves to join her concerts and not say anything bad. Soon after, Eland'orr chose to leave the Shadow Forest to atone for his sins. Before leaving, Eland'orr told Aya that when they met, she had to become the number one idol of Athanor. From there, Aya began training hard to achieve becoming the world's first great idol. Aya made many friends through her music, including elves, orcs, humans, and even dragons. The communication between her friends made Aya realize that there were still many things in this world that she did not know. But she thought that singing her songs could help heal the unhappy people in this world, so that people would be happier, this little idol tried even harder. Aya always remembered the deal with Eland'orr, she believed that one day, she would walk away. Aya always remembered the deal with Eland'orr, she believed that one day, she would walk away from the Shadow Forest and perform all over the continent, so that everyone could hear her singing, and when the performance was over, she would go back to play with Krixi and listen to Eland'orn sing the music on his shoulders again."
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Liệt hoả hồi huyết",
+          "Giày thuật sĩ",
+          "Sách Truy Hồn",
+          "Trượng băng",
+          "Mặt nạ Berith",
+          "Trượng hỗn mang"
+        ],
+        [
+          "Giày thuật sĩ",
+          "Mặt nạ Berith",
+          "Sách Truy Hồn",
+          "Trượng hỗn mang",
+          "Vương miện Hecate",
+          "Sách thánh"
+        ]
+      ],
+      "badges": [
+        "Ma hỏa",
+        "Cường công",
+        "Ma tính",
+        "Thánh châu",
+        "Xuyên tâm",
+        "Tương phản",
+        "Xuyên tâm",
+        "Thần quang",
+        "Ma hỏa",
+        "Cường công"
+      ],
+      "spells": [],
+      "notes": [
+        "Bộ trang bị đề cử cho Aya đi trợ thủ giúp mang lại lượng lá chắn cùng sát thương cấu rỉa mạnh mẽ cho đồng đội, đồng thời mang lại nhiều giảm hồi chiêu nhất có thể để thường xuyên thi triển chiêu thức trong giao tranh. Có thể bỏ qua giày để lên ngay Sách truy hồn từ giai đoạn sớm và lên Sách thánh về cuối trận, nhưng lựa chọn này khá rủi ro và không mang lại nhiều giảm hồi chiêu cũng như tốc chạy trong trường hợp đồng minh bị hạ gục khiến Aya bị cưỡng chế rời khỏi và phải cố tháo chạy.",
+        "Lựa chọn hàng đầu cho Aya khi leo lên để bảo kê đồng minh bằng chiêu 2 là xạ thủ, tuy nhiên các tướng đấu sĩ và sát thủ có bản năng \"ăn thịt\" và phải thường xuyên lao vào đối thủ như nakroth, billow hay thậm chí là flo và butterfly cũng là một lựa chọn ổn áp cho nàng sóc nhỏ. (Nhưng đừng leo lên đầu các tướng tàng hình như kaine hay wukong để khiến vị trí của họ bị lộ và khiến họ bị hạ gục đầy cay đắng.)",
+        "Tuy nhiên đừng quên rằng trận đấu không chỉ có mỗi bạn với người chơi đi rừng. Đối phương có 5 người và đội bạn cũng thế, và không chỉ vị trí đi rừng mà tất cả người chơi đều cần một Aya biết bảo kê và tung chiêu chính xác. Đặc biệt đừng \"bỏ rơi AD\" và đi với rừng từ đầu đến cuối trận, mặc kệ xạ thủ team mình sống chết hay bị ép đường ra sao.",
+        "Bộ trang bị cho Aya đi đường giữa, phổ biến hơn đáng kể ở rank cao và đấu chuyên nghiệp so với các bậc hạng thấp. Aya sẽ đóng vai trò là tướng pháp sư trong đội hình với lối lên đồ này và có thể phối hợp cực kỳ tốt với các vị tướng trâu bò trong đội hình như toro hay taara, giúp các vị tướng này vừa chống chịu và hồi phục khỏe lại vừa có lá chắn đủ hữu dụng trong giao tranh.",
+        "Ma tính mang lại giảm hồi chiêu cho Aya sau khi tung chiêu cuối, còn Thần quang sẽ giúp cải thiện sát thương.",
+        "<s>Đương nhiên bạn có thể mang theo Bộc phá để giành hết phần lớn mạng hạ gục về mình, nhưng lối chơi này rất \"sv\" và không nên áp dụng nếu bạn muốn chơi nghiêm túc thay vì bị đồng đội gọi là động vật đi bằng bốn chân.</s>"
+      ]
+    },
     "balanceHistory": [
       "Placeholder Text"
     ],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/aya/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Aya",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Aya"
     }
   },
@@ -23513,7 +23572,7 @@
           "Kiếm truy hồn",
           "Giày du mục",
           "Thương Xuyên Phá",
-          "Chùy băng sương",
+          "Thánh kiếm",
           "Nanh Fenrir",
           "Thương khung kiếm"
         ]
@@ -23530,7 +23589,7 @@
         "Tê tái"
       ],
       "notes": [
-        "Bộ trang bị đề cử cho Sinestrea đi rừng giúp tối đa hóa tốc đánh lẫn sát thương gây ra. Có thể lên Giày thuật sĩ để hồi chiêu nhanh và/hoặc Thánh kiếm để tăng tỷ lệ chí mạng cho bản thân.",
+        "Bộ trang bị đề cử cho Sinestrea đi rừng giúp tối đa hóa tốc đánh lẫn sát thương gây ra.",
         "Sinestrea là một vị tướng rất khó chịu khi có thể tàng hình toàn thời gian để tạo lợi thế cho đồng đội hoặc lén lút soi tầm nhìn của kẻ địch nhằm cướp mục tiêu hoặc đẩy lẻ và bắt lẻ; mặc dù mang bản chất là một sát thủ nhưng cô nàng say ngủ này lại có thể trói chặt kẻ địch bằng chiêu 1, điều mà trước giờ mới chỉ có một vị tướng mang thiên hướng Đấu sĩ/Đỡ đòn như Omen làm được. Cùng với đó là sự khó chịu cực kỳ lớn khi có thể đánh thường cấu rỉa liên tục bằng chiêu cuối và sát thương bùng nổ trong phạm vi rộng từ chiêu 2 khiến Sinestrea từ sau khi làm lại vào khoảng năm 2025 trở nên cực kỳ lỗi nếu vào tay đúng người chơi và thường xuyên nằm trên bảng cấm ở cả đấu hạng lẫn esport chuyên nghiệp."
       ]
     },
@@ -24048,7 +24107,7 @@
       "Sinh nhật: 11-10",
       "Chiều cao: 179cm",
       "Nơi sinh: Tân liên hiệp",
-      "Vai trò: Huyết nhân tà nhãn",
+      "Vai trò: Huyết nhãn tà nhân",
       "Khác: Stuart có khả năng thiên phú nhìn thấy dòng chảy năng lượng trong cơ thể người. Stuart sợ hãi và ghét những con người có dòng chảy năng lượng xấu xí đến gần mình.",
       "Bí mật: Stuart có một nỗi ám ảnh khác thường về kaine. Để sưu tập dòng chảy năng lượng, Stuart hợp tác với rất nhiều tổ chức, trong đó có Hội ám hoàng. Stuart gọi richter là lão khọm già."
     ],
