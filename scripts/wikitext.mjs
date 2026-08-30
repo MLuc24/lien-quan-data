@@ -6,45 +6,21 @@
  * và cắt mất phần lớn tham số. Ở đây quét theo cặp ngoặc cân bằng.
  */
 
-/**
- * Mọi lần xuất hiện của template `{{name...}}`, trả về phần bên trong đã cân
- * bằng ngoặc, theo thứ tự trong trang.
- *
- * Phải duyệt hết chứ không dừng ở lần đầu: trang Tulen mở `{{Hero infobox` hai
- * lần vì có người dán một câu trích vào giữa tên template và tham số rồi mở lại
- * template. Lần mở đầu không bao giờ đóng, nên đếm ngoặc chạy tới hết trang mà
- * không về 0; toàn bộ chỉ số và giá của tướng đó biến mất. Lần mở thứ hai lại
- * hoàn toàn hợp lệ.
- */
-export function extractTemplates(text, name) {
-  const found = [];
-  const opening = `{{${name}`;
+/** Tìm template `{{name...}}` đầu tiên, trả về phần bên trong (đã cân bằng ngoặc). */
+export function extractTemplate(text, name) {
+  const start = text.indexOf(`{{${name}`);
+  if (start === -1) return null;
 
-  for (let start = text.indexOf(opening); start !== -1; start = text.indexOf(opening, start + 2)) {
-    let depth = 0;
-    for (let i = start; i < text.length - 1; i++) {
-      if (text[i] === '{' && text[i + 1] === '{') {
-        depth++;
-        i++;
-        continue;
-      }
-      if (text[i] === '}' && text[i + 1] === '}') {
-        depth--;
-        if (depth === 0) {
-          found.push(text.slice(start + 2 + name.length, i));
-          break;
-        }
-        i++;
-      }
+  let depth = 0;
+  for (let i = start; i < text.length - 1; i++) {
+    if (text[i] === '{' && text[i + 1] === '{') { depth++; i++; continue; }
+    if (text[i] === '}' && text[i + 1] === '}') {
+      depth--;
+      if (depth === 0) return text.slice(start + 2 + name.length, i);
+      i++;
     }
   }
-
-  return found;
-}
-
-/** Lần xuất hiện cân bằng ngoặc đầu tiên của template `{{name...}}`. */
-export function extractTemplate(text, name) {
-  return extractTemplates(text, name)[0] ?? null;
+  return null;
 }
 
 /** Tách tham số template theo dấu `|` ở cấp ngoài cùng (bỏ qua `|` nằm trong {{}} hoặc [[]]). */
@@ -117,47 +93,12 @@ export function allTemplates(text = '', templateName) {
  * Các template chỉ để tô màu/gắn icon ({{colors|…}}, {{buff|…}}, {{IconDesc|icon|chữ}})
  * được thay bằng phần chữ bên trong thay vì xoá, nếu không sẽ mất nội dung.
  */
-/**
- * Không gian tên của MediaWiki: liên kết tới thể loại, tệp hay trang trang phục
- * là dữ liệu quản trị của wiki, không phải câu chữ để đọc.
- */
-const NAMESPACES = 'Category|Thể loại|File|Tập tin|Image|Hình|Media|Skin';
-
-/**
- * Chữ bị giải mã sai, sửa lại về ký tự đúng.
- *
- * Nguồn có những đoạn từng bị đọc bằng bảng mã một byte rồi lưu lại thành UTF-8,
- * nên một dấu gạch dài hoá thành ba ký tự lạ. Tiểu sử của Dirak trên site đang
- * hiện "absorbâ€"even" vì vậy. Sửa ở đây chứ không ở bước tải: lỗi nằm sẵn
- * trong bài trên wiki, tải lại bao nhiêu lần cũng ra như thế.
- *
- * Chỉ liệt kê những chuỗi đã gặp và những chuỗi cùng họ gần kề. Không đổi bảng
- * mã cả chuỗi vì cách đó sẽ phá hỏng tên riêng viết đúng.
- */
-const MOJIBAKE = [
-  ['\u00e2\u20ac\u201c', '\u2013'],
-  ['\u00e2\u20ac\u201d', '\u2014'],
-  ['\u00e2\u20ac\u2122', '\u2019'],
-  ['\u00e2\u20ac\u02dc', '\u2018'],
-  ['\u00e2\u20ac\u009d', '\u201d'],
-  ['\u00e2\u20ac\u009c', '\u201c'],
-  ['\u00e2\u20ac\u00a6', '\u2026'],
-];
-
-/** Sửa chữ giải mã sai trước mọi bước khác, để các biểu thức sau khớp đúng. */
-function repairMojibake(text) {
-  let out = text;
-  for (const [broken, fixed] of MOJIBAKE) out = out.split(broken).join(fixed);
-  // Khoảng trắng không ngắt bị đọc sai thành "Â " — trả về khoảng trắng thường.
-  return out.replace(/\u00c2(?=[\s\u00a0])/g, '').replace(/\u00a0/g, ' ');
-}
-
 export function cleanWikitext(text = '') {
   // {{!}} là cách wiki viết ký tự `|` bên trong bảng — khôi phục trước khi gỡ template,
   // nếu không giá trị kiểu "133 {{!}} 0%" sẽ mất dấu phân cách.
   // Chú thích ẩn của MediaWiki không phải nội dung hiển thị; gỡ trước mọi bước khác
   // để chuỗi kiểu "80 / 11.7 %<!--Offensive stats-->" không lọt vào giá trị stats.
-  let out = repairMojibake(text).replace(/<!--[\s\S]*?-->/g, '');
+  let out = text.replace(/<!--[\s\S]*?-->/g, '');
 
   out = out.replace(/\{\{\s*!\s*\}\}/g, '|');
 
@@ -186,11 +127,6 @@ export function cleanWikitext(text = '') {
     out = out.replace(/\{\{[^{}]*\}\}/g, '');
   } while (out !== prev);
 
-  // Gỡ liên kết không gian tên trước khi rút gọn liên kết thường. Nếu để lọt
-  // xuống bước dưới thì "[[Category:Heroes]]" bị bóc vỏ thành dòng chữ
-  // "Category:Heroes" nằm lại trong tiểu sử — đúng thứ đang hiện ở trang Dolia.
-  out = out.replace(new RegExp(`\\[\\[(?:${NAMESPACES}):[^\\]]*\\]\\]`, 'gi'), '');
-
   out = out
     .replace(/\[\[[^\]|]*\|([^\]]*)\]\]/g, '$1')  // [[đích|hiển thị]] -> hiển thị
     .replace(/\[\[([^\]]*)\]\]/g, '$1')           // [[trang]] -> trang
@@ -200,9 +136,6 @@ export function cleanWikitext(text = '') {
     .replace(/<\/?(small|b|i|big|center|div|span|gallery)[^>]*>/gi, '')
     .replace(/'''?/g, '')                 // đậm/nghiêng
     .replace(/^[:*#]+\s*/gm, '')          // đầu dòng danh sách
-    // Dòng chỉ còn tên không gian tên: hoặc do bước trên bóc vỏ ở lần crawl cũ,
-    // hoặc do nguồn viết thiếu dấu ngoặc. Cách nào cũng không phải nội dung.
-    .replace(new RegExp(`^(?:${NAMESPACES}):.*$`, 'gim'), '')
     .replace(/[ \t]+/g, ' ')
     .replace(/ *\n */g, '\n')
     .replace(/\n{3,}/g, '\n\n');
@@ -210,18 +143,9 @@ export function cleanWikitext(text = '') {
   return out.trim();
 }
 
-/**
- * Cắt nội dung một mục `== Tiêu đề ==` (không lấy các mục con phía sau cùng cấp).
- *
- * Tiêu đề được ghép thẳng vào biểu thức nên phải thoát ký tự đặc biệt: trang của
- * Kaine và Stuart có hai mục kỹ năng, phân biệt bằng ngoặc đơn
- * ("== Kỹ năng (Kaine) ==" và "== Kỹ năng (Batman) =="). Không thoát thì cặp
- * ngoặc thành nhóm bắt của regex, biểu thức đi tìm chuỗi không có ngoặc và
- * không khớp mục nào cả.
- */
+/** Cắt nội dung một mục `== Tiêu đề ==` (không lấy các mục con phía sau cùng cấp). */
 export function section(text = '', heading) {
-  const escaped = String(heading).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const re = new RegExp(`^(={2,})\\s*'*${escaped}'*\\s*\\1\\s*$`, 'im');
+  const re = new RegExp(`^(={2,})\\s*'*${heading}'*\\s*\\1\\s*$`, 'im');
   const match = text.match(re);
   if (!match) return null;
 

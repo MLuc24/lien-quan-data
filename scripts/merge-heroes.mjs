@@ -9,8 +9,7 @@
  */
 import { readFile } from 'node:fs/promises';
 import { noAccent, writeJson } from './lib.mjs';
-import { describeSnapshot, readCrawlInfo } from './crawl-info.mjs';
-import { extractTemplate, extractTemplates, parseParams, firstArg, allTemplates, cleanWikitext, section, bulletList, paragraphs, textLines } from './wikitext.mjs';
+import { extractTemplate, parseParams, firstArg, allTemplates, cleanWikitext, section, bulletList, paragraphs, textLines } from './wikitext.mjs';
 
 const read = async (p) => JSON.parse(await readFile(p, 'utf8'));
 
@@ -65,20 +64,9 @@ const key = (s) => noAccent(s).replace(/\s+/g, '');
 
 /* ------------------------------------------------------------------ Fandom VI */
 
-/**
- * Bảng kỹ năng bản VI: lấy phân loại hiệu ứng theo từng chiêu.
- *
- * Tướng làm lại từ một tướng bản quyền cũ giữ cả hai bộ kỹ năng trên cùng một
- * trang, phân biệt bằng ngoặc đơn: Kaine có "Kỹ năng (Kaine)" lẫn
- * "Kỹ năng (Batman)", Stuart có "Kỹ năng (Stuart)" lẫn "Kỹ năng (Joker)".
- *
- * Không có phương án dự phòng kiểu "lấy mục đầu tiên": đoán sai ở đây nghĩa là
- * gán bộ kỹ năng của tướng khác cho tướng này, tệ hơn hẳn so với để trống.
- */
-function parseSkillEffects(wikitext, heroTitle) {
-  const skillSection =
-    section(wikitext, 'Kỹ năng') ??
-    (heroTitle ? section(wikitext, `Kỹ năng (${heroTitle})`) : null);
+/** Bảng kỹ năng bản VI: lấy phân loại hiệu ứng theo từng chiêu. */
+function parseSkillEffects(wikitext) {
+  const skillSection = section(wikitext, 'Kỹ năng');
   const table = skillSection?.match(/\{\|[\s\S]*?\n\|\}/)?.[0];
   if (!table) return {};
 
@@ -128,7 +116,7 @@ function parseBuild(wikitext, canon) {
   };
 }
 
-function parseVi(wikitext, canon, title) {
+function parseVi(wikitext, canon) {
   const inner = extractTemplate(wikitext, 'Thông tin tướng');
   const info = inner ? parseParams(inner).named : {};
   const laneRaw = (firstArg(info.lane ?? '', 'Icon Role Lane') ?? '').trim();
@@ -140,7 +128,7 @@ function parseVi(wikitext, canon, title) {
     faction: cleanWikitext(info.phe ?? '') || null,
     hokName: cleanWikitext(info.namehok ?? '') || null,
     profile: bulletList(section(wikitext, 'Thông tin') ?? ''),
-    skillEffects: parseSkillEffects(wikitext, title),
+    skillEffects: parseSkillEffects(wikitext),
     build: parseBuild(wikitext, canon),
     trivia: bulletList(section(wikitext, 'Thông tin bên lề') ?? ''),
   };
@@ -148,29 +136,13 @@ function parseVi(wikitext, canon, title) {
 
 /* ------------------------------------------------------------------ Fandom EN */
 
-/**
- * Infobox EN đầu tiên đọc ra được tham số.
- *
- * Không nhận lần xuất hiện đầu tiên một cách vô điều kiện: một infobox khớp tên
- * mà không cho tham số nào là bộ đọc bó tay, không phải nguồn thiếu dữ liệu, và
- * hai chuyện đó không được nhìn giống nhau. Cứ tìm tiếp lần sau, rồi tới tên
- * infobox kế tiếp.
- */
-function findEnInfobox(wikitext) {
-  const mentioned = EN_INFOBOX.some((name) => wikitext.includes(`{{${name}`));
-
-  for (const name of EN_INFOBOX) {
-    for (const inner of extractTemplates(wikitext, name)) {
-      const named = parseParams(inner).named;
-      if (Object.keys(named).length) return { named, silentlyEmpty: false };
-    }
-  }
-
-  return { named: {}, silentlyEmpty: mentioned };
-}
-
 function parseEn(wikitext) {
-  const { named: box, silentlyEmpty } = findEnInfobox(wikitext);
+  let inner = null;
+  for (const name of EN_INFOBOX) {
+    inner = extractTemplate(wikitext, name);
+    if (inner) break;
+  }
+  const box = inner ? parseParams(inner).named : {};
   const lower = Object.fromEntries(Object.entries(box).map(([k, v]) => [k.toLowerCase().trim(), String(v).trim()]));
   const pick = (names) => names.map((n) => lower[n]).find((v) => v) ?? null;
 
@@ -181,7 +153,6 @@ function parseEn(wikitext) {
 
   return {
     stats,
-    silentlyEmpty,
     goldCost: cleanWikitext(pick(['goldcost']) ?? '') || null,
     voucherCost: cleanWikitext(pick(['vouchercost']) ?? '') || null,
     lore: paragraphs(section(wikitext, 'Lore') ?? ''),
@@ -210,7 +181,6 @@ function deriveDamageType(skills) {
 /* ---------------------------------------------------------------------- main */
 
 async function main() {
-  const crawlInfo = await readCrawlInfo();
   const [heroes, viPages, enPages, aliases, items, badges, spells] = await Promise.all([
     read('data/raw/heroes-garena.json'),
     read('data/raw/fandom-vi.json'),
@@ -244,10 +214,6 @@ async function main() {
   const enByKey = new Map(Object.keys(enPages).map((t) => [key(t), t]));
 
   const unmatchedVi = [];
-  // Trang có infobox nhưng bộ đọc không rút ra được tham số nào. Khác hẳn với
-  // trang không có infobox, và trước đây hai thứ đó cùng biến mất vào một con
-  // số độ phủ nhỏ đi một đơn vị.
-  const emptyInfobox = [];
   const unmatchedEn = [];
 
   const merged = heroes.map((hero) => {
@@ -259,9 +225,8 @@ async function main() {
     if (!viTitle) unmatchedVi.push(hero.name);
     if (!enTitle) unmatchedEn.push(hero.name);
 
-    const vi = viTitle && viPages[viTitle] ? parseVi(viPages[viTitle], canon, viTitle) : null;
+    const vi = viTitle && viPages[viTitle] ? parseVi(viPages[viTitle], canon) : null;
     const en = enTitle && enPages[enTitle] ? parseEn(enPages[enTitle]) : null;
-    if (en?.silentlyEmpty) emptyInfobox.push(hero.name);
 
     return {
       slug: hero.slug,
@@ -313,14 +278,8 @@ async function main() {
   console.log(`  nhãn lối chơi    : ${count((h) => h.tags.length)}`);
   console.log(`  loại sát thương  : ${count((h) => h.damageType)}`);
 
-  console.log(
-    `\nKhông ghép được Fandom VI (${unmatchedVi.length}). Ảnh chụp: ${describeSnapshot(crawlInfo['fandom-vi'])}.`
-  );
-  console.log('  Ảnh chụp thiếu bài mà wiki đã có thì không lộ ra ở đây; chạy npm run check:fandom để đối chiếu.');
+  console.log(`\nKhông ghép được Fandom VI (${unmatchedVi.length}) — chấp nhận được, wiki VI chỉ có 49 bài.`);
   console.log(`Không ghép được Fandom EN (${unmatchedEn.length}): ${unmatchedEn.join(', ') || '(không có)'}`);
-  console.log(
-    `Infobox EN khớp tên nhưng không đọc ra tham số (${emptyInfobox.length}): ${emptyInfobox.join(', ') || '(không có)'}`
-  );
 
   const leftover = Object.keys(enPages).filter((t) => !merged.some((h) => h.sources.fandomEn?.includes(encodeURIComponent(t))));
   console.log(`Trang EN chưa dùng (${leftover.length}): ${leftover.join(', ') || '(không có)'}`);
