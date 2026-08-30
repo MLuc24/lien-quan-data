@@ -7,6 +7,7 @@
  * Fandom phát hành nội dung theo giấy phép CC-BY-SA — phải ghi nguồn trên web.
  */
 import { writeJson } from './lib.mjs';
+import { recordCrawl } from './crawl-info.mjs';
 
 const WIKIS = {
   vi: { api: 'https://arenaofvalor.fandom.com/vi/api.php', listPage: 'Bản mẫu:AllHeroes', out: 'data/raw/fandom-vi.json' },
@@ -84,6 +85,14 @@ async function main() {
     console.log(`  có nội dung: ${present.length}/${titles.length}`);
 
     await writeJson(cfg.out, Object.fromEntries(present));
+
+    // Ảnh chụp nằm ngoài git; đây là thứ duy nhất được commit để về sau còn
+    // biết nó lấy khi nào và wiki lúc đó liệt kê bao nhiêu bài.
+    await recordCrawl(`fandom-${lang}`, {
+      crawledAt: new Date().toISOString(),
+      titles: titles.length,
+      pages: present.length,
+    });
   }
 }
 

@@ -9,6 +9,7 @@
     "crawl:systems": "node scripts/crawl-garena-systems.mjs",
     "crawl:fandom": "node scripts/crawl-fandom.mjs",
     "merge": "node scripts/merge-heroes.mjs",
+    "check:fandom": "node scripts/check-fandom.mjs",
     "data": "npm run crawl:heroes && npm run crawl:systems && npm run crawl:fandom && npm run merge"
   },
   "engines": { "node": ">=18" },
