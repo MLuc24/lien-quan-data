@@ -960,12 +960,12 @@
   {
     "slug": "allain",
     "name": "Allain",
-    "title": null,
+    "title": "Cuồng bạo song kiếm",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Hội ám hoàng (từng)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3aa1f0f335f87801117dbfa1d69b072b5ef1f1c297fe21.jpg",
     "searchKey": "allain",
     "damageType": "Vật lý",
@@ -987,7 +987,10 @@
         "name": "Kiếm gầm",
         "description": "Nội tại: Đòn đánh thường của Allain có hiệu ứng đột kích. Tung đón đánh thường và Kiếm lưu n gân trúng tướng đích sẽ giúp tăng Xuyên giáp và Xuyên giáp phép. Đạt đủ số lần đánh trúng địch sẽ giúp bản thân hồi máu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7789135118fa5c462d8bb84286ae12125ef1f471d61203.png",
-        "effects": []
+        "effects": [
+          "ST hỗn hợp",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "1",
@@ -995,7 +998,10 @@
         "name": "Kiếm lưu ngân",
         "description": "Gây nhiều lần sát thương và hất tung địch.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7ee1af6309a0779291bc62905134cbbb5ef1f961e15801-1.png",
-        "effects": []
+        "effects": [
+          "ST hỗn hợp",
+          "Miễn khống"
+        ]
       },
       {
         "slot": "2",
@@ -1003,7 +1009,10 @@
         "name": "Kiếm toả mệnh",
         "description": "Allain vung kiếm lướt theo hướng chỉ định và gây sát thương vật lý lên những kẻ địch trên đường lướt và làm chậm chúng.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f58937ccb405488543127fa5ba25f93a5ef1fa2188c431-1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "3",
@@ -1011,7 +1020,10 @@
         "name": "Kiếm tất sát",
         "description": "Allain lập tức biến mất và khóa 1 tướng địch. Sau 1.5 giây, hắn phóng xuống vị trí kẻ địch và gây sát thương chuẩn trong phạm vi.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c3339f412a7e0b1cb93b049ac24712165ef1fa73195831-1.png",
-        "effects": []
+        "effects": [
+          "Chuẩn",
+          "Không bị khóa mục tiêu"
+        ]
       }
     ],
     "skins": [
@@ -1180,7 +1192,14 @@
     ],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 01-07",
+      "Chiều cao: 172cm",
+      "Nơi sinh: Vương quốc Norman",
+      "Vai trò: Thành viên cũ của Hội ám hoàng",
+      "Khác: Allain ngây ngô nhưng nhiều lúc lại khiến butterfly động tâm yêu thích. Bởi vì cơ thể được cải tạo trùng sinh nên Allain đã quên hết quá khứ.",
+      "Bí mật: Allain luôn nhớ mãi sự vui vẻ khi ở cùng Butterfly. Allain vừa nhìn thấy lorion thì đã có cảm giác khó chịu. Allain thường xuyên hỏi violet về cách làm cho Butterfly vui vẻ."
+    ],
     "lore": [
       "Allain's earliest memories were of Casanova.",
       "As an orphan, he was fortunate enough to be taken in by the mercenary order and given the very best of training. Allain displayed an impressive talent for swordplay, and the instructors considered him a rising star.",
@@ -1193,7 +1212,12 @@
       "Allain no longer recognized Butterfly, but he was deeply touched by her kindness."
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [],
+      "badges": [],
+      "spells": [],
+      "notes": []
+    },
     "balanceHistory": [
       "(ADJUST)",
       "Passive: Howling Sword",
@@ -1218,7 +1242,7 @@
     ],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/allain/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Allain",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Allain"
     }
   },
@@ -8752,7 +8776,7 @@
     "goldCost": null,
     "voucherCost": null,
     "profile": [
-      "Ngày sinh: Chưa rõ",
+      "Sinh nhật: Chưa rõ",
       "Chiều cao: Chưa rõ",
       "Nơi sinh: Tháp quang minh",
       "Vai trò: Cường giả độc hành",
@@ -9406,12 +9430,12 @@
   {
     "slug": "enzo",
     "name": "Enzo",
-    "title": null,
+    "title": "Kẻ hành quyết",
     "classes": [
       "Sát thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Tháp quang minh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/81d7c827262287ce87639f3bfa048f5a5d149a6d571091.jpg",
     "searchKey": "enzo",
     "damageType": "Vật lý",
@@ -9432,7 +9456,10 @@
         "name": "Tín niệm",
         "description": "Enzo tiến vào trạng thái Tín niệm, được tăng phúc năng lực thần thánh lên vũ khí, gây sát thương vật lý lên địch ở gần. Đánh xa gây thêm sát thương, đánh trúng tướng địch giúp bản thân tăng tốc chạy (hiệu quả phụ thuộc vào Truy bức).",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ba313101bb31ca0084902289baaea1d35d149b499c6881.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng ST"
+        ]
       },
       {
         "slot": "1",
@@ -9440,7 +9467,10 @@
         "name": "Truy bức",
         "description": "Enzo lướt nhanh và được tăng công vật lý. Nếu đánh trúng địch ở xa sẽ làm chậm địch và tăng tốc chạy cho bản thân. Nếu kích hoạt Câu hồn, Truy bức khiến mục tiêu chịu Câu hồn bị kéo theo một đoạn nhỏ theo hướng Enzo di chuyển",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2ee397d65db4af16fc8425adc1fcc6eb5d149b67984ad1.png",
-        "effects": []
+        "effects": [
+          "Dịch chuyển",
+          "Tăng ST"
+        ]
       },
       {
         "slot": "2",
@@ -9448,7 +9478,11 @@
         "name": "Câu hồn",
         "description": "Enzo tụ lực rồi tung theo hướng chỉ định, gây sát thương vật lý đồng thời trói buộc kẻ địch thứ nhất khi tỏa liêm quay về và gây hiệu ứng Câu hồn; tụ lực càng lâu tỏa liêm bay càng xa.\n\nKhi tụ lực được tăng tốc chạy, hủy tụ lực khiến Câu hồn giảm thời gian hồi chiêu; khi Câu hồn được kích hoạt, Enzo có thể tiếp tục dùng chiêu này kéo địch về sau đồng thời xóa hiệu ứng Câu hồn. Dưới trạng thái Câu hồn, Enzo được tăng sát thương và giảm sát thương phải chịu từ tướng địch đang đánh; nếu kẻ địch tử vong, Câu hồn giảm thời gian hồi chiêu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/aa9f621027746a40fb28b2bade64b3b35d149ba19964e1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng ST",
+          "Khống chế"
+        ]
       },
       {
         "slot": "3",
@@ -9456,7 +9490,10 @@
         "name": "Hành quyết",
         "description": "Enzo lướt cực nhanh theo tỏa liêm hiện phía sau lưng địch bị dính Câu hồn, gây sát thương vật lý lên các mục tiêu trên đường lướt; trong quá trình lướt Enzo được miễn thương; Hành quyết chỉ có thể dùng khi mục tiêu bị dính Câu hồn. \n\nNội tại: Enzo diệt hoặc phụ diệt tướng địch đều kích hoạt trạng thái máy chém tăng tốc chạy, tốc đánh.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d1888bf81be1273552f4cac4a5295a225d149bd225f791.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Dịch chuyển"
+        ]
       }
     ],
     "skins": [
@@ -9643,14 +9680,58 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 20-09",
+      "Chiều cao: 180cm",
+      "Nơi sinh: Tháp quang minh",
+      "Vai trò: Thánh đồ Tháp quang minh",
+      "Khác: Enzo ghét những ngày mưa vì nó che khuất quang minh. Những bức tranh máu của Enzo được flo cất kỹ giấu trong phòng riêng.",
+      "Bí mật: Enzo luôn đề cao thi hành án như nghệ thuật và bất cứ thứ gì ngáng đường đều phải bị dập tắt. Enzo rất ít khi cười. Enzo bao giờ cũng là kẻ dậy sớm nhất ở Tháp quang minh."
+    ],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Kiếm truy hồn",
+          "Giày du mục",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Thương khung kiếm",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Đại địa hồi huyết",
+          "Giày kiên cường",
+          "Phù chú trường sinh",
+          "Áo choàng thần Ra",
+          "Giáp Gaia",
+          "Giáp thống khổ"
+        ]
+      ],
+      "badges": [
+        "Hấp huyết",
+        "Cường công",
+        "Đấu khí",
+        "Siêu hồi máu",
+        "Thợ săn",
+        "Ám kích",
+        "Sinh tồn",
+        "Du hiệp",
+        "Hấp huyết",
+        "Cố thủ"
+      ],
+      "spells": [],
+      "notes": [
+        "Bộ trang bị gợi ý cho Enzo đi rừng mang lại tốc đánh cùng lượng công vật lý ổn định để bắt lẻ chủ lực kẻ địch.",
+        "Bộ trang bị gợi ý cho Enzo đi trợ thủ, lối chơi này sẽ đánh đổi sát thương để lấy khả năng chống chịu giúp Enzo tạo đột biến trong giao tranh tổng; chỉ cần làm nên một pha Tróc nã chuẩn xác và quật ngược chủ lực kẻ địch về, đồng đội của bạn sẽ lo liệu phần còn lại. Ngoài ra nội tại từ các trang bị Đại địa giúp hiệu ứng tăng tốc chạy cùng tốc đánh có thể được kích hoạt dễ dàng cho Enzo.",
+        "Lối lên phù hiệu Rừng nguyên sinh với Du hiệp làm phù hiệu trung tâm là thứ cần thiết để cải thiện khả năng chống chịu của Enzo khi đi trợ thủ."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/enzo/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Enzo",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Enzo"
     }
   },
