@@ -410,12 +410,12 @@
   {
     "slug": "aleister",
     "name": "Aleister",
-    "title": null,
+    "title": "Ác thần xảo quyệt",
     "classes": [
       "Pháp sư"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường giữa",
+    "faction": "Vực hỗn mang\nTháp quang minh (từng)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/15600.jpg",
     "searchKey": "aleister",
     "damageType": "Phép",
@@ -434,7 +434,9 @@
         "name": "Ma thuật đen",
         "description": "Nội tại: Aleister nguyền rủa một mục tiêu với mỗi kỹ năng thứ 3. Mỗi lần cộng dồn thứ 3 sẽ kích hoạt một vụ nổ gây sát thương chuẩn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/099af9c154213473b8764bc612e46f8758609997121da1.png",
-        "effects": []
+        "effects": [
+          "Chuẩn"
+        ]
       },
       {
         "slot": "1",
@@ -442,7 +444,10 @@
         "name": "Vách ngăn hắc ám",
         "description": "Aleister triệu hồi vách ngăn hắc ám, làm choáng và gây sát thương phép lên kẻ địch. Thời điểm ma trận gây sát thương và khi ma trận biến mất sẽ đặt một dấu ấn ma thuật đen lên kẻ địch.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/eddb1cdab796123ba4394629d6043bdc58609d1ac4e2f1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Choáng"
+        ]
       },
       {
         "slot": "2",
@@ -450,7 +455,10 @@
         "name": "Ma trận thống khổ",
         "description": "Aleister triệu hồi một ma trận liên tục gây sát thương lên kẻ thù, mỗi lượt gây sát thương phép. Mỗi lần gây sát thương tạo một điểm ma thuật đen.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d49319c82de9b26df60814fc53aea16c58609d234740b1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "ST vùng"
+        ]
       },
       {
         "slot": "3",
@@ -458,7 +466,10 @@
         "name": "Ngục tù vĩnh hằng",
         "description": "Aleister bẫy kẻ địch trong nhà tù ma thuật, gây sát thương phép mỗi lượt trong 2.5 giây. Chiêu thức cần niệm chú để thực hiện, tối đa dài 3 giây, tuy nhiên sau 0.7 giây đầu nếu thực hiện các thao tác khác có thể hủy.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ef7d4848fde0bd0f11bf1a278eb6ffd458609d2ade5f41.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Áp chế"
+        ]
       }
     ],
     "skins": [
@@ -656,7 +667,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 20-11",
+      "Chiều cao: 180cm",
+      "Nơi sinh: Tháp quang minh",
+      "Vai trò: Tướng quân ma tộc",
+      "Khác: Thời còn ở Tháp quang minh, Aleister thường dùng sấm sét để tiên tri lời thần dụ cho các tín đồ. Chỉ vì lừa maloch mà Aleister đã xung đột với veera.",
+      "Bí mật: Aleister rất ghét khả năng điều khiển sấm sét của tulen. Aleister lẫn Veera đều rất giỏi mưu lược, trí thông minh của cả hai có thể nói là kẻ tám lạng người nửa cân. Sau khi đọa lạc, Aleister cải trang thành nhiều ngoại hình khác nhau để trà trộn lên Athanor."
+    ],
     "lore": [
       "\"We might not be able to take care of the problem, but we can take care of the person who brought it up.\"",
       "People may have forgotten that Aleister, the infamous crook, was once a candidate for the Temple of Light. With Yorn the Hotshot, they were hailed as the Sons of Light at the time and had the most potential to be fully inducted into the Temple. Despite Aleister's intelligence, he didn't possess a strong will and he fell into the darkness due to Veera's charm.",
@@ -665,11 +683,50 @@
       "\"Are you smart enough to go up against me?\""
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày thuật sĩ",
+          "Mặt nạ Berith",
+          "Sách Truy Hồn",
+          "Vương miện Hecate",
+          "Sách thánh",
+          "Quả cầu băng sương"
+        ],
+        [
+          "Đại địa hồi huyết",
+          "Giày Hermes",
+          "Phù chú trường sinh",
+          "Sách Truy Hồn",
+          "Huân chương Troy",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Sung mãn",
+        "Xuyên tâm",
+        "Thánh thuẫn",
+        "Ma hỏa",
+        "Cường công",
+        "Ám kích",
+        "Sinh tồn",
+        "Du hiệp",
+        "Shm",
+        "Thợ săn"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị cho Aleister đi đường giữa, khả năng áp chế từ chiêu cuối là công cụ quan trọng để tạo đột biến trong giao tranh hoặc bắt lẻ kẻ địch tạo thời cơ cho đồng đội tung đòn kết liễu; đặc biệt do là áp chế nên Aleister có thể trói chặt các vị tướng với khả năng miễn khống kéo dài như flo, chaugnar và toro, hoặc các tướng hổ báo với khả năng lả lướt liên tục như zata và nakroth khiến chúng chỉ biết đứng nhìn và chịu trận. Có thể lên Giày Hermes để đảo đường một cách thuận tiện hơn.",
+        "Bộ trang bị đi trợ thủ cho Aleister, nhường lại vị trí sốc sát thương phép cho một pháp sư đường giữa khác để nâng cao khả năng chống chịu khi mở giao tranh bằng chiêu cuối.",
+        "Có thể chọn giữa lên Thánh thuẫn nếu muốn đi đường giữa, hoặc Du hiệp khi đi trợ thủ để bản thân cứng cáp hơn."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/aleister/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Aleister",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Aleister"
     }
   },
@@ -1211,12 +1268,52 @@
       "The Shadow Hand would not stand for this betrayal and sent Veres with a pack of assassins to finish him off. It was then that Butterfly had arrived in Kazell to investigate the dark wizards, and here she found Allain again.",
       "Allain no longer recognized Butterfly, but he was deeply touched by her kindness."
     ],
-    "trivia": [],
+    "trivia": [
+      "Allain ban đầu được ra mắt trong Liên Quân Mobile như là một phần của sự kiện hợp tác với Sword Art Online khi trước đó không có vị tướng nào có sự tương đồng với nhân vật Kirito trong bộ anime này. butterfly - vị tướng được chọn để ra mắt trang phục hợp tác Asuna Tia Chớp - do đó cũng có sự chuyển biến trong cốt truyện khi có mối liên hệ gắn kết chặt chẽ với Allain."
+    ],
     "build": {
-      "itemSets": [],
-      "badges": [],
-      "spells": [],
-      "notes": []
+      "itemSets": [
+        [
+          "Giày kiên cường",
+          "Thánh kiếm",
+          "Vuốt Hung Tàn",
+          "Liềm Đoạt Mệnh",
+          "Song đao bão táp",
+          "Thương khung kiếm"
+        ],
+        [
+          "Giày kiên cường",
+          "Gươm sấm sét",
+          "Giáp Gaia",
+          "Áo choàng thần Ra",
+          "Thương khung kiếm",
+          "Giáp cuồng nộ"
+        ]
+      ],
+      "badges": [
+        "Hấp huyết",
+        "Cường công",
+        "Đấu khí",
+        "Shm",
+        "Thợ săn",
+        "Canh gác",
+        "Bơm máu",
+        "Trói buộc",
+        "Hấp huyết",
+        "Cố thủ"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Bộc phá",
+        "Ngất ngư",
+        "Suy nhược"
+      ],
+      "notes": [
+        "Bộ trang bị cho Allain đi đường đơn mang lại tốc đánh cùng tỷ lệ chí mạng lớn. Nhờ nội tại chuyển hóa tốc đánh thành công vật lý, Allain có thể công thủ toàn diện khi vừa đánh vừa hồi máu liên tục trong giao tranh đơn lẻ.",
+        "Bộ trang bị mang lại sự chống chịu nhất định cho Allain, đánh đổi một phần sát thương để sinh tồn tốt hơn trong giao tranh tổng.",
+        "Có thể lên Cố thủ và nhánh phụ lên Canh gác + Bơm máu để cải thiện khả năng sinh tồn.",
+        "Nếu chọn lối lên đồ thủ cho Allain, Trói buộc và Mộc giáp là hai lựa chọn phù hiệu trung tâm tốt."
+      ]
     },
     "balanceHistory": [
       "(ADJUST)",
@@ -10721,8 +10818,8 @@
           "Thương khung kiếm",
           "Áo choàng băng giá",
           "Giáp Gaia",
-          "Nanh Fenrir",
-          "Khiên thất truyền"
+          "Khiên thất truyền",
+          "Giáp hộ mệnh"
         ]
       ],
       "badges": [
@@ -14503,12 +14600,12 @@
   {
     "slug": "kriknak",
     "name": "Kriknak",
-    "title": null,
+    "title": "Bọ báo tử",
     "classes": [
       "Sát thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Vực hỗn mang",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0dac2ca73eb28c03de2e43f85e868df458e710b5baeb41.png",
     "searchKey": "kriknak",
     "damageType": "Vật lý",
@@ -14527,7 +14624,9 @@
         "name": "Nhấm Nháp",
         "description": "Nội tại: Sau khi chiêu của Kriknak trúng đích, đòn đánh thường kế tiếp của hắn sẽ gây thêm sát thương vật lý.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e8dfb6273f84fd8b443ab3b299c044b658e7119cd33581.png",
-        "effects": []
+        "effects": [
+          "Vật lý"
+        ]
       },
       {
         "slot": "1",
@@ -14535,7 +14634,9 @@
         "name": "Ấu Trùng Quỷ",
         "description": "\"Kriknak gọi một bầy ấu trùng quỷ tấn công một mục tiêu (ưu tiên tướng) gây sát thương vật lý, và đánh dấu Ấu trùng lên nạn nhân.\n\nMọi đòn đánh thường hoặc chiêu thức của Kriknak đều sẽ kích hoạt dấu ấn gây sát thương phép theo máu tối đa của mục tiêu, đồng thời giảm thời gian hồi chiêu và hồi phục năng lượng cho hắn.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/87cb3cdc3a6b9336ebf2ce22439384b158e712d31da251.png",
-        "effects": []
+        "effects": [
+          "Vật lý"
+        ]
       },
       {
         "slot": "2",
@@ -14543,7 +14644,10 @@
         "name": "Bọ Húc",
         "description": "Kriknak ủi thẳng về phía trước gây sát thương vật lý. Mỗi tướng địch trúng chiêu sẽ giúp hắn hồi thêm máu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3830289ca423998dab73bb6db01e2e4058e713246c5851.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "3",
@@ -14551,7 +14655,10 @@
         "name": "Hiểm Họa Không Trung",
         "description": "Kriknak đập cánh bay lên không giúp tăng tốc chạy trong một thời gian, bù lại trong trạng thái này hắn không thể tung đòn đánh hoặc các chiêu thức khác ngoại trừ Ấu trùng quỷ. Tái kích hoạt lần nữa để đáp đất, gây sát thương vật lý, kèm hiệu ứng giảm tốc chạy lên các nạn nhân trúng chiêu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/60bf568276cfa9e91a00dd2aa172667558e7136958fe01.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng tốc"
+        ]
       }
     ],
     "skins": [
@@ -14696,7 +14803,14 @@
     ],
     "goldCost": "13888",
     "voucherCost": "999",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 26-06",
+      "Chiều cao: 170cm",
+      "Nơi sinh: Vực hỗn mang",
+      "Vai trò: Chiến binh ma tộc",
+      "Khác: marja chính là ánh sáng dẫn lối của Kriknak. Kriknak rất thích được Marja nựng chiếc sừng của hắn.",
+      "Bí mật: Ngay cả Kriknak cũng không trực tiếp nghe mệnh lệnh từ volkath. Trong mắt Kriknak, zip chính là một món ăn ngon dự trữ. Kriknak rất ghét mganga khi hắn dùng ánh mắt giải phẫu để nhìn mình."
+    ],
     "lore": [
       "\"A messenger of death who lurks amongst the souls. An assassin who is concealed in the shadows.\"",
       "It was difficult to say if Kriknak belonged to the living or the dead, because this being roamed freely amidst tombs, absorbing power by sucking out the essence of rotten souls, and yet it also had a body of flesh and its own soul. Of course, Kriknak was not concerned by matters such as life or death. The only thing it cared about was the orders from its master, Searcy the Banshee.",
@@ -14705,11 +14819,37 @@
       "Even if they were separated by a thousand miles, Kriknak would always know what its master was thinking, and would spare no effort to complete any task it was assigned to."
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Kiếm truy hồn",
+          "Giày kiên cường",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Ma hỏa",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Trừng trị",
+        "Tê tái"
+      ],
+      "notes": [
+        "Bộ trang bị cho Kriknak đi rừng, do bộ kỹ năng của vị tướng này scale theo công vật lý cộng thêm nên đây gần như là lựa chọn khả dĩ và duy nhất để cải thiện sát thương nhờ lượng công vật lý và xuyên giáp lớn. Chiêu cuối của Kriknak có thời gian hồi chiêu ngắn và cũng là công cụ quan trọng nhất để bắt lẻ chủ lực kẻ địch, do đó hãy tận dụng tốt cả chiêu này lẫn nội tại và chiêu 1 để sốc sát thương mạnh mẽ nhất có thể.",
+        "Có thể lên Quả cầu băng sương + Thợ săn để lấy Quả cầu băng sương ở đầu game nhằm tránh một lần tung chiêu hụt và bị đối phương sốc sát thương ngược."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/kriknak/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Kriknak",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Kriknak"
     }
   },
@@ -21966,12 +22106,12 @@
   {
     "slug": "raz",
     "name": "Raz",
-    "title": null,
+    "title": "Quyền vương",
     "classes": [
       "Pháp sư"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường giữa",
+    "faction": "Vương quốc Norman\nVực hỗn mang (gián điệp, từng)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6b79035779ab9195c76d91b3f2e7ca79591e6857831601.jpg",
     "searchKey": "raz",
     "damageType": "Phép",
@@ -21990,7 +22130,10 @@
         "name": "Đấm Và Lách",
         "description": "\"Nội tại - Lách: Sau khi tung chiêu thức Raz có thể lập tức lách bước với tốc độ di chuyển cực cao.\n\nNội tại - Đấm: Cú đấm đầu tiên và cú đấm thứ ba gây sát thương phép kèm hiệu ứng đẩy lùi địch.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/28496fb3102bced9fbd0b35fe08872aa591e6dedf17181.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Đẩy lùi"
+        ]
       },
       {
         "slot": "1",
@@ -21998,7 +22141,10 @@
         "name": "Cú Đấm Thăng Hoa",
         "description": "\"Raz lao tới tung một cú đấm móc đầy uy lực lên những kẻ địch trong vùng ảnh hưởng, gây sát thương phép kèm hiệu ứng hất tung.\n\nChiêu thức tung trúng đích giúp hồi nội năng.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4b839616ce567a2780502da62b05956f591e6e31756d61.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Hất tung"
+        ]
       },
       {
         "slot": "2",
@@ -22006,7 +22152,10 @@
         "name": "Cú Đấm Chân Không",
         "description": "\"Raz vung tay mạnh đến mức sức gió của cú đấm gây sát thương phép kèm hiệu ứng làm chậm tốc chạy và giảm giáp phép lên kẻ địch đầu tiên trúng phải.\n\nChiêu thức tung trúng đích giúp hồi nội năng.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2041b9f316ef59f8b78bf2f9cdf5daff591e6e6c2c81d1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "3",
@@ -22014,7 +22163,10 @@
         "name": "Tả Xung Hữu Đột",
         "description": "\"Raz ủi người về phía trước tung ra một cú đấm bộc phá, gây sát thương phép, kèm hiệu ứng đẩy lùi lên kẻ trúng chiêu\n\nChiêu trúng đích giúp hồi nội năng.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/65594eb93b7c5b165371bc69cbaace01591e6ea53e9ec1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Đẩy lùi"
+        ]
       }
     ],
     "skins": [
@@ -22212,14 +22364,45 @@
     ],
     "goldCost": "13888",
     "voucherCost": "999",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 14-01",
+      "Chiều cao: 187cm",
+      "Nơi sinh: Vương quốc Norman",
+      "Vai trò: Chiến binh Norman",
+      "Khác: Raz tốn rất nhiều thời gian để chăm sóc đôi tay của mình. Khi còn nằm vùng ở Vực hỗn mang, Raz thường nhớ đến bầu trời trong xanh ở Norman.",
+      "Bí mật: Raz rất biết ơn thane và nguyện vì vị vua này mà làm tất cả. Ngoài Thane, người mà Raz sùng bái nhất chính là lauriel vì nàng đã chữa trị linh hồn cho mình. Raz rất ghét mùi thối vì điều đó làm anh nhớ tới sự đau đớn khi đôi tay cũ bị ăn mòn."
+    ],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày phù thủy",
+          "Trượng bùng nổ",
+          "Vương miện Hecate",
+          "Sách thánh",
+          "Trượng hỗn mang",
+          "Quả cầu băng sương"
+        ]
+      ],
+      "badges": [
+        "Tương phản",
+        "Xuyên tâm",
+        "Thần quang",
+        "Ma hỏa",
+        "Cường công"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị đi đường giữa cho Raz giúp mang đến lượng sát thương phép khổng lồ và tạo đột biến trong giao tranh khi có thể hất tung và đẩy lùi kẻ địch liên tục đồng thời có thể cấu rỉa chúng bằng chiêu 2 trước giao tranh. Có thể chọn lên Gươm tận thế để cường hóa đòn đánh thường sau khi tung chiêu giúp cải thiện sát thương."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/raz/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Raz",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Raz"
     }
   },
@@ -23331,12 +23514,12 @@
   {
     "slug": "ryoma",
     "name": "Ryoma",
-    "title": null,
+    "title": "Kiếm khách tài ba",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Vương quốc Rồng\nĐảo Sương mù",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2f3fe854b98e664415c024a1e9f0396259d9b9ddb39921.jpg",
     "searchKey": "ryoma",
     "damageType": "Vật lý",
@@ -23355,7 +23538,10 @@
         "name": "Kiếm Quyết",
         "description": "Nội tại: Sau mỗi 5 giây, đòn đánh kế của Ryoma sẽ phóng ra kiếm khí gây sát thương vật lý đồng thời giàm tốc chạy của những kẻ địch trúng chiêu. Nạn nhân trúng rìa chiêu sẽ phải chịu thêm sát thương.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bd8668ab8fb1ce4e7029f569c7de2d7f59d9bbe1372731.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "1",
@@ -23363,7 +23549,10 @@
         "name": "Thần Hành Bách Biến",
         "description": "Ryoma nhảy lùi lại để tung một đường kiếm cực mạnh, gây sát thương vật lý lên kẻ địch lân cận. Nếu chiêu thức sát thương tướng địch sẽ khiến thời gian hồi chiêu của Thần hành bách biến được giảm đi. Hiệu ứng không cộng dồn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0479c7521aaed4e2661250b328959e6d59d9bcc4dd7931.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "2",
@@ -23371,7 +23560,10 @@
         "name": "Nhất Kích Tất Sát",
         "description": "Ryoma rút kiếm chớp nhoáng gây sát thương vật lý lên kẻ địch đầu tiên trúng phải, và 1 phần sát thương đó lên các mục tiêu sau. Các nạn nhân trúng rìa chiêu sẽ bị choáng.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6dea11a5e20d8a5708d50882be0ed26a59d9be1fd08ce1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Choáng"
+        ]
       },
       {
         "slot": "3",
@@ -23379,7 +23571,10 @@
         "name": "Loạn Trảm",
         "description": "\"Ryoma đâm kiếm liên tục 4 lần, mỗi đợt gây sát thương vật lý. Mỗi cú đâm trúng tướng địch giúp Ryoma hồi máu. Đâm nhiều tướng địch không khiến máu hồi nhiều hơn (chiêu thức gây nửa hiệu lực với các đơn vị không phải tướng).\n\n\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/922bbe6fc66c4ca836b04448bba7896859d9beb8472db1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hồi phục"
+        ]
       }
     ],
     "skins": [
@@ -23577,14 +23772,62 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 07-10",
+      "Chiều cao: 180cm",
+      "Nơi sinh: Vương quốc Rồng",
+      "Vai trò: Lữ khách ở Vương quốc Rồng",
+      "Khác: Ryoma không hề muốn dây dưa quan hệ với thành viên hoàng tộc của Vương quốc Rồng. Ryoma rất thích mùi thảo dược.",
+      "Bí mật: Ryoma rất thích thơ mà tachi viết. Ryoma và aoi nói chuyện rất hợp nhau. Ryoma từ một bức vẽ của họa sĩ thần bí đã tìm được manh mối về người cha của mình."
+    ],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày thuật sĩ",
+          "Thương Longinus",
+          "Thương Xuyên Phá",
+          "Thương khung kiếm",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Kiếm truy hồn",
+          "Giày kiên cường",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Ma hỏa",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm",
+        "Ám kích",
+        "Sinh tồn",
+        "Du hiệp",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Trừng trị",
+        "Tê tái"
+      ],
+      "notes": [
+        "Bộ trang bị đi đường đơn cho Ryoma giúp tăng công vật lý và xuyên giáp cho việc trao đổi đường lẫn bắt lẻ kẻ địch với hai lần lướt của Thần hành bách biến; một pha Nhất kích tất sát chuẩn xác và làm choáng kẻ địch yếu máu kết hợp với Loạn trảm là con bài hiệu quả khi có thể gây rất nhiều sát thương lẫn hồi phục khỏe. Nếu gặp quá nhiều tướng có khả năng khống chế thì hãy lên Giày kiên cường để đối phó.",
+        "Bộ trang bị đi rừng cho Ryoma, giảm đi áp lực khi phải đối đầu kẻ địch thường xuyên và tập trung hơn vào vai trò của một sát thủ thuần túy trong việc bắt lẻ xạ thủ và pháp sư yếu máu.",
+        "Phù hiệu trung tâm Ma chú sẽ đẩy mạnh khả năng gây sát thương cho Ryoma, còn Du hiệp sẽ phần nào giúp tăng khả năng chống chịu; ngoài ra Ryoma cũng có thể tối ưu tốt nội tại của phù hiệu này."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/ryoma/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Ryoma",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Ryoma"
     }
   },
@@ -27413,12 +27656,12 @@
   {
     "slug": "tulen",
     "name": "Tulen",
-    "title": null,
+    "title": "Hoàng tử lôi quang",
     "classes": [
       "Pháp sư"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường giữa",
+    "faction": "Tháp quang minh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/07210c9e529faa7766ba324bd86b75165a81722f3eab81.jpg",
     "searchKey": "tulen",
     "damageType": "Phép",
@@ -27437,7 +27680,9 @@
         "name": "Lôi điện",
         "description": "Nội tại: Chiêu thức trúng đích giúp Tulen tích lũy dấu ấn Lôi Điện. Khi đạt tới 5 điểm Tulen sẽ tạo ra 5 luồng sét quanh bản thân, công kích kẻ địch lân cận (ưu tiên tướng) gây ra sát thương phép mỗi luồng. Nếu 1 mục tiêu bị nhiều luồng sét tấn công trong 1 giây, sát thương sét sẽ bị giảm (sét đánh không tấn công các đơn vị quái rừng không trong trạng thái chiến đấu).",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7b6a93e7160787f81dbe61e655fede055a87199177d9d1.png",
-        "effects": []
+        "effects": [
+          "Phép"
+        ]
       },
       {
         "slot": "1",
@@ -27445,7 +27690,10 @@
         "name": "Lôi quang",
         "description": "Tulen bắn ra 3 tia sét về phía trước. Mỗi tia trúng đích gây sát thương phép. Mục tiêu trúng nhiều tia sẽ chịu ít sát thương hơn từ các tia khác. Mỗi tia chỉ có thể gây 1 điểm hiệu ứng Lôi điện.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ae4c5c04d956e3f6c145771117fa394a5a8719f55580c1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "ST vùng"
+        ]
       },
       {
         "slot": "2",
@@ -27453,7 +27701,10 @@
         "name": "Lôi động",
         "description": "Tulen biến ảo cực nhanh gây ra sát thương phép tại cả vùng biến đến và biến đi (nạn nhân chịu sát thương cả hai lượt biến chỉ nhận 50% sát thương ở lượt sau).\n\nNếu kẻ địch trong vòng 5 giây liên tục chịu ảnh hưởng bởi chiêu này sẽ bị làm chậm 90% tốc chạy giảm dần, Ngoài ra mỗi mục tiêu trúng chiêu sẽ chỉ phải chịu 1 điểm hiệu ứng Lôi điện. \n\nChiêu thức tích lũy tối đa 3 lần, thời gian hồi giữa hai lần thi triển liên tiếp là 2 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/594056758e2e5be272abe3fd4f8c4dec5a871ac48bb3d1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "3",
@@ -27461,7 +27712,9 @@
         "name": "Lôi điểu",
         "description": "Tulen có thể vừa di chuyển, vừa tung chiêu triệu hồi một chú chim điện tấn công mục tiêu chỉ định gây sát thương phép, đồng thời tự tăng cho bản thân 1 dấu ấn Lôi điện.\n\nNếu chim điện trực tiếp hạ gục tướng địch sẽ lập tức kích hoạt nội tại Lôi điện, đồng thời giảm mạnh thời gian hồi Lôi điểu. Chim điện có thể bị cản lại bởi những tướng địch khác, còn đối với các đơn vị không phải tướng sẽ phải chịu sát thương và chịu đẩy lùi.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/eed8944ca08fc1101b58873a37d164de5a871b26923b31.png",
-        "effects": []
+        "effects": [
+          "Phép"
+        ]
       }
     ],
     "skins": [
@@ -27691,14 +27944,58 @@
     ],
     "goldCost": "18888",
     "voucherCost": "999",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 05-08",
+      "Chiều cao: 183cm",
+      "Nơi sinh: Tháp quang minh",
+      "Vai trò: Chúa tể sấm sét",
+      "Khác: Trong mắt của Tulen, không có ai đáng để anh ta cả nể. Bất kỳ chỗ nào có gương Tulen cũng sẽ đều ngắm nghía.",
+      "Bí mật: Tulen rất ghét những dòng thơ ca sướt mướt. Tulen rất ghét bị so sánh với aleister. Vòng tròn sau lưng Tulen chỉ là trang sức đeo cho oai."
+    ],
     "lore": [],
-    "trivia": [],
-    "build": null,
+    "trivia": [
+      "Tulen được gọi vui trong cộng đồng Liên Quân Mobile là \"Ma vương Tulen\" do vị tướng này được mệnh danh là \"con cưng\" của Garena khi những vị tướng có khả năng \"né\" được Lôi điểu, kỹ năng gây sát thương cực kỳ bùng nổ và là chiêu chỉ thẳng vào đầu kẻ địch, đều bị \"đưa lên thớt\" và giảm sức mạnh; tiêu biểu như liliana, tachi hay yan đều bị thay đổi cơ chế từ không thể bị chọn làm mục tiêu thành miễn khống và tăng miễn thương."
+    ],
+    "build": {
+      "itemSets": [
+        [
+          "Giày phù thủy",
+          "Mặt nạ Berith",
+          "Trượng bùng nổ",
+          "Vương miện Hecate",
+          "Quyền trượng Rhea",
+          "Sách thánh"
+        ],
+        [
+          "Gươm Loki",
+          "Giày phù thủy",
+          "Trượng bùng nổ",
+          "Trượng hỗn mang",
+          "Vương miện Hecate",
+          "Quả cầu băng sương"
+        ]
+      ],
+      "badges": [
+        "Tương phản",
+        "Xuyên tâm",
+        "Thần quang",
+        "Ma hỏa",
+        "Cường công"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Trừng trị",
+        "Tê tái"
+      ],
+      "notes": [
+        "Bộ trang bị cho Tulen đi đường giữa giúp tăng công phép lẫn hút máu phép. Có thể lên Trượng hỗn mang để lấy xuyên giáp phép hoặc Quả cầu băng sương để giữ mạng trong giao tranh. Khi kết hợp chuẩn xác giữa Lôi quang và Lôi động, rồi dùng Lôi điểu để kết liễu mục tiêu, Tulen có thể gây sát thương khủng với 10 lần giật sét từ nội tại khi nó được kích hoạt liên tiếp 2 lần.",
+        "Bộ trang bị cho Tulen đi rừng giúp farm vàng hiệu quả hơn do bản chất của Tulen đòi hỏi phải áp sát để lấy nội tại nhanh. Khả năng giật sét đến từ nội tại vẫn rất mạnh mẽ khi đi rừng và do đó không thể xem thường. Dù đi mid hay đi rừng, khi đã có đủ đồ thì một pha Lôi điểu nhắm vào kẻ địch yếu máu gần như là án tử cho nạn nhân nếu không có ai cản lại."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/tulen/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Tulen",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Tulen"
     }
   },
@@ -32513,12 +32810,12 @@
   {
     "slug": "zuka",
     "name": "Zuka",
-    "title": null,
+    "title": "Đại sư gấu mèo",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Rừng nguyên sinh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d5166c51f37b444810f2ae3df056920d5c4938c59a4821.jpg",
     "searchKey": "zuka",
     "damageType": "Vật lý",
@@ -32538,7 +32835,9 @@
         "name": "Võ Hồn",
         "description": "\"Nội tại: Mỗi 15 giây khi gây sát thương lên tướng địch giúp kích hoạt nội lực\n\nZuka, tăng thêm công vật lý trong 1 thời gian.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3a93009e66b6b3e5ba706d98cacd5802596c75914e0ea1.png",
-        "effects": []
+        "effects": [
+          "Hồi phục"
+        ]
       },
       {
         "slot": "1",
@@ -32546,7 +32845,10 @@
         "name": "Loạn Đả Bổng",
         "description": "\"Zuka lướt tới trước vung gậy phỉ thúy tấn công kẻ địch, gây sát thương vật lý lên những nạn nhân lân cận. Chiêu thức này có thể tái sử dụng trong vòng 5 giây kế, đồng thời mỗi\n\nlần tung chiêu cường hóa đòn đánh thường kế tiếp của Zuka giúp gây thêm sát thương vật lý và gia tăng tầm đánh.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f34afbab2fedcab295fc114a696fb23c596c75c66d5b21.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "2",
@@ -32554,7 +32856,10 @@
         "name": "Phi Thân Kích",
         "description": "Zuka lộn nhào về phía trước, gây sát thương vật lý lên những nạn nhân trúng chiêu dọc đường bay. Tung chiêu trúng đích giúp Zuka nhận lá chắn trong 2.5 giây, đồng thời cường hóa đòn đánh thường kế tiếp gây thêm sát thương vật lý (tăng theo cấp tướng) và hất tung các kẻ địch lân cận trong 0.5 giây. Khi khiên vỡ, Zuka được hồi máu mỗi giây trong 3 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16c8ac0619c53a1bd59bd4dfa2dd3f6e596c76135df001.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Lá chắn"
+        ]
       },
       {
         "slot": "3",
@@ -32562,7 +32867,10 @@
         "name": "Trầm Trọng Lực",
         "description": "Zuka phóng vút lên không rồi nện xuống mặt đất, gây sát thương vật lý lên các nạn nhân trong vùng ảnh hưởng, đồng thời làm choáng trúng trong 1 giây. Đòn đánh thường kế tiếp của Zuka được cường hóa, gây thêm sát thương vật lý lên những kẻ địch lân cận.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0beb67ad3bb69a788afda77e97ac6283596c766121e3a1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Choáng"
+        ]
       }
     ],
     "skins": [
@@ -32757,14 +33065,57 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 19-03",
+      "Chiều cao: 165cm",
+      "Nơi sinh: Vương quốc Rồng",
+      "Vai trò: Thân vệ Rừng nguyên sinh",
+      "Khác: Quê hương của Zuka chính là biên giới Vương quốc Rồng. Mọi người đều nghĩ rằng Zuka thích ăn trúc nhưng thật ra thứ Zuka mê nhất là thịt.",
+      "Bí mật: Zuka tuy nhìn ngây thơ nhưng rất linh hoạt. Bầu rượu của Zuka là hàng của sư phụ đưa cho. Dưới lớp lông đầy mượt là những vết sẹo trước đây Zuka luyện võ vất vả còn lưu lại."
+    ],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày kiên cường",
+          "Thương Longinus",
+          "Phức hợp kiếm",
+          "Thương Xuyên Phá",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Kiếm truy hồn",
+          "Giày kiên cường",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Dư ảnh",
+        "Cường công",
+        "Ma tính",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Trừng trị",
+        "Tê tái"
+      ],
+      "notes": [
+        "Bộ trang bị đi đường đơn cho Zuka giúp tăng công vật lý và xuyên giáp. Lưu ý Zuka sẽ cường hóa đòn đánh thường sau mỗi lần tung chiêu, do đó cần xen kẽ nhịp nhàng giữa chiêu thức và đánh thường để cho ra sát thương mạnh mẽ nhất.",
+        "Bộ trang bị đi rừng cho Zuka giúp phát huy sức mạnh của một sát thủ trong việc bắt lẻ những kẻ địch yếu máu như xạ thủ và pháp sư. Tương tự như đi đường trên, Zuka vẫn cần phải xen kẽ tung chiêu và đánh thường để phát huy sức mạnh, tuy nhiên do là một tướng sát thủ nên việc farm quái rừng sẽ hiệu quả hơn so với việc phải đụng độ kẻ địch thường xuyên khi đi đường. Có thể lên Thương khung kiếm thay thế Nanh Fenrir để lấy miễn thương nếu chẳng may băng càn vào đội hình kẻ địch quá lâu.",
+        "Zuka cần duy trì tung chiêu liên tục, do đó phù hiệu trung tâm Ma tính là lựa chọn phù hợp nhất."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/zuka/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Zuka",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Zuka"
     }
   }
