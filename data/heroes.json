@@ -2563,12 +2563,12 @@
   {
     "slug": "arthur",
     "name": "Arthur",
-    "title": null,
+    "title": "Thanh gươm chính nghĩa",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Vương quốc Okka",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/06/Honeyview_Arthur_111-e1718875297358.jpg",
     "searchKey": "arthur",
     "damageType": "Phép",
@@ -2589,7 +2589,9 @@
         "name": "Uy dũng",
         "description": "Nội tại: Arthur được thần thánh hộ mệnh, giúp bản thân sở hữu khả năng tự hồi máu mỗi giây dựa trên máu tối đa.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fdcebeca1125f9b15b5964d4add5bb7559b28fc2a86d71.png",
-        "effects": []
+        "effects": [
+          "Hồi phục"
+        ]
       },
       {
         "slot": "1",
@@ -2597,7 +2599,10 @@
         "name": "Gươm chính nghĩa",
         "description": "\"Arthur tăng 30% tốc chạy, khiến đòn đánh kế tiếp áp sát kẻ địch, gây sát thương vật lý và làm câm lặng mục tiêu, đồng thời kết thúc tăng tốc chạy của Arthur.\n\nChưa hết, nạn nhân trúng phải kỹ năng này sẽ bị thần linh trừng phạt, khiến mỗi đòn đánh thường và chiêu thức của Arthur lên hắn gây thêm 1% máu tối đa của nạn nhân thành sát thương phép.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bd250e87a29673e1762e086cfcb399c459b28ffd4249e1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Câm lặng"
+        ]
       },
       {
         "slot": "2",
@@ -2605,7 +2610,10 @@
         "name": "Thần vật hộ thân",
         "description": "Arthur triệu hồi gươm và khiên, gây sát thương phép mỗi 0.5 giây lên địch thủ xung quanh. Đồng thời, Arthur nhận lá chắn sát thương dựa trên máu tối đa của bản thân.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b2f962b7ad2f10618759a0bbba7b741459b290455e0a61.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Lá chắn"
+        ]
       },
       {
         "slot": "3",
@@ -2613,7 +2621,10 @@
         "name": "Công lý phán quyết",
         "description": "\"Arthur giơ cao thanh kiếm của chính nghĩa, nhảy về mục tiêu tạo ra sát thương phép dựa trên máu tối đa của bản thân lên mục tiêu và gây hiệu ứng hất tung cho tất cả kẻ địch trong khu vực.\n\nUy lực còn lại của thanh kiếm chính nghĩa sẽ tạo ra sát thương phép mỗi giây lên kẻ trúng phải, kéo dài 5 giây.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4fd7aa04e10867bcbc79a11cc1e5911c59b290902df361.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Hất tung"
+        ]
       }
     ],
     "skins": [
@@ -2795,7 +2806,14 @@
     ],
     "goldCost": "0",
     "voucherCost": "0",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 20-05",
+      "Chiều cao: 183cm",
+      "Nơi sinh: Vương quốc Okka",
+      "Vai trò: Hoàng tử Okka",
+      "Khác: Tổ tiên của Arthur chính là một trong những lãnh đạo đầu tiên của nhân loại. Arthur rất thích câu cá.",
+      "Bí mật: Arthur và thane là bạn rất tốt. Arthur nhận được ân sủng của Tháp quang minh nên rất sùng bái nữ thần ilumia. Tuy là hoàng tử nhưng Arthur luôn xung phong khi ra trận."
+    ],
     "lore": [
       "“The chaos-ending Sword of Justice, and the invincible leader that brought order to the orderless!”",
       "With the holy sword in his hand and righteousness in his heart, Arthur was the first true leader in human history. He was born in an age when faith had collapsed and the world was shrouded in darkness. Facing frenzied beasts and bloodthirsty demons, the humans lacked not only the strength to defend themselves but also guidance from the gods, which could have prevented their civil wars. This era of turmoil persisted until Arthur rose. Preaching principals of justice and honor, he started down the path of order and discipline as a knight.",
@@ -2805,12 +2823,53 @@
       "Even their age-long rival, the Afata, extended the hand of friendship to Arthur. The secluded Veda brought the blessings of the gods upon the Order and its knights. Arthur and his chivalric spirit gave courage to humankind and his successors, notably Thane, to pass on the torch from one generation to the next.",
       "“The radiance of the Sword of Justice shall cast its light upon the path of every knight!”"
     ],
-    "trivia": [],
-    "build": null,
+    "trivia": [
+      "Kể từ khi ra mắt năm 2017, Arthur đã trở thành nhân vật xuất hiện trong biểu tượng ứng dụng của Liên Quân Mobile thay thế cho valhein, nhân vật đầu tiên trong trò chơi mà khi ấy mọi người chơi mới đều có thể sở hữu.",
+      "Phiên bản Arena of Valor máy chủ Nhật Bản lại thể hiện allain thay vì cả 2 tướng trên.",
+      "Tương tự, Vương Giả Vinh Diệu máy chủ nội địa tại Trung Quốc (王者荣耀) cũng thể hiện Arthur của game này làm nhân vật trên biểu tượng ứng dụng.",
+      "Arthur được ra mắt để thay thế cho mortos nhiều khả năng là để thu hút và thân thiện với người chơi hơn bằng việc lược bỏ bớt những yếu tố mang nét dark fantasy đi. Mortos cũ là một bộ xương theo đúng nghĩa đen nên dễ tỏ ra kém thu hút so với các tướng con người vào thời điểm đó. Ngoại hình mặc định cũ của Mortos cùng trang phục Hoàng kim cốt không bị xóa đi, thay vào đó được giữ lại và trở thành trang phục giới hạn của Arthur.",
+      "Tuy nhiên payna lại không được may mắn như vậy. Để khiến hình tượng của game trở nên tươi sáng và trẻ trung hơn, Payna đã hoàn toàn bị xóa sổ khỏi Liên Quân Mobile cả trong gameplay lẫn cốt truyện, và bộ kỹ năng của cô được kế thừa bởi helen. (Hoặc đơn giản chỉ là để dễ dàng chuyển giao trang phục của Thái Văn Cơ qua hơn.)",
+      "Arthur có thể được xem là \"hàng nhái\" của vị tướng Garen bên Liên Minh Huyền Thoại khi chiêu thức của cả hai gần như rất giống nhau.",
+      "Điều này một phần là do lối đi ban đầu của Tencent khi phát hành Vương Giả Vinh Diệu là \"tham khảo\" gameplay và các tướng Liên Minh Huyền Thoại lúc bấy giờ (giai đoạn khoảng 2015-16) sau khi thương lượng không thành công với công ty con của mình là Riot Games trong việc đưa con gà đẻ trứng vàng của họ lên nền tảng di động, khiến cho Tencent tự đẻ ra phiên bản LMHT của chính họ và trở thành tựa game MOBA lớn mạnh nhất tại lãnh thổ Trung Quốc."
+    ],
+    "build": {
+      "itemSets": [
+        [
+          "Giày kiên cường",
+          "Áo choàng thần Ra",
+          "Áo choàng băng giá",
+          "Giáp Gaia",
+          "Giáp thống khổ",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Đại địa ma nhãn",
+          "Giày kiên cường",
+          "Áo choàng thần Ra",
+          "Phù chú trường sinh",
+          "Giáp Gaia",
+          "Giáp thống khổ"
+        ]
+      ],
+      "badges": [
+        "Canh gác",
+        "Sinh tồn",
+        "Du hiệp",
+        "Hấp huyết",
+        "Cố thủ"
+      ],
+      "spells": [
+        "Bộc phá"
+      ],
+      "notes": [
+        "Bộ trang bị đi đường đơn cho Arthur giúp mang đến khả năng chống chịu và cung cấp máu tối đa để sống sót lâu dài. Có thể nhắm đến một vài trang bị công như Thương Longinus hay thậm chí là Nanh Fenrir nếu bạn muốn biến Arthur thành một vị tướng sát thủ đội lốt đấu sĩ đỡ đòn. Tuy nhiên Arthur không có độ cơ động quá cao nên lối chơi này sẽ chỉ phát huy phần nào hiệu quả khi gặp nhiều tướng lù đù, còn trong trường hợp dễ bị đối phương thả diều thì vẫn nên tăng cường chống chịu và đi cùng đồng đội trong giao tranh.",
+        "Bộ trang bị đi trợ thủ cho Arthur, hiệu quả hơn nhiều so với đi đường đơn do Arthur phù hợp trong việc gánh chịu sát thương thay cho đồng đội và mở giao tranh (mặc dù bản thân Arthur không được phân loại là tướng đỡ đòn). Có thể cân nhắc các trang bị khác như Nham thuẫn, Huân chương Troy hay Khiên thất truyền tùy tình huống trong trận."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/arthur/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Arthur",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Arthur"
     }
   },
@@ -4913,12 +4972,12 @@
   {
     "slug": "biron",
     "name": "Biron",
-    "title": null,
+    "title": "Chiến binh Cuồng Thiết",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Tân liên hiệp\nMildar\nThành bang Bodrene",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/10/biron-artwork-1.jpg",
     "searchKey": "biron",
     "damageType": "Vật lý",
@@ -4939,7 +4998,10 @@
         "name": "Quyết chiến không lùi",
         "description": "Đòn đánh thường và chiêu chưa được cường hóa của Biron trúng địch sẽ nạp nội năng cho vũ khí của mình. Khi tích lũy >= 30 điểm, mỗi đòn đánh thường sẽ gây thêm sát thương vật lý và được hồi máu đồng thời chiêu thức sẽ nhận được hiệu ứng cường hóa khác nhau nhưng không thể nhận nội năng từ việc tấn công kẻ địch vào khi này.\n\nĐòn đánh thường và chiêu thức trúng đích giúp hồi nội năng, tối đa có thể dự trữ 90 điểm",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/10/biron2.jpg",
-        "effects": []
+        "effects": [
+          "Cường hóa",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "1",
@@ -4947,7 +5009,10 @@
         "name": "Điện chùy xuất kích",
         "description": "Biron vung vũ khí về phía trước, mỗi lần gâysát thương vật lý và hồi máu cho bản thân.\n\nCường hóa: Tăng sát thương vật lý gây ra và tăng hồi máu\n\nKhi gây sát thương lên đơn vị không phải tướng, hiệu quả hồi máu giảm một nửa.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/10/biron1.jpeg",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "2",
@@ -4955,7 +5020,11 @@
         "name": "Đột kích vũ bão",
         "description": "Biron xông thẳng về phía trước gây sát thương vật lý lên kẻ địch trên đường đi. Khi kết thúc sẽ cường hóa đòn đánh thường kế và gây sát thương vật lý cùng làm chậm tốc chạy của kẻ địch.\n\nCường hóa: Khi sử dụng đòn đánh cường hóa nếu nội năng >30, Biron sẽ gây sát thương vật lý, hất tung và làm choáng kẻ địch bị đánh trúng đồng thời làm chậm tốc chạy của chúng tiếp 1 giây ngay sau đó.\n\nNếu nội năng nhiều khi tung đòn đánh cường hóa sẽ tiêu hao nội năng.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/10/biron3.jpg",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Khống chế",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "3",
@@ -4963,7 +5032,11 @@
         "name": "Trọng lực từ trường",
         "description": "Biron đập vũ khí xuống mặt đất, gây sát thương vật lý và làm chậm tốc chạy của địch đồng thời tạo lá chắn cho bản thân.\n\nCường hóa: Tăng sát thương vật lý và lá chắn đồng thời tạo ra một lưới điện, gây sát thương vật lý cho đơn vị địch và cướp đoạt tốc chạy từ mỗi tướng địch cho bản thân Biron\n\nPhạm vi lưới điện sẽ tăng lên theo mỗi cấp chiêu 3",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/10/biron4.jpg",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Lá chắn",
+          "Làm chậm"
+        ]
       }
     ],
     "skins": [
@@ -5081,14 +5154,57 @@
     ],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: Chưa rõ",
+      "Chiều cao: 171cm",
+      "Nơi sinh: Chưa rõ",
+      "Vai trò: Lính đánh thuê tự do Bodrene",
+      "Khác: Biron đến Bodrene để phiêu lưu với tinh thần chính nghĩa. Biron rất yêu thích những con thú nhỏ lông mượt.",
+      "Bí mật: Biron đã nhận được các linh kiện máy móc giá rẻ nhờ sự giúp đỡ của celica. Giao đấu với valhein là cách Biron giải trí để gia tăng tình bạn. bonnie hy vọng Biron sẽ gia nhập công hội để trở thành lính đánh thuê chuyên nghiệp."
+    ],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày kiên cường",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Thương Longinus",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Giày hộ vệ",
+          "Áo choàng thần Ra",
+          "Thương Longinus",
+          "Giáp Gaia",
+          "Thương khung kiếm",
+          "Giáp cuồng nộ"
+        ]
+      ],
+      "badges": [
+        "Ma hỏa",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm",
+        "Canh gác",
+        "Bơm máu",
+        "Trói buộc",
+        "Dư ảnh",
+        "Shm"
+      ],
+      "spells": [],
+      "notes": [
+        "Bộ trang bị full công vật lý cho Biron, tăng mạnh sát thương gây ra và có thể giao tranh đơn lẻ ổn định. Nếu gặp đấu sĩ đối phương là tướng gây sát thương vật lý thì đầu trận nên lên Giày hộ vệ để có một ít giáp rồi mới đổi giày từ giai đoạn giữa. Có thể lên Giày thuật sĩ để hồi chiêu nhanh hơn, nhưng cần cẩn trọng trước khả năng dồn khống chế của kẻ địch.",
+        "Bộ trang bị semi cho Biron giúp sinh tồn tốt hơn trong giao tranh tổng và có thể chủ động mở đầu giao tranh với một pha hất tung chuẩn xác sau khi dùng chiêu 2 cường hóa; lượng lá chắn dày khi dùng chiêu cuối cường hóa cũng có thể giúp Biron hứng chịu sát thương ổn định khi đứng ở tuyến trên. Nên đổi sang Giày kiên cường nếu kẻ địch có nhiều hiệu ứng khống chế. Có thể cân nhắc Khiên thất truyền nếu muốn làm chậm kẻ địch khi bị tấn công."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/biron/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Biron",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Biron"
     }
   },
@@ -9058,14 +9174,23 @@
       "Điêu Thuyền và Lữ Bố được xác nhận trong Liên Quân Mobile là tình nhân với nhau kể từ những ngày đầu hai vị tướng này ra mắt, tương tự như những diễn biến trong Tam quốc diễn nghĩa viết về hai nhân vật lịch sử này.",
       "Trong Vương Giả Vinh Diệu cũng có sự xuất hiện của Điêu Thuyền và Lữ Bố và cũng có thể coi là tình nhân với nhau; tuy nhiên phiên bản LQM của hai vị tướng này, Lauriel và Maloch, trớ trêu thay lại đứng về hai phe đối lập nhau, lần lượt là Tháp quang minh và Vực hỗn mang.",
       "Điêu Thuyền Nhật Nguyệt Thánh Linh là trang phục đầu tiên của Liên Quân Mobile đạt đến bậc SSS+ Tối Thượng với khả năng thay đổi qua lại ngoại hình và hiệu ứng chiêu thức sau khi thi triển chiêu cuối; tuy nhiên hiệu ứng của trang phục này bị nhiều người chơi cho là mờ nhạt và không xứng với số tiền họ bỏ ra để sở hữu.",
+      "Vào khoảng tháng 9 năm 2026, trang phục này được công bố sẽ cải thiện hiệu ứng và nhiều khả năng sẽ tái xuất với sự cải thiện này vào dịp Tết Đinh Mùi 2027.",
       "Chiêu 2 của Điêu Thuyền từng mang tên \"Tuyệt đỉnh băng giá\" và có thể dự trữ 2 lần; ngoài ra chiêu cuối cũ là thi triển tại chỗ và có phạm vi rộng hơn thay vì là kỹ năng chọn vùng như hiện tại."
     ],
     "build": {
       "itemSets": [
         [
-          "Giày phù thủy",
+          "Giày thuật sĩ",
           "Mặt nạ Berith",
+          "Trượng băng",
+          "Vương miện Hecate",
+          "Trượng hỗn mang",
+          "Quả cầu băng sương"
+        ],
+        [
+          "Giày phù thủy",
           "Trượng bùng nổ",
+          "Vương miện Hecate",
           "Mặt nạ ma quái",
           "Sách thánh",
           "Quả cầu băng sương"
@@ -9076,15 +9201,21 @@
         "Xuyên tâm",
         "Thần quang",
         "Ma hỏa",
-        "Cường công"
+        "Cường công",
+        "Ma hỏa",
+        "Cường công",
+        "Ma chú",
+        "Sung mãn",
+        "Xuyên tâm"
       ],
       "spells": [
         "Tốc biến"
       ],
       "notes": [
-        "Bộ trang bị gợi ý giúp cho Điêu Thuyền có khả năng gây sát thương ổn định trong giao tranh tổng; có thể đổi sang Giày thuật sĩ để lấy giảm hồi chiêu. Sách thánh có thể thay thế bằng Vương miện Hecate để lấy thêm công phép. Về cuối trận có thể lên Trượng hỗn mang để cải thiện xuyên giáp phép. Một số lối lên đồ còn có sự xuất hiện của Trượng băng để cải thiện khả năng làm chậm.",
-        "Nếu mang Điêu Thuyền đi trợ thủ (dù không quá hiệu quả khi càng lên rank cao), đừng quên lên trang bị phụ trợ như hồi máu tùy vào đội hình kẻ địch.",
-        "Phù hiệu trung tâm Thần quang giúp Điêu Thuyền có thể trở thành tướng sốc sát thương nhanh về giai đoạn cuối thay vì cấu rỉa lâu dài. Có thể thay đổi phù hiệu trung tâm thành Ma chú nếu muốn tập trung vào khả năng cấu rỉa hơn."
+        "Bộ trang bị thiên về lối chơi cấu rỉa cho Điêu Thuyền với nhiều giảm hồi chiêu giúp ra chiêu thường xuyên hơn trong giao tranh tổng. Trượng băng là công cụ cải thiện khả năng làm chậm cho Điêu Thuyền, tuy nhiên nếu muốn sốc sát thương tốt hơn có thể tính đến các trang bị khác như Trượng bùng nổ và Sách thánh. Ngoài ra nếu gặp kẻ địch hồi phục mạnh thì nên ưu tiên lên Sách truy hồn từ giữa game để bớt gặp trở ngại.",
+        "Nếu mang Điêu Thuyền đi hỗ trợ (dù không quá hiệu quả ở các mức rank cao), đừng quên lên trang bị phụ trợ như hồi máu hay giải khống tùy vào đội hình kẻ địch.",
+        "Bộ trang bị này sẽ đánh đổi khả năng cấu rỉa để đẩy mạnh khả năng bùng nổ sát thương trong một nhịp cho Điêu Thuyền. Tuy nhiên sát thương của cô nàng không cao bằng nhiều pháp sư thuần về sốc sát thương như veera, krixi hay yue, do đó vẫn nên tham gia giao tranh cùng đồng đội thường xuyên.",
+        "Phù hiệu trung tâm Thần quang giúp Điêu Thuyền sốc sát thương tốt hơn về giai đoạn cuối, trong khi đó Ma chú sẽ tập trung vào khả năng cấu rỉa; có thể lên Ma tính nếu muốn tung chiêu thường xuyên hơn. Tương phản cũng là một lựa chọn ổn áp cho phù hiệu nhánh, nhưng có thể sẽ khiến bạn phải biến về thường xuyên hơn vì thiếu năng lượng."
       ]
     },
     "balanceHistory": [],
@@ -11406,7 +11537,7 @@
         [
           "Giày thuật sĩ",
           "Thánh kiếm",
-          "Thương Xuyên Phá",
+          "Thương Longinus",
           "Song đao bão táp",
           "Kiếm Fafnir",
           "Diệt thần cung"
@@ -11420,16 +11551,16 @@
         "Xuyên tâm",
         "Ma hỏa",
         "Cường công",
-        "Ma chú",
-        "Tương phản",
-        "Xuyên tâm"
+        "Ma tính",
+        "Shm",
+        "Uy áp"
       ],
       "spells": [
         "Tốc biến"
       ],
       "notes": [
-        "Bộ trang bị gợi ý cho Flowborn mang lại khả năng gây sát thương chí mạng cực kỳ bùng nổ; khi có đủ đồ thì chỉ với 1 pha Nỏ tiễn liên hoàn chuẩn xác là có thể bắn cực kỳ rát, kể cả với các tướng đỡ đòn.",
-        "Lối chơi xoay quanh Luyện kim giúp Flowborn thăng tiến nhanh chóng, còn Ma chú sẽ giúp cải thiện sát thương đầu ra."
+        "Bộ trang bị cho Flowborn mang lại khả năng gây sát thương chí mạng cực kỳ bùng nổ; khi có đủ đồ thì chỉ với 1 pha Nỏ tiễn liên hoàn chuẩn xác là có thể bắn cực kỳ rát, cả máu giấy lẫn trâu bò nếu ăn trọn đều sẽ phải lật đật biến về. Nên lên Thương đấu sĩ từ giai đoạn sớm để tối ưu, sau đó chuyển sang hoàn thành hai món chí mạng.",
+        "Lên Luyện kim giúp Flowborn thăng tiến nhanh chóng, còn Ma tính sẽ đẩy mạnh giảm hồi chiêu, nếu biết mẹo thì có thể thi triển chiêu cuối tới 3 lần."
       ]
     },
     "balanceHistory": [],
@@ -18591,12 +18722,12 @@
   {
     "slug": "mganga",
     "name": "Mganga",
-    "title": null,
+    "title": "Tên hề ma quái",
     "classes": [
       "Pháp sư"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường giữa",
+    "faction": "Vực hỗn mang",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/053654897539713c86a745376bc8e8125d25652cf33f01.jpg",
     "searchKey": "mganga",
     "damageType": "Phép",
@@ -18615,7 +18746,10 @@
         "name": "Tà thuật",
         "description": "Nội tại: Các đòn đánh thường và kỹ năng đều kèm theo hiệu ứng độc gây sát thương phép và cộng dồn 1 Ấn Tà Thuật, tối đa 5 Ấn và gây 5 lần sát thương.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7f606055e10fb99d854d5f19884104fd5a2a4ecca4d811.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Tăng ST"
+        ]
       },
       {
         "slot": "1",
@@ -18623,7 +18757,10 @@
         "name": "Độc khí",
         "description": "Mganga tạo ra một luồng khói độc tại vùng chỉ định trong 4 giây. Làn khói này dần lan rộng ra gây sát thương phép kèm hiệu ứng làm chậm tốc chạy. Sau một thời gian, Mganga lại dự trữ thêm 1 lọ thuốc độc.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/106028c9d9a959b62d58ef789829ce945a2a501db67301.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "2",
@@ -18631,7 +18768,10 @@
         "name": "Độc tố",
         "description": "Mganga phóng tà vật theo hướng chỉ định gây sát thương phép lên những kẻ địch trúng chiêu, đồng thời hồi cho bản thân một lượng máu. Nếu mục tiêu là tướng đồng minh, họ sẽ được yểm dấu ấn giúp hồi máu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1b26da06352c048891cd5f8e9aa41d275a2a4f3e5f4df1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "3",
@@ -18639,7 +18779,10 @@
         "name": "Độc Dược",
         "description": "Mganga kích nổ tất cả dấu ấn lân cận gây sát thương phép lên kẻ địch và hồi máu cho tướng đồng minh. Mỗi dấu ấn cộng dồn gây thêm sát thương phép và tăng thêm 50% hiệu lực hồi phục.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8f8bcd98cbc147e2db8a3c86c8411530583f900623aeb1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Lá chắn"
+        ]
       }
     ],
     "skins": [
@@ -18805,7 +18948,14 @@
     ],
     "goldCost": "1888",
     "voucherCost": "500",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 11-11",
+      "Chiều cao: 160cm",
+      "Nơi sinh: Chưa rõ",
+      "Vai trò: Đọa lạc giả",
+      "Khác: Tài liệu vu thuật mà Mganga nghiên cứu đủ để chất đống trong 10 căn phòng. Mganga du ngoạn khắp nơi nhằm tìm kiếm phương pháp tăng tiến sức mạnh bản thân.",
+      "Bí mật: Mganga không được yêu quý lắm ở Vực hỗn mang, nhưng hắn cũng chẳng để tâm. Nhánh pháp thuật vu độc của Mganga là 1 trong các nhánh chính của hắc ma pháp. Mganga thường nuôi những sinh vật kỳ dị để làm vật thí nghiệm."
+    ],
     "lore": [
       "\"Power, is the only worthy pursuit.\"",
       "His ruthless nature and thirst for power make Mganga a natural in the world of black magic. In an effort to gain more knowledge, Mganga planned to enslave the strongest of beasts, and trade them with the demons in exchange for powerful black magic. The priests of his tribe caught wind of this wicked plan, and knew they had to intervene. With their powers combined, they finally put a stop to his evil plans.",
@@ -18814,11 +18964,36 @@
       "\"The weak cowers before power, whereas the strong dominates it.\""
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày kiên cường",
+          "Mặt nạ Berith",
+          "Sách Truy Hồn",
+          "Băng nhẫn Skadi",
+          "Quả cầu băng sương",
+          "Gươm hiền triết"
+        ]
+      ],
+      "badges": [
+        "Sung mãn",
+        "Xuyên tâm",
+        "Thánh thuẫn",
+        "Shm",
+        "Thợ săn"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị đi đường giữa cho Mganga giúp mang lại lượng công phép ổn định để cấu rỉa kẻ địch trong giao tranh đồng thời đảm bảo khả năng sinh tồn với Băng nhẫn Skadi tăng giáp và giáp phép. Nội tại của tên hề ma quái này có thể cộng dồn với khả năng giảm hồi phục của Sách truy hồn, do đó trang bị này là công cụ hiệu quả để chống lại khả năng hồi máu mạnh mẽ của những kẻ địch như lorion, taara và ybneth. Mặc dù bộ kỹ năng giúp Mganga có thể cấu rỉa kẻ địch vô cùng hiệu quả ngay từ đầu trận với lượng sát thương phép liên tục dồn vào chúng từ cự ly xa, nhưng do là tướng kém cơ động nên hãy luôn giữ vị trí trong giao tranh để tránh bị sát thủ đối phương bắt chết.",
+        "Có thể thay thế phù hiệu nhánh thành Nhạy bén + Bơm máu."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/mganga/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Mganga",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Mganga"
     }
   },
@@ -21900,7 +22075,7 @@
       "Pháp sư"
     ],
     "lane": "Đường giữa",
-    "faction": "Vực hỗn mang",
+    "faction": "Vực hỗn mang\nTháp quang minh (từng)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f2f8893606262e7c0547c4f47f670995590bf38eabfc81.jpg",
     "searchKey": "preyta",
     "damageType": "Phép",
@@ -21921,9 +22096,7 @@
         "name": "Rồng dịch bênh",
         "description": "Preyta: Vật cưỡi giúp tăng tốc chạy của Preyta.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ac8aef131836caf5646fa660cad895bb590bf40f5cd461.png",
-        "effects": [
-          "Tăng tốc"
-        ]
+        "effects": []
       },
       {
         "slot": "1",
@@ -21931,10 +22104,7 @@
         "name": "Hơi độc hại",
         "description": "\"Preyta niệm chú 2 giây tập trung toàn bộ năng lượng để phát tán dịch bệnh theo hướng chỉ định. Trong thời gian này nếu thức hiện bất kỳ động tác gì khác sẽ khiến chiêu thức được kích hoạt ngay lập tức, gây sát thương phép.\n\nKhi Preyta trong trạng thái Siêu khuẩn, hắn để lại một cái bóng niệm chú hộ.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/88a1871d3fdd1b032a0e8a58c3f2583f590bf44f3636b1.png",
-        "effects": [
-          "Phép",
-          "ST vùng"
-        ]
+        "effects": []
       },
       {
         "slot": "2",
@@ -21942,10 +22112,7 @@
         "name": "Bom hoại tử",
         "description": "\"Preyta tạo ra một vụ nổ dịch bệnh đẩy lùi kẻ địch trong vùng ảnh hưởng, gây sát thương phép kèm hiệu ứng làm chậm.\n\nTrong trạng thái Siêu khuẩn, vụ nổ còn gây kèm hiệu ứng làm choáng.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b6ae875a9f960dcf91a8023f3eb854c8590bf4a781a751.png",
-        "effects": [
-          "Phép",
-          "Làm chậm"
-        ]
+        "effects": []
       },
       {
         "slot": "3",
@@ -21953,10 +22120,7 @@
         "name": "Dịch Hạch",
         "description": "\"Preyta tiến vào trạng thái Siêu khuẩn, tạo lá chắn, làm mới hồi chiêu và cường hóa Hơi độc hại và Bom hoại tử kế tiếp.\n\nTrong thời gian hiệu lực, Preyta còn được tăng tầm đánh, tốc chạy, tốc đánh và khiến đòn đánh thường gây thêm sát thương phép diện rộng.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4318a8dd0536d490049f0be5b0ab776b590bf4db0b69b1.png",
-        "effects": [
-          "Phép",
-          "Tăng ST"
-        ]
+        "effects": []
       }
     ],
     "skins": [
@@ -22098,7 +22262,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 13 tháng 3",
+      "Chiều cao: Không rõ",
+      "Nơi sinh: Không rõ",
+      "Vai trò: Đọa lạc giả",
+      "Khác: Việc Preyta cam tâm sa đọa bắt nguồn từ thái độ xem nhẹ sinh mạng nhân loại của Tháp quang minh. Dịch bệnh hoại tử ăn mòn Preyta nhưng lại giúp hắn có được sức mạnh tương đương với ma tộc hỗn mang.",
+      "Bí mật: Preyta và ma tộc Vực hỗn mang đã duy trì mối quan hệ đồng minh từ rất lâu. Preyta đã hợp tác bí mật với cội nguồn hắc ám. veera từng mượn cơ hội hợp tác để thử thăm dò sức mạnh ẩn giấu phía sau Preyta."
+    ],
     "lore": [],
     "trivia": [],
     "build": {
@@ -22106,23 +22277,25 @@
         [
           "Giày phù thủy",
           "Thập Tự Kiếm",
-          "Gươm tận thế",
+          "Xuyên tâm lệnh",
           "Vương miện Hecate",
-          "Mặt nạ ma quái",
+          "Gươm tận thế",
           "Sách thánh"
         ]
       ],
       "badges": [
+        "Sung mãn",
+        "Xuyên tâm",
+        "Thánh thuẫn",
         "Ma hỏa",
-        "Cường công",
-        "Ma chú",
-        "Thánh châu",
-        "Xuyên tâm"
+        "Cường công"
       ],
       "spells": [
         "Tốc biến"
       ],
-      "notes": []
+      "notes": [
+        "Thông tin dưới đây dựa trên lối lên đồ hiện tại ở MCTN. Lối chơi sau khi ra mắt chính thức sẽ có thể thay đổi."
+      ]
     },
     "balanceHistory": [],
     "sources": {
@@ -22134,12 +22307,12 @@
   {
     "slug": "qi",
     "name": "Qi",
-    "title": null,
+    "title": "Võ sư bánh bao",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Vương quốc Rồng",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6da178e8a2c2871aeb856bec0f669ccd5d5684e01acd31.jpg",
     "searchKey": "qi",
     "damageType": "Vật lý",
@@ -22160,7 +22333,10 @@
         "name": "Chân khí hộ thể",
         "description": "Qi giải phóng chân khí hộ thể.\n\nNếu chiêu thức đánh trúng kẻ địch, 2 lần đánh thường kế tiếp sẽ được tăng tốc đánh và gây thêm sát thương vật lý, đồng thời hồi phục máu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7c9b07994c38fc903852284ec6e883a25d56851f880311.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Miễn thương"
+        ]
       },
       {
         "slot": "1",
@@ -22168,7 +22344,10 @@
         "name": "Truy tinh chưởng",
         "description": "Qi lướt theo hướng chỉ định, gây sát thương vật lý lên những kẻ địch đứng trên đường lướt đồng thời hất tung địch.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4411d2b8009b551aca8e5577f47392615d56856f8e8d41.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hất tung"
+        ]
       },
       {
         "slot": "2",
@@ -22176,7 +22355,10 @@
         "name": "Chấn thiên chưởng",
         "description": "Qi dùng chân khí đánh liên tiếp vào kẻ địch phía trước, mỗi đòn đánh gây sát thương vật lý và giảm giáp của địch.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/45fce7b0fd3d5b88b6732951bc6757565d5685b60d4ae1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng ST"
+        ]
       },
       {
         "slot": "3",
@@ -22184,7 +22366,11 @@
         "name": "Hạo nhiên chưởng",
         "description": "Qi xuất chưởng về phía trước gây sát thương vật lý và đánh lui địch. Kẻ địch bị đánh lui va vào địa hình sẽ phải chịu thêm sát thương vật lý và choáng. Sau đó Qi có thể lướt tiếp theo hướng chỉ định, gây sát thương vật lý lên những kẻ địch trên đường lướt.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4ed221dbe5cdfd8dd50aa63a30e6bc435d56860fb9b191.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Đẩy lùi",
+          "Dịch chuyển"
+        ]
       }
     ],
     "skins": [
@@ -22363,7 +22549,14 @@
     ],
     "goldCost": "0",
     "voucherCost": "0",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 15-04",
+      "Chiều cao: 169cm",
+      "Nơi sinh: Vương quốc Rồng",
+      "Vai trò: Truyền nhân võ đạo",
+      "Khác: Qi từng đạt kỷ lục vô địch phàm ăn của Vương quốc Rồng. Qi ngủ vô đối, vừa đứng vừa ngủ thoải mái.",
+      "Bí mật: Qi vì mê ăn bánh bao to nên còn được gọi là \"Bánh bao bự con\". Qi mặc dù có khiếu ăn nhiều nhưng nấu ăn thì không ra hồn gì cả. Cha của Qi từng muốn tổ chức một đại hội tỷ võ chiêu thân cho nàng."
+    ],
     "lore": [
       "\"Where there is no way, there is a way. What is infinite, is finite. Such is the way of the martial artist. Such is the way of Ch'i.\"",
       "It was a cold and rainy day. Drenched laborers gathered in front of the dojo with hammers and crowbars in hand, discussing how to remove the two inscribed plaques embedded deep inside the doorpost. The boss wanted everything taken away except the brick walls and the people. The plaques were not part of the walls, but they were so deeply embedded inside the stone doorposts that the workers were at their wits' end. Qi was standing under the eaves, watching all this.",
@@ -22387,23 +22580,46 @@
       "\"I am my Ch'i, my Ch'i with me.\""
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày kiên cường",
+          "Thương Longinus",
+          "Thương khung kiếm",
+          "Giáp Gaia",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Hấp huyết",
+        "Cường công",
+        "Ma tính",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [],
+      "notes": [
+        "Bộ trang bị semi cho Qi đi đường đơn giúp mang đến công vật lý cùng khả năng xuyên giáp mạnh mẽ. Nhờ nội tại tăng song giáp cùng khả năng hồi phục ổn định, Qi có thể trao đổi sát thương và sinh tồn hiệu quả trước nhiều vị tướng cùng đường bên đối phương từ giai đoạn đầu trận. Đặc biệt chiêu cuối Hạo nhiên chưởng của Qi là công cụ mở đầu giao tranh tổng lẫn bắt lẻ kẻ địch cực tốt, một chưởng thẳng vào địa hình sẽ khiến chúng gần như bất lực nếu không có cơ hội chạy thoát hoặc gọi đồng đội đến chi viện, do đó hãy tận dụng tốt lợi thế này khi chơi Qi. Có thể cân nhắc lên Thương xuyên phá nếu muốn đánh đổi khả năng sinh tồn để tăng mạnh xuyên giáp, hoặc ngược lại tận dụng một vài đồ thủ khác như Giáp cuồng nộ nếu muốn chơi an toàn hơn, đặc biệt khi tiến dần về cuối trận.",
+        "Có thể lên Cố thủ để có thêm một ít kháng hiệu ứng, và/hoặc lên nhánh phụ Quả cầu băng sương/Siêu hồi máu + Thợ săn."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/qi/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Qi",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Qi"
     }
   },
   {
     "slug": "quillen",
     "name": "Quillen",
-    "title": null,
+    "title": "Ám đao thanh trừng",
     "classes": [
       "Sát thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Hội ám hoàng",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f6004ed060dcff380fc5b13574986bbc5bf778bc905561.jpg",
     "searchKey": "quillen",
     "damageType": "Vật lý",
@@ -22425,7 +22641,10 @@
         "name": "Đánh lén",
         "description": "Những đòn đánh và chiêu thức tấn công từ phía sau kẻ địch chắc chắn gây chí mạng. Tuy nhiên sát thương chí mạng khởi điểm của hắn chỉ là 125% (tăng 0.5% theo mỗi 0.5% tỷ lệ chí mạng Quillen có).\n\nTấn công trước mặt chắc chắn không chí mạng",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/70997aa44e79e4fb5a2d7061d9336bdd5bf77954dd33e1.png",
-        "effects": []
+        "effects": [
+          "Đặc biệt",
+          "Tăng ST"
+        ]
       },
       {
         "slot": "1",
@@ -22433,7 +22652,9 @@
         "name": "Chém đôi",
         "description": "Quillen chém chớp nhoáng hai lần theo hướng chỉ định, gây sát thương vật lý.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ffe34f7a30fd35e90d569deb75c1b15f5bf7798b0833b1.png",
-        "effects": []
+        "effects": [
+          "Vật lý"
+        ]
       },
       {
         "slot": "2",
@@ -22441,7 +22662,10 @@
         "name": "Đoản mệnh",
         "description": "Quillen lướt đi, khi đến đích lập tức tấn công kẻ địch gây sát thương vật lý và đánh dấu nó trong 10 giây (chỉ có thể đánh dấu một kẻ địch mỗi lần). Mỗi lần Quillen công kích nạn nhân bị đánh dấu sẽ làm chậm tốc chạy trong 1 giây, và giảm 1 giây hồi chiêu này. Kẻ địch chịu dấu ấn sẽ bị giảm sát thương gây ra lên Quillen.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5ce24d3ca3420137995537d86ae72eb85bf779c984a261.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "3",
@@ -22449,7 +22673,10 @@
         "name": "Ẩn sát",
         "description": "Quillen lăn một vòng, sau đó tàng hình trong 3 giây, tăng tốc chạy và hồi máu mỗi 0.5 giây. Suốt thời gian này, nếu Quillen tấn công kẻ địch sẽ hiện hình và cường hoá bản thân trong 3 giây kế tiếp.\n\nCường hoá: Quillen nhận công vật lý, và tốc chạy mỗi khi gây sát thương lên kẻ địch.\n\nNội tại: Phụ hoặc hạ gục tướng địch sẽ làm mới hồi chiêu của toàn bộ kỹ năng",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/48d7e4d1147aaa02d92c8207fe6fa40f5bf779fa543871.png",
-        "effects": []
+        "effects": [
+          "Ẩn thân",
+          "Tăng tốc"
+        ]
       }
     ],
     "skins": [
@@ -22569,7 +22796,14 @@
     "stats": [],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 21-11",
+      "Chiều cao: 182cm",
+      "Nơi sinh: Tân liên hiệp",
+      "Vai trò: Nghị sĩ Liên bang tự do, điều hành Hội ám hoàng",
+      "Khác: Quillen vốn có xuất thân quý tộc, mẹ của anh cũng nổi tiếng thượng lưu trong Kazell. Quillen giữ kỷ luật theo cách cực đoan và thành tích từ bé đến lớn luôn đứng đầu.",
+      "Bí mật: Quillen rất tinh mắt, anh có thể biết ai đó có phải con người hay không. Quillen ghét trẻ con nhưng lại sáng lập ra quỹ bảo hộ trẻ cô nhi. Khi chủng tộc phi nhân loại tới gần, Quillen sẽ không nhịn được mà nhíu mày."
+    ],
     "lore": [
       "“The survival and dignity of mankind is solely reliant on swords and guns.”",
       "Quillen is the rising political star in the Free Federation. Young, handsome, sophisticated, composed, erudite, eloquent and cunning at the same time, Quillen would have been on his way to the top of authority had he not been radical on his political stance.",
@@ -22585,13 +22819,36 @@
       "Quillen, a decent, discreet politician by day, and an extremist who does what it takes to exterminate every alien by night, lives under his motto: survival of the fittest!"
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Kiếm truy hồn",
+          "Giày thuật sĩ",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Thánh kiếm",
+          "Kiếm Muramasa"
+        ]
+      ],
+      "badges": [
+        "Dư ảnh",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [],
+      "notes": [
+        "Bộ trang bị đi rừng cho Quillen giúp mang lại lượng công vật lý lớn đúng với bản chất của một sát thủ, đem theo Thánh kiếm sẽ giúp cải thiện sát thương chí mạng từ nội tại khi tiến dần về cuối trận; ngoài ra cũng nên đổi sang Giày kiên cường trong giai đoạn này hoặc đơn giản là bất cứ lúc nào bạn cảm thấy kẻ địch sẽ dồn cả tấn khống chế vào mình để khắc chế bớt. Nếu muốn tối đa hóa sát thương lên kẻ địch yếu máu thì có thể lên Nanh Fenrir.",
+        "Lưu ý Quillen chỉ phát huy hiệu quả khi tấn công kẻ địch từ sau lưng để luôn luôn ra đòn chí mạng, do đó hãy tận dụng tốt chiêu cuối để tàng hình rồi vòng ra tuyến sau và ám sát kẻ địch yếu máu, sau đó lập tức rút chạy hoặc ám sát mục tiêu khác khi nội tại chiêu giúp Quillen làm mới toàn bộ kỹ năng. Hoặc bạn có thể đơn giản là tận dụng tâm lý của kẻ địch khi cố gắng bỏ chạy lúc sắp bị tấn công và tự mình chìa lưng ra cho Quillen tấn công, như thế sẽ chẳng khác gì mỡ dâng tận miệng mèo. Ngoài ra cũng cần lưu ý để tránh bản thân bị lộ tầm nhìn khi đang tàng hình để khiến kẻ địch bắt ngược lại Quillen, nhất là khi không may gặp phải xạ thủ có thể tự soi tầm nhìn như elsu, fennik hay lindis."
+      ]
+    },
     "balanceHistory": [
       "Quillen's skill description updated (20/2/2026): Decimate reduces the attacker's damage by 40%, and damage cap on non-heroes enemies is now 2,000 (instead of 1,900)."
     ],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/quillen/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Quillen",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Quillen"
     }
   },
@@ -26308,8 +26565,9 @@
       ],
       "spells": [],
       "notes": [
-        "Bộ trang bị gợi ý cho Tamyn đi đường đơn. Sát thương của Tamyn tăng theo tốc chạy, do đó Giáp cuồng nộ về cuối trận sẽ là sự lựa chọn ổn áp có thể tính đến cho vị tướng này. Lưu ý Tamyn là một vị tướng khá khó chơi khi bộ kỹ năng xoay quanh ném và nhặt thương xen kẽ với tung đánh thường cường hóa, do đó cần tính toán kỹ càng vị trí ném và thu hồi để cho ra sát thương ổn định nhất.",
-        "Bộ trang bị đi rừng cho Tamyn.",
+        "Bộ trang bị gợi ý cho Tamyn đi đường đơn. Sát thương của Tamyn tăng theo tốc chạy, do đó Giáp cuồng nộ về cuối trận sẽ là sự lựa chọn ổn áp có thể tính đến cho vị tướng này. Lưu ý Tamyn là một vị tướng khá khó chơi khi bộ kỹ năng xoay quanh ném thương và nhặt lại để liên tục thi triển các đòn đánh thường cường hóa, do đó cần tính toán kỹ càng vị trí ném và thu hồi để cho ra sát thương ổn định nhất. Bù lại một khi đã thông thạo và tình thế có lợi trong giao tranh thì Tamyn sẽ là cơn ác mộng đối với kẻ địch khi liên tục đâm thương khiến chúng dễ dàng hấp hối.",
+        "Bộ trang bị đi rừng cho Tamyn, việc đưa vị tướng này vào rừng sẽ dễ dàng thăng tiến sức mạnh hơn so với đi đường đơn do Tamyn không quá mạnh mẽ trong việc đấu tay đôi, đặc biệt khi gặp kẻ địch có thể duy trì hồi phục và khả năng chống chịu liên tục.",
+        "Do Tamyn có chiêu cuối ngay từ cấp độ 1, phù hiệu trung tâm Ma tính cũng có thể được tận dụng để đẩy mạnh khả năng giảm hồi chiêu giúp ném và nhặt thương nhiều hơn.",
         "Tốc hành giúp Tamyn tăng tốc chạy và gián tiếp tăng sát thương gây ra khi đi đường đơn."
       ]
     },
@@ -27180,12 +27438,12 @@
   {
     "slug": "thane",
     "name": "Thane",
-    "title": null,
+    "title": "Thanh gươm anh dũng",
     "classes": [
       "Đỡ đòn"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Vương quốc Norman",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/71e488144b7dc9f13d40321ce0556efc5847d39f2071a1.png",
     "searchKey": "thane",
     "damageType": "Vật lý",
@@ -27205,7 +27463,10 @@
         "name": "Quyền năng ma thuật",
         "description": "\"Nội tại: Khi máu của Thane dưới ngưỡng nhất định, hắn có thể hồi lại một số lượng dựa theo máu tối đa của\n\nmình và nhận miễn thương trong thời gian ngắn.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/19c9c4d9e177ee23ea0d5a9cefafb96a583e9dfef08821.png",
-        "effects": []
+        "effects": [
+          "Miễn thương",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "1",
@@ -27213,7 +27474,10 @@
         "name": "Xung phong",
         "description": "Thane lao đến gây sát thương vật lý theo từng đợt (càng gần càng nhiều sát thương) lên kẻ địch kèm hiệu ứng đẩy lùi liên tục. Khi chiêu kết thúc sẽ hất văng nạn nhân.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d16cdf12dab4f627fe439a5e8252c4f4583e9e261cfaf1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Đẩy lùi"
+        ]
       },
       {
         "slot": "2",
@@ -27221,7 +27485,10 @@
         "name": "Gươm thần",
         "description": "Thane phóng lên trời cắm kiếm thần xuống đất, gây sát thương vật lý lên kẻ thù trong phạm vi, hất văng và làm chậm tốc chạy của các nạn nhân.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b0e3537a79816da5c312de91ee82217c583e9e469712e1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hất tung"
+        ]
       },
       {
         "slot": "3",
@@ -27229,7 +27496,10 @@
         "name": "Excalibur",
         "description": "Thane rút kiếm thần chém về phía trước, gây sát thương chuẩn, kèm 15% máu đã mất của mục tiêu thành sát thương vật lý. Thane nhận 20% miễn thương và không thể bị ngăn cản khi đang tung chiêu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4ea990168ba972f3dc2b74f4eb9a2ccf583e9e6523ec91.png",
-        "effects": []
+        "effects": [
+          "Chuẩn",
+          "ST vùng"
+        ]
       }
     ],
     "skins": [
@@ -27293,7 +27563,14 @@
     "stats": [],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 08-05",
+      "Chiều cao: 181cm",
+      "Nơi sinh: Vương quốc Norman",
+      "Vai trò: Vua của Norman",
+      "Khác: Tài năng chính trị của Thane chính là kế thừa từ mẹ mình là Theresa. Liên minh Thành khởi nguyên là do Thane lập ra.",
+      "Bí mật: Hồi nhỏ Thane được mẹ mang đi tị nạn ở vương quốc Okka. Thane quen arthur khi mới 11 tuổi. Thane cho rằng astrid mặc đồ thường ngày sẽ quyến rũ hơn là mặc giáp trụ."
+    ],
     "lore": [
       "Kindness, honesty, caring, loyalty, and civility.",
       "The chivalrous King Thane was the classic medieval hero that every child dreamed of becoming. However, very few people knew of his difficult childhood. Thane did not grow up with his father but was raised by the archbishop. The archbishop sneaked Thane out of the castle and took him far away to keep him safe from potential enemies.",
@@ -27301,12 +27578,41 @@
       "Once king, Thane led the Knights of the Round Table and defeated the powerful enemy that threatened his kingdom. \"Your Royal Majesty, King Thane, battles of the mortal world are meaningless to you. New opponents await your arrival on the battlefield of the gods. I hope your fabled sword is still as keen as ever.\" The sound of the battle horn had reignited King Thane's fighting spirit.",
       "\"With this sword in my hand, I will vanquish all evil!\""
     ],
-    "trivia": [],
-    "build": null,
+    "trivia": [
+      "Tên gọi chiêu cuối của Thane, Excalibur]] ám chỉ thanh kiếm huyền thoại cùng tên của Vua Arthur được cho là ẩn chứa sức mạnh huyền bí bên trong và tượng trưng cho chủ quyền hợp pháp của ông đối với Vương quốc Anh.",
+      "Khi đặt ngôn ngữ game là tiếng Anh, chiêu này được gọi bằng tên King's Glory (tạm dịch: Vinh quang của Vua).",
+      "Khi vào chế độ đấu luyện, người chơi có thể tự do chọn tướng cho bản thân và cho phe máy; tuy nhiên nếu vào chế độ này ngay trong giao diện xem tướng thay vì trong giao diện chọn chế độ chơi, Thane luôn là tướng được điều khiển bởi máy."
+    ],
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa hồi huyết",
+          "Giày kiên cường",
+          "Phù chú trường sinh",
+          "Nham thuẫn",
+          "Giáp Gaia",
+          "Giáp thống khổ"
+        ]
+      ],
+      "badges": [
+        "Canh gác",
+        "Sinh tồn",
+        "Trói buộc",
+        "Hấp huyết",
+        "Cố thủ"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị đi trợ thủ cho Thane giúp mang đến lượng lớn máu tối đa và khả năng chống chịu trong giao tranh, cùng với đó sẽ khiến một nhát Excalibur gây rất nhiều sát thương chuẩn lên kẻ địch. Có thể cân nhắc các trang bị khác như Đại địa ma nhãn, Khiên thất truyền hay Huân chương Troy tùy vào tình hình thế trận.",
+        "Đem theo Tốc biến có thể giúp Thane mở giao tranh bất ngờ với combo chiêu 1 + chiêu 2 để ủi chủ lực kẻ địch đang cố giữ khoảng cách về cho đồng đội xả sát thương. Khi này có thể đem theo phù hiệu nhánh Mật ngữ để hồi lại tốc biến nhanh hơn."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/thane/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Thane",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Thane"
     }
   },
@@ -32389,7 +32695,7 @@
       "Nơi sinh: Vương quốc Rồng",
       "Vai trò: Thập công chúa",
       "Khác: Yue không thích xúc chạm thân mật với người khác. Yue nghiên cứu rất sâu về mạch thuật và cô thường xuyên bí mật tham gia các buổi hội thảo mạch thuật trong Vương quốc.",
-      "Bí mật: Mẫu hậu của Yue mất sớm, từ bé chỉ có nhị hoàng tử hay nói chuyện với nàng. Thời gian mà Yue sống thanh thản nhất chính là ngày tháng khi nàng tu luyện cùng với Qi. Yue vẫn luôn tìm kiếm những vị tướng lĩnh tài ba, trong đó có một chiến binh diệt rồng trong truyền thuyết."
+      "Bí mật: Mẫu hậu của Yue mất sớm, từ bé chỉ có nhị hoàng tử hay nói chuyện với nàng. Thời gian mà Yue sống thanh thản nhất chính là ngày tháng khi nàng tu luyện cùng với qi. Yue vẫn luôn tìm kiếm những vị tướng lĩnh tài ba, trong đó có một chiến binh diệt rồng trong truyền thuyết."
     ],
     "lore": [
       "Yue was the highly regarded 10th princess of the Dragon Kingdom.",
@@ -32404,7 +32710,7 @@
           "Giày phù thủy",
           "Trượng bùng nổ",
           "Vương miện Hecate",
-          "Trượng hỗn mang",
+          "Mặt nạ ma quái",
           "Sách thánh",
           "Quả cầu băng sương"
         ]
@@ -32420,8 +32726,7 @@
         "Tốc biến"
       ],
       "notes": [
-        "Bộ trang bị giúp Yue sốc sát thương cực lớn với sải tay dài khi cắt chiêu 2 cường hóa chuẩn xác; nếu đối phương không có nhiều tướng chống chịu tốt có thể dừng lại ở Mặt nạ ma quái.",
-        "Phù hiệu trung tâm Thần quang giúp Yue dễ dàng bùng nổ sát thương."
+        "Bộ trang bị giúp Yue sốc sát thương cực lớn với sải tay dài khi cắt chiêu 2 cường hóa chuẩn xác; nếu đối phương đã lên đủ giáp phép thì hãy lên Trượng hỗn mang để lấy thêm xuyên giáp phép. Nếu cần khả năng cấu rỉa hãy lên Mặt nạ Berith để không còn bị \"thiếu sát thương\" cho Yue."
       ]
     },
     "balanceHistory": [],
