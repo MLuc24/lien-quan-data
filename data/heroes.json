@@ -337,7 +337,7 @@
       ],
       "spells": [],
       "notes": [
-        "Sát thương chính của Airi đến từ nội tại nội tại gây sát thương chuẩn trừ thẳng vào máu của mục tiêu, do đó các trang bị xuyên giáp là không cần thiết; thay vào đó cô cần có đủ lượng công vật lý cần thiết để dồn sát thương vào mục tiêu từ đòn đánh thường cường hóa và Phức hợp kiếm cùng nanh Fenrir chính là hai trang bị trấn phái cho Airi. Liềm đoạt mệnh giúp Airi băng càn trong giao tranh tổng và Thương khung kiếm giúp gia tăng miễn thương cho bản thân. Có thể cân nhắc Đao truy hồn nếu đối phương có nhiều vị tướng hồi phục khỏe.",
+        "Bộ trang bị đi đường đơn cho Airi. Nhờ nội tại gây sát thương chuẩn trừ thẳng vào máu của mục tiêu, các trang bị xuyên giáp là không cần thiết; thay vào đó Airi cần nhiều công vật lý và giảm hồi chiêu nhất có thể để tập trung dồn sát thương vào mục tiêu từ đòn đánh thường cường hóa. Liềm đoạt mệnh giúp Airi băng càn trong giao tranh tổng và Thương khung kiếm giúp gia tăng miễn thương cho bản thân. Có thể cân nhắc Đao truy hồn nếu đối phương có nhiều vị tướng hồi phục khỏe. Đối với giày thì có thể lên ngay Giày thuật sĩ từ đầu để lấy giảm hồi chiêu, nhưng cần đánh cẩn trọng và đổi sang giày kháng hiệu ứng về sau nhằm tránh bị kẻ địch dồn khống chế.",
         "Có thể thay đổi phù hiệu trung tâm thành 3=24 để cải thiện sát thương đầu ra.",
         "Đem theo Luyện kim có thể giúp Airi dễ dàng farm vàng và lên đồ sớm, từ đó tạo lợi thế cho đồng đội."
       ]
@@ -1341,14 +1341,14 @@
         [
           "Giày kiên cường",
           "Gươm sấm sét",
-          "Giáp Gaia",
           "Áo choàng thần Ra",
-          "Thương khung kiếm",
-          "Giáp cuồng nộ"
+          "Giáp Gaia",
+          "Phù chú trường sinh",
+          "Thương khung kiếm"
         ]
       ],
       "badges": [
-        "Hấp huyết",
+        "Dư ảnh",
         "Cường công",
         "Đấu khí",
         "Shm",
@@ -1367,7 +1367,7 @@
       ],
       "notes": [
         "Bộ trang bị cho Allain đi đường đơn mang lại tốc đánh cùng tỷ lệ chí mạng lớn. Nhờ nội tại chuyển hóa tốc đánh thành công vật lý, Allain có thể công thủ toàn diện khi vừa đánh vừa hồi máu liên tục trong giao tranh đơn lẻ.",
-        "Bộ trang bị mang lại sự chống chịu nhất định cho Allain, đánh đổi một phần sát thương để sinh tồn tốt hơn trong giao tranh tổng.",
+        "Bộ trang bị thiên về khả năng chống chịu giúp Allain trụ lâu hơn trong giao tranh, tạo tiền đề cho đồng đội phía sau xả sát thương.",
         "Có thể lên Cố thủ và nhánh phụ lên Canh gác + Bơm máu để cải thiện khả năng sinh tồn.",
         "Nếu chọn lối lên đồ thủ cho Allain, Trói buộc và Mộc giáp là hai lựa chọn phù hiệu trung tâm tốt."
       ]
@@ -4775,7 +4775,7 @@
     "build": {
       "itemSets": [
         [
-          "Giày kiên cường",
+          "Giày thuật sĩ",
           "Thương Longinus",
           "Phức hợp kiếm",
           "Thương khung kiếm",
@@ -4796,7 +4796,7 @@
         "Ngất ngư"
       ],
       "notes": [
-        "Bộ trang bị gợi ý cho Bijan đi đường đơn; nhờ nội tại cung cấp rất nhiều giáp, đặc biệt ở giai đoạn đầu trận nên Bijan có thể tối đa hóa sát thương gây ra thông qua các trang bị mang lại công vật lý và xuyên giáp. Có thể lên Thương xuyên phá để tăng mạnh xuyên giáp hơn nữa, hoặc lên một vài món thủ như Giáp Gaia nếu e ngại sát thương phép của đối phương do nội tại của Bijan chỉ tăng giáp chứ không phải giáp phép. Một pha Sa mạc thần thú bay thẳng vào chủ lực máu mỏng của kẻ địch có thể là công cụ hiệu quả để mở giao tranh, nhưng nếu không cẩn thận thì Bijan có thể lên bảng đếm số chỉ sau vài giây nếu đồng đội không hiểu ý để lao vào.",
+        "Bộ trang bị gợi ý cho Bijan đi đường đơn; nhờ nội tại cung cấp rất nhiều giáp, đặc biệt ở giai đoạn đầu trận nên Bijan có thể tối đa hóa sát thương gây ra thông qua các trang bị mang lại công vật lý và xuyên giáp. Có thể lên Thương xuyên phá để tăng mạnh xuyên giáp hơn nữa, hoặc lên một vài món thủ như Giáp Gaia nếu e ngại sát thương phép của đối phương do nội tại của Bijan chỉ tăng giáp chứ không phải giáp phép. Một pha Sa mạc thần thú bay thẳng vào chủ lực máu mỏng của kẻ địch có thể là công cụ hiệu quả để mở giao tranh, nhưng nếu không cẩn thận thì Bijan có thể lên bảng đếm số chỉ sau vài giây nếu đồng đội không hiểu ý để lao vào. Nếu gặp kẻ địch nhiều khống chế thì đừng quên lên Giày kiên cường, đặc biệt khi tiến dần về cuối trận.",
         "Mang theo Bộc phá để kết liễu kẻ địch thấp máu, còn Ngất ngư có thể là công cụ tạo bất ngờ cho kẻ địch với một pha choáng ngay sau khi chiêu cuối hất tung xong."
       ]
     },
@@ -4958,7 +4958,7 @@
         "Tê tái"
       ],
       "notes": [
-        "Bộ trang bị đi rừng giúp Billow bùng nổ sát thương mạnh mẽ đồng thời mang lại lượng giảm hồi chiêu đủ lớn để liên tục duy trì tung chiêu 2 và truy kích giữa đội hình kẻ địch khi có bùa xanh dưới chân. Liềm đoạt mệnh là trang bị cực kỳ quan trọng với tên sát thủ này giúp Billow có thể duy trì băng càn thêm tối đa 1.5 giây trước khi gục ngã, do đó nên lên sớm nhất có thể bằng việc lên trước Thương đấu sĩ ở slot đồ thứ 3 để tiết kiệm vàng.",
+        "Bộ trang bị đi rừng giúp Billow bùng nổ sát thương mạnh mẽ đồng thời mang lại lượng giảm hồi chiêu đủ lớn để liên tục duy trì tung chiêu 2 và truy kích giữa đội hình kẻ địch khi có bùa xanh dưới chân. Liềm đoạt mệnh là trang bị cực kỳ quan trọng với tên sát thủ này giúp Billow có thể duy trì băng càn thêm tối đa 1.5 giây trước khi gục ngã, do đó hãy lên Thương đấu sĩ trước ở slot đồ thứ 3 rồi soạn đồ để nhanh chóng lên liềm.",
         "Phù hiệu trung tâm Ma tính giúp Billow có thêm giảm hồi chiêu để có thể ra chiêu liên tục trong giao tranh và phù hiệu nhánh Cố thủ có thể giúp ích phần nào trước khả năng khống chế của đối phương."
       ]
     },
@@ -11041,7 +11041,9 @@
       "Nothing pleased him more than seeing the chagrin on the faces of his wealthy victims who he had just stolen from and the gratitude on the faces of the less-fortunate when receiving unexpected gifts. Fennik embodied a childlike spirit and embraced the art of tomfoolery. Money was merely an objective, his priorities laid deeper within.",
       "\"What is life? Being happy of course!\""
     ],
-    "trivia": [],
+    "trivia": [
+      "Mặc dù Kíp nổ là công cụ gây sát thương rất hiệu quả của Fennik, nó lại có thể bị xóa đi bởi Thanh tẩy trước khi kịp thời phát nổ, do đó hãy chú ý nếu gặp phải những tướng bên đối phương lên phép bổ trợ này, chẳng hạn như hayate và lauriel."
+    ],
     "build": {
       "itemSets": [
         [
@@ -11076,7 +11078,7 @@
       "notes": [
         "Bộ trang bị cho Fennik đi rừng giúp tăng cường tốc đánh lẫn hút máu cùng khả năng nổ chí mạng mạnh mẽ.",
         "Bộ trang bị gợi ý cho Fennik khi đi đường như một xạ thủ thuần túy, với lối lên đồ đẩy mạnh xuyên giáp cùng công vật lý này thì Kíp nổ khi có ít nhất 2-3 cộng dồn có thể gây sát thương đủ lớn, và một khi kết hợp với Lốc siêu thanh trong giao tranh thì lượng sát thương khổng lồ ngay khi đủ 4 cộng dồn sẽ là một cơn ác mộng đối với bất kỳ tướng máu mỏng nào; chưa kể đây là sát thương phạm vi nên hoàn toàn có thể thay đổi cục diện trong giao tranh tổng.",
-        "Lối lên đồ công này cũng có thể áp dụng khi đi rừng, khi này việc mang theo Kiếm truy hồn để lấy công vật lý thay vì tốc đánh sẽ là lựa chọn hiệu quả hơn.",
+        "Lối lên đồ công này cũng có thể áp dụng khi đi rừng, khi này việc mang theo Kiếm truy hồn để lấy công vật lý thay vì tốc đánh sẽ là lựa chọn hiệu quả hơn. Ngoài ra dù là lối chơi đi rừng hay đi xạ thủ, Fennik đều là một con bài hiệu quả để khắc chế trực diện những tướng tàng hình như wukong, kaine, quillen hay sinestrea, do đó hãy tận dụng lợi thế này để tránh tình trạng không có tầm nhìn về vị trí tướng địch trên bản đồ và trong giao tranh.",
         "Việc găm Kíp nổ yêu cầu Fennik cần lại gần kẻ địch để tung đòn đánh thường lên mục tiêu; phù hiệu Thánh thuẫn mặc dù sinh ra cho các tướng pháp sư băng càn cần hút máu phép, tuy nhiên lượng lá chắn mà phù hiệu này mang lại vẫn đủ để Fennik đánh đổi."
       ]
     },
@@ -11321,7 +11323,7 @@
       ],
       "notes": [
         "Bộ trang bị gợi ý cho Florentino đi đường đơn, nếu biết múa chắc tay thì có thể lả lướt cực tốt. Tên quý tộc này cần duy trì khả năng đâm chọt và hồi phục liên tục trong giao tranh đến từ nội tại, do đó các trang bị mang lại chống chịu là sự lựa chọn tối ưu nhất cho vị tướng được mệnh danh là \"thước đo của mọi đấu sĩ\" này trong Liên Quân.",
-        "Có thể lên sớm và dừng lại ở Găng bạch kim để tiết kiệm vàng lên Thương khung kiếm; về cuối trận trong giao tranh tổng nên thay đổi một món đồ sang các trang bị giữ mạng như Giáp hộ mệnh, Liềm đoạt mệnh hay Nham thuẫn nhằm tạo điều kiện cho đồng đội xả sát thương mà bản thân vẫn có thể múa giữa đội hình kẻ địch, miễn là người chơi có kỹ năng tốt.",
+        "Có thể lên sớm và dừng lại ở Găng bạch kim để tiết kiệm vàng lên Thương khung kiếm; về cuối trận trong giao tranh tổng nên thay đổi một món đồ sang các trang bị giữ mạng như Giáp hộ mệnh, Liềm đoạt mệnh hay Nham thuẫn nhằm tạo điều kiện cho đồng đội xả sát thương mà bản thân vẫn có thể múa giữa đội hình kẻ địch, miễn là người chơi có kỹ năng tốt. Nếu bạn tự tin vào khả năng múa của mình thì có thể lên Nanh Fenrir để cải thiện sát thương lên kẻ địch thấp máu.",
         "Bên cạnh lối lên đồ thủ, phù hiệu Rừng nguyên sinh cũng sẽ giúp bổ sung cho khả năng chống chịu của Florentino."
       ]
     },
@@ -11872,7 +11874,9 @@
       "Bí mật: bonnie và Goverra lấy gia tộc Videl làm mục tiêu rồi cùng nhau lập nên một liên minh bí mật. veres từng cải trang và dụ dỗ Goverra khi cô đang lạc lối khiến cô noi gương tổ tiên gia tộc để tham gia quân ngũ. moren cho rằng thiết bị lõi năng lượng mới do Goverra phát minh là quá mức điên rồ."
     ],
     "lore": [],
-    "trivia": [],
+    "trivia": [
+      "Mặc dù Goverra mang tên và ngoại hình khác với Mễ Lai nên không được tính hoàn toàn là tướng chuyển giao, tuy nhiên màn xuất hiện của cả hai tướng này lại giống hệt nhau; biểu tượng kỹ năng cũng gần như giống y hệt, chỉ thay thế người máy cơ khí của Mễ Lai thành thiết vệ của Goverra và đổi màu lại."
+    ],
     "build": {
       "itemSets": [
         [
@@ -13187,12 +13191,12 @@
   {
     "slug": "ignis",
     "name": "Ignis",
-    "title": null,
+    "title": "Sứ giả lửa thiêng",
     "classes": [
       "Pháp sư"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường giữa",
+    "faction": "Tháp quang minh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a2c0e8ef7742c926f9bb10fbab12b03d5970da7009dc11.jpg",
     "searchKey": "ignis",
     "damageType": "Phép",
@@ -13215,7 +13219,10 @@
         "name": "Hỏa Hồn",
         "description": "Nội tại: Hoả cầu trúng đích khiến các nạn nhân phải gánh chịu hiệu ứng Hỏa hồn, hiệu ứng kéo dài 2.5 giây. Chiêu thức tiếp theo của Ignis nếu kích phát Hỏa hồn sẽ được cường hóa và hồi máu cho Ignis.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f779d04ee7bf9941cdb7b844ceccc3825970dd41a513d1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Tăng ST"
+        ]
       },
       {
         "slot": "1",
@@ -13223,7 +13230,10 @@
         "name": "Hỏa Cầu",
         "description": "Ignis tung cầu lửa vào mục tiêu đầu tiên, thứ sẽ phát nổ theo hình nón lên những kẻ địch phía sau, gây sát thương phép, đồng thời tăng tốc chạy trong 1 giây. Nếu mục tiêu trúng chiêu đang dính phải hiệu ứng Hỏa hồn, Ignis sẽ nhận một lá chắn giúp chặn sát thương trong 2 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0077baf3281acf1f5f7f4c6e9ac222e45970dd8d3234b1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Lá chắn"
+        ]
       },
       {
         "slot": "2",
@@ -13231,7 +13241,10 @@
         "name": "Hỏa Hoạn",
         "description": "Ignis triệu hồi một cơn mưa lửa trong 3 giây tại điểm chỉ định, gây sát thương phép mỗi giây, và làm chậm tốc chạy của nạn nhân trong 2 giây. Nếu mục tiêu đang bị dính Hỏa hồn, sẽ bị choáng trong 0.75 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/775babab1959d630492799db3fdda1e95970ddc9c80971.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "3",
@@ -13239,7 +13252,10 @@
         "name": "Hỏa Trận",
         "description": "Ignis vẽ ra một pháp trận rực cháy, thoáng chốc sau đó những kẻ địch trong vùng ảnh hưởng sẽ phải chịu sát thương phép. Nếu mục tiêu trúng chiêu đang dính phải hiệu ứng Hỏa hồn, nạn nhân sẽ chịu sát thương chuẩn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/df40e86b54272541af06fa2918b66b105970de097e1101.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "ST vùng"
+        ]
       }
     ],
     "skins": [
@@ -13397,7 +13413,14 @@
     ],
     "goldCost": "13888",
     "voucherCost": "999",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 30-11",
+      "Chiều cao: 178cm",
+      "Nơi sinh: Vương quốc Okka",
+      "Vai trò: Thánh đồ",
+      "Khác: Hồi trẻ Ignis có thiên phú siêu phàm về ma pháp, những bạn đồng lứa sùng bái ông nhưng không dám chơi thân. Để nghe ngóng tin tức của người bạn mất tích, Ignis nhận nhiệm vụ ra ngoài truyền giáo.",
+      "Bí mật: Ngày mà Ignis nhận được vinh dự cũng là ngày ông thấy áy náy nhất. Ignis thường truyền giáo ở ngoài Tháp quang minh, chỉ khi nào ilumia triệu hồi thì ông mới quay về. Lúc nghỉ ngơi, Ignis thường đọc 1 cuốn sách cổ và ngồi ngây ra đó."
+    ],
     "lore": [
       "\"The Holy Flame will lead us to the Kingdom of Truth.\"",
       "The doctrine of the Temple of Light teaches that the Holy Flame is the symbol of light and truth. As guardian of Holy Flame, Ignis has long relied on his abundant knowledge and unshakable fait to lead the faithful along the path of light. It is for this reason that he is widely known as the \"Guide.\" However, before attaining this status, Ignis was an ordinary Temple scholar.",
@@ -13407,12 +13430,39 @@
       "Ignis recited a Holy Flame manipulation spell almost instinctively, and the Holy Flame formed a wall of fire, just as he had willed it to. \"The invaders will be destroyed. The Holy Flame will tear the flesh from their bodies and incinerate their bones!\" Brought to the brink of defeat, the Temple guard managed to regroup under Ignis' protection and emerged victorious. After the battle, Ignis returned to the Tower of Contemplation and continued his journey along the road to truth.",
       "\"Before truth, the knowledge I possess is but a drop in the ocean.\""
     ],
-    "trivia": [],
-    "build": null,
+    "trivia": [
+      "Ignis thường được người chơi Việt Nam gọi bằng biệt danh \"ông già\" hoặc \"già lửa\" do ngoại hình già dặn cùng bộ chiêu thức liên quan đến lửa của mình."
+    ],
+    "build": {
+      "itemSets": [
+        [
+          "Giày kiên cường",
+          "Mặt nạ Berith",
+          "Trượng băng",
+          "Quyền trượng Rhea",
+          "Băng nhẫn Skadi",
+          "Trượng hỗn mang"
+        ]
+      ],
+      "badges": [
+        "Sung mãn",
+        "Xuyên tâm",
+        "Thánh thuẫn",
+        "Ma hỏa",
+        "Cường công"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị cho Ignis đi đường giữa đảm bảo sát thương duy trì và khả năng cấu rỉa lẫn làm chậm kẻ địch ổn định trong giao tranh, cùng với đó là hút máu phép và đôi chút chống chịu sẽ giúp vị tướng này sinh tồn tốt hơn để thoải mái xả chiêu thức. Về cuối trận có thể bán bớt đồ và lên các trang bị giữ mạng như Quả cầu băng sương để bảo vệ bản thân trước mối nguy của kẻ địch.",
+        "Có thể cân nhắc các phù hiệu nhánh phụ khác như Hấp huyết, Cố thủ, Siêu hồi máu hoặc Thợ săn."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/ignis/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Ignis",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Ignis"
     }
   },
@@ -15759,12 +15809,12 @@
   {
     "slug": "krizzix",
     "name": "Krizzix",
-    "title": null,
+    "title": "Thần ẩn đại sư",
     "classes": [
       "Trợ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Rừng nguyên sinh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a7e49f01ef9804d479cb6537a9b51dee5db6c75c945151.png",
     "searchKey": "krizzix",
     "damageType": "Phép",
@@ -15786,7 +15836,10 @@
         "name": "Ẩn Đột",
         "description": "Sau khi thoát khỏi tầm nhìn của địch trong 3 giây, Krizzix được cường hóa đòn đánh thường kế tiếp gây sát thương phép và làm chậm tốc chạy diện rộng quanh kẻ địch trúng chiêu. Nếu Krizzix tung đòn đánh thường cường hóa khi kẻ địch không nhìn thấy hắn, thời gian hồi của chiêu này được giảm.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4f9a604dafd3695d5dbc25acf2652c315daec4e31a6281.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "1",
@@ -15794,7 +15847,10 @@
         "name": "Ngụy Trang Đơn Lẻ",
         "description": "Krizzix tiến vào trạng thái ngụy trang. Dưới trạng thái này, Krizzix được tăng tốc chạy và gây sát thương phép kèm hiệu ứng giảm giáp cùng giáp phép lên những nạn nhân hắn lướt qua; ngụy trang sẽ mất hiệu lực khi Krizzix gây bất kỳ sát thương nào khác lên địch, ngoại trừ chiêu này.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/14a64fbc2a349b851b5763ca7a4bd3e15daec54366a5c1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Ẩn thân"
+        ]
       },
       {
         "slot": "2",
@@ -15802,7 +15858,10 @@
         "name": "Vạn Vật Hấp Dẫn",
         "description": "Krizzix triệu hồi trận pháp xung quanh bản thân, gây sát thương phép lên kẻ địch trong phạm vi. Trận pháp sẽ bùng nổ sau một thời gian, gây sát thương phép lên kẻ địch trong phạm vi đồng thời hút nạn nhân lại gần Krizzix và làm choáng; nếu tướng địch bị trúng chiêu này, Krizzix và đồng đội trong phạm vi chiêu được nhận lá chắn sát thương.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7b4c636abbd8f977a7d8e69cc7d0ac8c5daec5dac44111.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Khống chế"
+        ]
       },
       {
         "slot": "3",
@@ -15810,7 +15869,10 @@
         "name": "Ngụy Trang Đồng Bộ",
         "description": "Krizzix sử dụng huyết mạch thiên phú giúp đồng đội lân cận được tăng tốc chạy, rồi 1 giây sau cùng nhau tiến vào trạng thái ngụy trang. Sau khi tung chiêu Krizzix nhận được thêm tầm nhìn của một tướng địch gần nhất.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4aba50a38444a537adec3718c4e1fcee5daec619d7b621.png",
-        "effects": []
+        "effects": [
+          "Ẩn thân",
+          "Lộ diện"
+        ]
       }
     ],
     "skins": [
@@ -15973,7 +16035,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 25-09",
+      "Chiều cao: 131cm",
+      "Nơi sinh: Rừng nguyên sinh",
+      "Vai trò: Tư tế ẩn thân",
+      "Khác: Krizzix tự trồng một mảnh vườn đầy quả trám nặng trĩu. Krizzix mỗi ngày đều phải ngủ đủ 14 tiếng nếu không sẽ rất uể oải.",
+      "Bí mật: Khi lười đi bộ, Krizzix sẽ treo mình lên cành của ybneth. Krizzix từng đi cùng với elandorr 1 thời gian ngắn và từ đó trở nên rất thích nghe nhạc. Krizzix ghét slimz hơn cả kilgroth thô lỗ bởi vì con thỏ kia chỉ thích thể hiện."
+    ],
     "lore": [
       "“Life is breathing, eating and sleeping. Responsibility? Who cares?”",
       "If there was one word that could describe Krizzix, it was lazy – absolutely, hopelessly so. Despite his remarkable talent, he was loathe to take up the mantle that fate bestowed on him, and he would not so much as cast one glance at at the crown placed before him by the high priest, though he was much more interested in the plate of fruit beside the crown.",
@@ -15992,11 +16061,37 @@
       "Always the free spirit, Krizzix sensed that something was up and quickly fled, preferring a free life in the wilds than the bondage of fame and fortune."
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa hồi huyết",
+          "Giày Hermes",
+          "Giáp Gaia",
+          "Khiên huyền thoại",
+          "Phù chú trường sinh",
+          "Nham thuẫn"
+        ]
+      ],
+      "badges": [
+        "Nhạy bén",
+        "Sinh tồn",
+        "Trói buộc",
+        "Hấp huyết",
+        "Mật ngữ"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị gợi ý cho Krizzix đi trợ thủ, trong đó Giày Hermes sẽ cung cấp đáng kể tốc chạy khi không trong trạng thái giao tranh. Vị tướng này cần nhiều khả năng chống chịu và giảm hồi chiêu nhất có thể để thường xuyên đứng giữa đội hình kẻ địch khi đang ngụy trang bằng chiêu 1 và đặc biệt là hút chúng lại gần mình bằng chiêu 2 để đồng đội ra đòn kết liễu. Khả năng phối hợp với đồng minh là điều bắt buộc phải có nếu muốn tận dụng Krizzix; tung chiêu cuối và cùng nhau bí mật lẻn vào tuyến sau của kẻ địch mà không khiến chúng để ý sẽ là chìa khóa quan trọng để hạ gục những vị tướng chủ lực đối phương trước khi giao tranh thật sự nổ ra.",
+        "Nên lên Găng bạch kim sớm sau khi lên giày để lấy giảm hồi chiêu; ngoài ra có thể thử đánh đổi một chút khả năng sinh tồn để lên Thương Longinus và giảm giáp vật lý của kẻ địch hơn nữa. Nếu kẻ địch có khả năng dồn khống chế mạnh mẽ thì nên đổi sang Giày kiên cường và/hoặc Đại địa mở trói do Krizzix không phải một tướng đỡ đòn thuần túy, việc hứng chịu quá nhiều sát thương và khống chế mà không thể phản kháng lại sẽ có thể là bất lợi.",
+        "Đem theo Mật ngữ sẽ giúp Tốc biến giảm thời gian hồi chiêu và tạo điều kiện cho Krizzix hút kẻ địch bằng một pha Vạn vật hấp dẫn đầy bất ngờ."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/krizzix/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Krizzix",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Krizzix"
     }
   },
@@ -21221,12 +21316,12 @@
   {
     "slug": "omen",
     "name": "Omen",
-    "title": null,
+    "title": "Quỷ kiếm dạ xoa",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Vực hỗn mang",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/00a78d4f7222a428cd06b45252f88a565a73df2c56ad81.jpg",
     "searchKey": "omen",
     "damageType": "Vật lý",
@@ -21246,7 +21341,10 @@
         "name": "Sát khí",
         "description": "Nội tại: Các đòn đánh thường trúng đích giúp Omen nhận một điểm tích lũy sát khí. Đạt đủ 5 điểm sẽ tiến vào trạng thái cường hóa, giúp tăng tốc chạy và tốc đánh, đồng thời đòn đánh gây thêm sát thương chuẩn và giảm thời gian hồi chiêu của chiêu 1 và chiêu 2 đi 1 giây.\n\nHiệu ứng kéo dài 5 giây. Mỗi đòn đánh thứ ba của Omen sẽ tấn công hai lần, gây thêm công vật lý. Bộ đếm sẽ đếm lại khi Omen đủ 5 điểm sát khí hoặc khi kết thúc trạng thái cường hóa.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/18bbb17dcf38fcd980ebcff3492d8e925a742543919aa1.png",
-        "effects": []
+        "effects": [
+          "Chuẩn",
+          "Tăng tốc đánh"
+        ]
       },
       {
         "slot": "1",
@@ -21254,7 +21352,10 @@
         "name": "Sát kiếm",
         "description": "Omen tung kiếm kéo kẻ địch phía trước lại gần bản thân , gây sát thương vật lý và làm chậm tốc chạy của nạn nhân.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8d7d396327b9d42d05c8e8180d2713f95a7425ca5ef1a1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Khống chế"
+        ]
       },
       {
         "slot": "2",
@@ -21262,7 +21363,11 @@
         "name": "Sát niệm",
         "description": "Khao khát muốn tiêu diệt tất cả bao phủ lấy Omen, giúp hắn tăng miễn thương và tốc chạy trong 2 giây. Suốt thời gian này, các đòn đánh thường của tướng địch lên Omen sẽ bị bắn ngược về chính chủ, gây sát thương vật lý và làm chậm tốc chạy của nạn nhân (kèm hiệu ứng đánh thường từ Omen). Mỗi kẻ địch chỉ chịu bắn ngược một lần. Đòn bắn ngược làm tăng sát khí.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5625a205a66d4ed1d3e2a18f155653565a74265d19d5d1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Miễn thương",
+          "Tăng tốc"
+        ]
       },
       {
         "slot": "3",
@@ -21270,7 +21375,10 @@
         "name": "Sát vực",
         "description": "Omen lao đến tướng địch đầu tiên trúng chiêu gây sát thương vật lý, đồng thời tạo ra một đấu trường tử vong khiến mục tiêu bị giảm sát thương gây ra, và không thể trốn thoát trong 5 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7d539aa98abcafd9934a9183fd8c30da5a7426ec141521.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hạn chế"
+        ]
       }
     ],
     "skins": [
@@ -21468,14 +21576,63 @@
     ],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 20-11",
+      "Chiều cao: 190cm",
+      "Nơi sinh: Vực hỗn mang",
+      "Vai trò: Thống lĩnh hang Shadow",
+      "Khác: Omen cho rằng tiếng kêu gào thảm thiết của con mồi trước khi chết thật là thú vị. Omen độc cư 1 mình tại hang Shadow tăm tối không ai dám đến gần.",
+      "Bí mật: Tuy Omen rất cuồng bạo khi tàn sát nhưng kỳ thực nội tâm của hắn khi đó rất bình tĩnh. Omen không chỉ có năng lực cận chiến hùng mạnh mà trí tuệ cũng không phải dạng vừa. Omen từng tỉ thí với maloch nhưng đôi bên bất phân thắng bại."
+    ],
     "lore": [],
-    "trivia": [],
-    "build": null,
+    "trivia": [
+      "Omen được ra mắt vào năm 2018 như là lưu niệm của giải đấu AIC 2017. Đây là vị tướng duy nhất trong trò chơi thể hiện rõ điều này ở giao diện xem tướng."
+    ],
+    "build": {
+      "itemSets": [
+        [
+          "Giày kiên cường",
+          "Kiếm Fafnir",
+          "Áo choàng thần Ra",
+          "Giáp thống khổ",
+          "Huân chương Troy",
+          "Thương khung kiếm"
+        ],
+        [
+          "Đại địa hồi huyết",
+          "Giày kiên cường",
+          "Áo choàng thần Ra",
+          "Giáp Gaia",
+          "Giáp thống khổ",
+          "Phù chú trường sinh"
+        ]
+      ],
+      "badges": [
+        "Canh gác",
+        "Sinh tồn",
+        "Mộc giáp",
+        "Hấp huyết",
+        "Cố thủ",
+        "Tương phản",
+        "Xuyên tâm",
+        "Tinh linh",
+        "Hấp huyết",
+        "Cố thủ"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị gợi ý cho Omen đi đường đơn. Chỉ cần lên Kiếm Fafnir là đủ để Omen xả sát thương bằng việc đánh thường liên tục, còn lại hãy ưu tiên các trang bị thủ để sống sót do Omen không phải tướng cơ động cao hay có nhiều khả năng khống chế. Chiêu 2 Sát niệm của Omen là chìa khóa quan trọng để tăng miễn thương khi đối thủ dồn sát thương, và chiêu cuối Sát vực trúng phải chủ lực đối phương sẽ giam chặt nạn nhân để cho đồng đội thoải mái kết liễu, định đoạt hoàn toàn cục diện giao tranh. Lưu ý kẻ địch có thể chống lại việc bị giam trong Sát vực bằng khả năng miễn khống ngay khi bị trúng chiêu, do đó hãy căn chuẩn thời điểm để ra đòn; bù lại một khi Omen đã giam thành công thì kẻ địch có cố hóa giải hay miễn khống cỡ nào cũng bất khả thi.",
+        "Nếu đưa Omen đi trợ thủ, hãy ưu tiên bỏ qua Kiếm Fafnir để lên thêm hoặc cân nhắc các trang bị thủ khác như Khiên thất truyền, Giáp cuồng nộ hay Nham thuẫn, biến Omen thành một tướng đỡ đòn cho đồng đội thay vì phải cố gắng xả sát thương. Tùy tình huống có thể đổi trang bị phụ trợ sang giải khống hoặc sang ma nhãn để lấy tầm nhìn.",
+        "Nên ưu tiên lên phù hiệu Rừng nguyên sinh để tối ưu khả năng chống chịu của Omen; ngoài ra Trói buộc cũng là một lựa chọn tương đối ổn cho vị tướng này.",
+        "Combo Tốc biến + Sát vực chuẩn xác sẽ giúp Omen bắt lẻ kẻ địch từ cự ly xa để giam giữ nạn nhân cho đồng đội kết liễu."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/omen/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Omen",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Omen"
     }
   },
@@ -30508,7 +30665,7 @@
         [
           "Kiếm truy hồn",
           "Giày kiên cường",
-          "Thương Longinus",
+          "Thương Xuyên Phá",
           "Liềm Đoạt Mệnh",
           "Nanh Fenrir",
           "Thương khung kiếm"
@@ -32215,12 +32372,12 @@
   {
     "slug": "yorn",
     "name": "Yorn",
-    "title": null,
+    "title": "Mũi tên mặt trời",
     "classes": [
       "Xạ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Rồng",
+    "faction": "Tháp quang minh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/44086d0bc26a170b21038a7cbf9413365c4938b95b2f91.jpg",
     "searchKey": "yorn",
     "damageType": "Vật lý",
@@ -32239,7 +32396,10 @@
         "name": "Vô tận tên",
         "description": "\"Nội tại: Sau khi dùng chiêu, hoặc đánh thường 5 lần, Yorn bắn ra 7 mũi tên tầm xa công kích kẻ địch trước mặt gây sát thương vật lý và 1% máu tối đa kẻ địch sát thương chuẩn mỗi đợt. Lính, quái và trụ nhận nhiều sát thương vật lý hơn.\n\nSau khi dùng chiêu, Yorn tăng 30% tốc chạy trong 0.5 giây\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/aa96e30c88b285f5516964dafa2b7332583f9719003581.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "ST vùng"
+        ]
       },
       {
         "slot": "1",
@@ -32247,7 +32407,10 @@
         "name": "Tên nổ",
         "description": "Yorn bắn một mũi tên nổ đến vùng chỉ định gây sát thương vật lý đồng thời khiến nạn nhân bị choáng.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/453285b62a7c798941bdd9d641b5de92583f977907f001.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "2",
@@ -32255,7 +32418,10 @@
         "name": "Mưa tên",
         "description": "Yorn triệu hồi một vùng đặc biệt liên tục bắn phá kẻ địch bên trong, gây sát thương vật lý. Đòn đánh tiếp theo kích hoạt nội tại Vô tận tên.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e890c128ee2533190bfdb6a4f7f2de37583f9799b1c8f1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Đẩy lùi"
+        ]
       },
       {
         "slot": "3",
@@ -32263,7 +32429,10 @@
         "name": "Tên thần",
         "description": "\"Yorn bắn một mũi tên cường hóa đến một mục tiêu gây sát thương vật lý lên tướng địch đầu tiên trúng phải, kèm theo lượng máu đã mất của mục tiêu thành sát thương phép thuật (tối đa 1000 sát thương lên quái).\n\nĐòn đánh sau đó kích hoạt nội tại Vô tận tên.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6d9603dd33ea12aaecc52ad81a480907583f97b0364911.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "ST vùng"
+        ]
       }
     ],
     "skins": [
@@ -32477,14 +32646,48 @@
     ],
     "goldCost": "13888",
     "voucherCost": "999",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 25-03",
+      "Chiều cao: 180cm",
+      "Nơi sinh: Tháp quang minh",
+      "Vai trò: Thánh đồ",
+      "Khác: Buổi tối Yorn phải về nhà ngủ, nếu không sẽ bị mất ngủ. Mỗi ngày Yorn tập bắn tên 10 tiếng trở lên.",
+      "Bí mật: Cung của Yorn chính là do ilumia ban tặng. Quá khứ làm bạn cùng alice ở Tháp quang minh đã trở thành kỷ niệm đẹp của Yorn. Tuy Yorn được jinna gọi là Mũi tên mặt trời nhưng anh lại không dám nhận danh hiệu này."
+    ],
     "lore": [],
-    "trivia": [],
-    "build": null,
+    "trivia": [
+      "Ban đầu khi được ra mắt, chiêu 2 và chiêu 3 của Yorn hoán đổi vị trí cho nhau; tháng 8 năm 2021 Yorn đã được sửa lại như hiện tại để phù hợp với bộ kỹ năng gốc của Lỗ Ban Đệ Thất."
+    ],
+    "build": {
+      "itemSets": [
+        [
+          "Giày du mục",
+          "Thánh kiếm",
+          "Song đao bão táp",
+          "Kiếm Fafnir",
+          "Diệt thần cung",
+          "Nanh Fenrir"
+        ]
+      ],
+      "badges": [
+        "Shm",
+        "Uy áp",
+        "Luyện kim",
+        "Tương phản",
+        "Bí quyết"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị cho Yorn đi xạ thủ, chỉ một phát bắn từ nội tại có thể gây sát thương chí mạng khổng lồ lên cả những kẻ địch máu giấy lẫn trâu bò. Cần lưu ý rằng Yorn là xạ thủ tù túng nhất trong game và sát thương ở giai đoạn đầu có thể nói là rất yếu, do đó nếu muốn mạo hiểm chơi vị tướng này thì bạn thật sự cần phải có cái đầu lạnh và hạn chế giao tranh hết mức có thể trong thời gian này; thay vào đó hãy chăm chỉ cày vàng và kinh nghiệm để nhanh chóng lên cho mình những món trang bị cần thiết, và về cuối trận hãy giữ vị trí thật tốt để xả sát thương cực kỳ kinh khủng lên những kẻ địch có ý định áp sát mình, đồng thời cũng nên cân nhắc các trang bị giữ mạng như Giáp hộ mệnh để bảo vệ bản thân. Nếu gặp được một người chơi hỗ trợ tốt và biết bảo kê, đồng thời bản thân biết giữ vị trí tốt thì Yorn về giai đoạn cuối trận có thể nói là không ngán bất cứ ai muốn tiếp cận mình; một phát chiêu 2 đúng thời điểm để đẩy lùi chúng và xả mưa tên là quá đủ để Yorn kết liễu ngược lại kẻ đi săn hoặc khiến hắn phải lật đật bỏ chạy.",
+        "Với một xạ thủ cần trang bị để lớn mạnh như Yorn, Luyện kim là phù hiệu không thể thiếu; ngoài ra có thể cân nhắc lên Xuyên tâm ở phù hiệu nhánh."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/yorn/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Yorn",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Yorn"
     }
   },
@@ -32703,7 +32906,9 @@
       "The king of the Dragon Kingdom had many heirs, but he always held her in the highest regard. Unfortunately, instead of filling her life with happiness, the king's favor forced her to face a cruel reality: her siblings and relatives plotted against her and wanted to kill her. Undercurrents raged under the apparent calm of the Dragon Kingdom, and no prince or princess could stay out of it. Fortunately, Yue's mind and strategy, not her beauty and power, were her most powerful weapons, Well-versed in tactics, Yue is tender like water when she is gentle, and merciless when the situation calls for it, making her seem like a goddess and a cold demoness at the same time. Since she was born in the royal family, Yue will play the rules of the game. She will become the heir apparent and the next king of the Dragon Kingdom. To her, being a king is all about knowing how to use the right people.",
       "\"All the heroes of this world shall serve me, so this world also belongs to me.\""
     ],
-    "trivia": [],
+    "trivia": [
+      "Yue từng sở hữu một trang phục Việt Nam mang tên \"Nàng tiên gạo\", tuy nhiên ảnh hoạt họa (splash art) lại thể hiện vị tướng này khoác lên mình bộ trang phục có phần giống với sườn xám của Trung Quốc kèm theo đó là các yếu tố có tính \"lật sử\" và xuyên tạc nền văn hóa lúa nước truyền thống lâu đời của Việt Nam; sau nhiều áp lực từ phía người chơi, trang phục này chính thức bị xóa vào tháng 12/2025 và được thay thế bằng sự kiện đăng nhập 10 ngày tặng trang phục teeri Minh tinh ảo thuật tại máy chủ Việt Nam."
+    ],
     "build": {
       "itemSets": [
         [
