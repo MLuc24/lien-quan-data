@@ -872,11 +872,11 @@
       },
       {
         "index": 10,
-        "name": "Alice Butterfly Mansion Girl",
-        "shortName": "Butterfly Mansion Girl",
+        "name": "Alice The Butterfly Mansion Girl",
+        "shortName": "The Butterfly Mansion Girl",
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/11810_2.png",
-        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1225b2f111cbd467d25efe8a2c0e6f19659518c5e0b611.jpg",
-        "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1225b2f111cbd467d25efe8a2c0e6f19659518c5d93871.jpg"
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3011810head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/11810.jpg"
       },
       {
         "index": 11,
@@ -1050,9 +1050,9 @@
         "Thần quang",
         "Ma hỏa",
         "Cường công",
-        "Hấp huyết",
-        "Cố thủ",
-        "Ma tính",
+        "Nhạy bén",
+        "Cứu viện",
+        "Du hiệp",
         "Sung mãn",
         "Mật ngữ"
       ],
@@ -1870,6 +1870,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/51912.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3051912head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/51912.jpg"
+      },
+      {
+        "index": 13,
+        "name": "Annette Thiên sứ may mắn",
+        "shortName": "Thiên sứ may mắn",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/51913.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3051913head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/51913.jpg"
       }
     ],
     "stats": [
@@ -2001,7 +2009,12 @@
         "Xuyên tâm",
         "Thần quang",
         "Ma hỏa",
-        "Cường công"
+        "Cường công",
+        "Ma hỏa",
+        "Cố thủ",
+        "Ma tính",
+        "Thánh châu",
+        "Mật ngữ"
       ],
       "spells": [
         "Tốc biến"
@@ -5119,6 +5132,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T5limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/10/59701-1.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/10/59701.jpg"
+      },
+      {
+        "index": 4,
+        "name": "Biron Deathmerc",
+        "shortName": "Deathmerc",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T3limited.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/305973head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/59703.jpg"
       }
     ],
     "stats": [
@@ -5783,12 +5804,12 @@
   {
     "slug": "bright",
     "name": "Bright",
-    "title": null,
+    "title": "Đệ nhất thánh giả",
     "classes": [
       "Xạ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Tháp quang minh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0045a9d59dc140647f4fa67b446c732c5fc55919650441.jpg",
     "searchKey": "bright",
     "damageType": "Vật lý",
@@ -5810,7 +5831,10 @@
         "name": "Thần lực ánh sáng",
         "description": "Bright sẽ căn cứ vào cự ly với kẻ địch để tự động quyết định đánh áp sát hay bắn xa. Dưới trạng thái bắn xa, mỗi đòn đánh thường sẽ gây cộng dồn 1 lần trong 5 giây, tối đa cộng dồn 5 lần. Dưới trạng thái cận chiến, mỗi đòn đánh thường sẽ gây sát thương vật lý và khi tấn công kẻ địch mang theo , Bright sẽ gây thêm X số lần thành sát thương chuẩn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9e3e9dcf54acc81b592d7801188f42225fc559f6533ac1.png",
-        "effects": []
+        "effects": [
+          "Chuẩn",
+          "Đặc biệt"
+        ]
       },
       {
         "slot": "1",
@@ -5818,7 +5842,10 @@
         "name": "Tốc độ quang minh",
         "description": "Bright bắn ra một luồng ánh sáng theo hướng chỉ định, cộng dồn 1 tầng và gây sát thương vật lý đồng thời có thể dùng nút di chuyển để biến đến vị trị gần đó và phóng tiếp 1 thanh giáo ánh sáng gây lượng sát thương như trên. Bất cứ thanh giáo nào phóng trúng tướng địch đều sẽ giúp bản thân Bright tăng tốc chạy. Ngoài ra tướng địch đồng thời bị trúng 2 lần sát thương trên sẽ dính thêm 1 tầng , chịu sát thương vật lý và bị choáng.\n\nNội tại: Kẻ địch bị đánh trúng ở trên sẽ bị đánh dấu và Bright sẽ nhìn thấy kẻ địch với tầm nhìn chuẩn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0b5a465715fb899c2203f7dbe1cac5625fc55a1fd83d61.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Choáng"
+        ]
       },
       {
         "slot": "2",
@@ -5826,7 +5853,10 @@
         "name": "Quang minh phán quyết",
         "description": "Bright vung đao ánh sáng đột kích vào kẻ địch và gây sát thương vật lý đồng thời 3 đòn đánh thường kế của bản thân được tăng % tốc đánh, hồi máu trong 3 giây. \n\nNội tại 1: Nếu đánh thường cận chiến vào kẻ địch bị đánh dấu , Bright sẽ xóa hết dấu ấn và được giảm nửa thời gian hồi chiêu 2.\n\nNội tại 2: Bright hạ tướng sẽ lập tức làm mới chiêu 2.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9df13e9549bc147cbb366b151b42da3c5fc55a3f5c6fd1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "3",
@@ -5834,7 +5864,10 @@
         "name": "Ma súng phán quyết",
         "description": "Sau khi bật Bất tử thánh thân, tất cả sát thương phải chịu sẽ bị dịch chuyển thời gian sau 3 giây mới bộc phát (cấm dùng chiêu 1). Nếu Bright hạ được kẻ gây sát thương, bản thân sẽ không phải chịu sát thương đến từ kẻ địch đó. Chiêu này kéo dài 6 giây. Mỗi đòn đánh thường xa sẽ mang tính xuyên thấu và đánh dấu lên kẻ địch trong phạm vi. Mỗi đòn đánh thường cận chiến sẽ gây sát thương trong phạm vi và gây X chuyển thành sát thương chuẩn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fd97222b24eca727ce3461cbb388f55e5fc55a57a25201.png",
-        "effects": []
+        "effects": [
+          "Biến hóa",
+          "Đặc biệt"
+        ]
       }
     ],
     "skins": [
@@ -5997,7 +6030,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 23-10",
+      "Chiều cao: 178cm",
+      "Nơi sinh: Vương quốc Okka",
+      "Vai trò: Truyền nhân ánh sáng",
+      "Khác: Bright từ nhỏ đã du ngoạn khắp bốn phương, nhìn nhiều hiểu rộng. Vết thương của Bright rất nhanh lành đồng thời không để lại sẹo.",
+      "Bí mật: Khi Bright muốn giấu giếm điều gì, anh sẽ giấu hai tay sau lưng. Tửu lượng của Bright rất kém, thuộc dạng 1 chén lăn kềnh. Bright tuy rất đẹp trai nhưng các cô gái không nhìn rõ mặt anh bởi vì ánh sáng chói lòa tỏa ra."
+    ],
     "lore": [
       "Bright was born in Okka.",
       "In winter, at the age of 6, he met Veda's original god, Edras for the first time.",
@@ -6013,7 +6053,56 @@
       "\"Make the world what we want it to be.\""
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Cung Bão Tố",
+          "Giày kiên cường",
+          "Thánh kiếm",
+          "Diệt thần cung",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Kiếm truy hồn",
+          "Giày kiên cường",
+          "Thánh kiếm",
+          "Thương Xuyên Phá",
+          "Song đao bão táp",
+          "Nanh Fenrir"
+        ],
+        [
+          "Thương Xuyên Phá",
+          "Giày du mục",
+          "Thánh kiếm",
+          "Vô ảnh tiễn",
+          "Phức hợp kiếm",
+          "Nanh Fenrir"
+        ]
+      ],
+      "badges": [
+        "Dư ảnh",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm",
+        "Tương phản",
+        "Bí quyết",
+        "Tinh linh",
+        "Shm",
+        "Uy áp"
+      ],
+      "spells": [
+        "Trừng trị",
+        "Tê tái",
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị đi rừng phổ biến cho Bright.",
+        "Bộ trang bị này sẽ ưu tiên công vật lý và xuyên giáp mạnh mẽ lên kẻ địch máu mỏng.",
+        "Bộ trang bị đi đường đơn cho Bright."
+      ]
+    },
     "balanceHistory": [
       "5th April 2021, update Beta 30",
       "BRIGHT: NERF",
@@ -6028,7 +6117,7 @@
     ],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/bright/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Bright",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Bright"
     }
   },
@@ -6567,11 +6656,11 @@
       },
       {
         "index": 14,
-        "name": "Capheny Bugcag Assemble",
-        "shortName": "Bugcag Assemble",
+        "name": "Capheny Bugcat Assemble",
+        "shortName": "Bugcat Assemble",
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/52415.png",
-        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3052415head.jpg",
-        "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/52415.jpg"
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3052415head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/52415.jpg"
       },
       {
         "index": 15,
@@ -7608,8 +7697,8 @@
         "name": "Cresht Eren Jaegar",
         "shortName": "Eren Jaegar",
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/56302.png",
-        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/301718head.jpg",
-        "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/17108-1.jpg"
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/301718head-1.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/17108-1.jpg"
       }
     ],
     "stats": [],
@@ -7631,7 +7720,7 @@
           "Đại địa hồi huyết",
           "Giày kiên cường",
           "Phù chú trường sinh",
-          "Nham thuẫn",
+          "Khiên thánh quang",
           "Giáp Gaia",
           "Giáp thống khổ"
         ]
@@ -7649,7 +7738,7 @@
         "Cấp cứu"
       ],
       "notes": [
-        "Bộ trang bị đi trợ thủ cho Cresht, mang đến lượng giáp và giáp phép cùng máu tối đa ổn định để hứng chịu sát thương cho đồng đội trong giao tranh. Đem theo Nham thuẫn sẽ giúp Cresht có thêm một lần tạo lá chắn đủ dày khi thấp máu; kẻ địch nếu không có sát thương chuẩn thì gần như khó lòng làm gì được với lượng lá chắn dày cộp của hắn trong khi đồng đội thoải mái xả sát thương. Có thể lên Khiên thất truyền để giảm tốc chạy và tốc đánh của đối phương khi bị tấn công. Ngoài ra sau khi biến hình, chiêu 1 và chiêu 2 cũng có thể gây hất tung cực kỳ khó chịu nên hãy tận dụng thật tốt, đặc biệt là khi đối đầu với kẻ địch kém cơ động.",
+        "Bộ trang bị đi trợ thủ cho Cresht, mang đến lượng giáp và giáp phép cùng máu tối đa ổn định để hứng chịu sát thương cho đồng đội trong giao tranh. Đem theo Khiên thánh quang sẽ giúp Cresht cải thiện khả năng tạo lá chắn; kẻ địch nếu không có sát thương chuẩn thì gần như khó lòng làm gì được với lượng lá chắn dày cộp của hắn trong khi đồng đội thoải mái xả sát thương. Có thể lên Khiên thất truyền để giảm tốc chạy và tốc đánh của đối phương khi bị tấn công. Ngoài ra sau khi biến hình, chiêu 1 và chiêu 2 cũng có thể gây hất tung cực kỳ khó chịu nên hãy tận dụng thật tốt, đặc biệt là khi đối đầu với kẻ địch kém cơ động.",
         "Có thể lên Thánh châu ở nhánh phụ để hồi chiêu cuối nhanh hơn, đặc biệt là trong giai đoạn đầu và giữa trận."
       ]
     },
@@ -7943,7 +8032,7 @@
       "itemSets": [
         [
           "Giày phù thủy",
-          "Gươm tận thế",
+          "Trượng bùng nổ",
           "Vương miện Hecate",
           "Sách thánh",
           "Quyền trượng Rhea",
@@ -7976,7 +8065,7 @@
         "Tê tái"
       ],
       "notes": [
-        "Bộ trang bị đi đường giữa cho D'Arcy giúp cải thiện công phép và hút máu phép; Gươm tận thế giúp bản thân có thể nổ sát thương đánh thường khổng lồ sau khi tung chiêu 1, tạo nên một pha \"nhất dương chỉ\" đích thực. Không chỉ sát thương đơn lẻ, đặt Ma trận thứ nguyên ở vị trí hợp lý rồi kết hợp với Lập phương thứ nguyên cường hóa khiến nó nổ ngay khi kẻ địch bị cưỡng chế kéo về ma trận cũng sẽ tạo nên sát thương diện rộng bùng nổ, miễn là kẻ địch không có khả năng miễn khống để ngăn bản thân không bị kéo về ma trận. Có thể cân nhắc các trang bị khác như Mặt nạ ma quái / Ma pháp trường bào / Trượng hỗn mang để tăng xuyên giáp phép, Trượng bùng nổ để cải thiện sát thương khi tung chiêu trúng đích, hoặc Ngọc đại pháp sư để tăng cường khả năng sinh tồn.",
+        "Bộ trang bị đi đường giữa cho D'Arcy giúp cải thiện công phép và hút máu phép; có thể lên Gươm tận thế giúp bản thân có thể nổ sát thương đánh thường khổng lồ sau khi tung chiêu 1, tạo nên một pha \"nhất dương chỉ\" đích thực. Không chỉ sát thương đơn lẻ, đặt Ma trận thứ nguyên ở vị trí hợp lý rồi kết hợp với Lập phương thứ nguyên cường hóa khiến nó nổ ngay khi kẻ địch bị cưỡng chế kéo về ma trận cũng sẽ tạo nên sát thương diện rộng bùng nổ, miễn là kẻ địch không có khả năng miễn khống để ngăn bản thân không bị kéo về ma trận. Có thể cân nhắc các trang bị khác như Giày thuật sĩ để lấy giảm hồi chiêu, Mặt nạ ma quái / Ma pháp trường bào / Trượng hỗn mang để tăng xuyên giáp phép hoặc Ngọc đại pháp sư để tăng cường khả năng sinh tồn.",
         "Bộ trang bị đi rừng cho D'Arcy."
       ]
     },
@@ -9291,18 +9380,10 @@
         [
           "Giày thuật sĩ",
           "Mặt nạ Berith",
-          "Trượng băng",
-          "Vương miện Hecate",
-          "Trượng hỗn mang",
-          "Quả cầu băng sương"
-        ],
-        [
-          "Giày phù thủy",
           "Trượng bùng nổ",
           "Vương miện Hecate",
-          "Mặt nạ ma quái",
           "Sách thánh",
-          "Quả cầu băng sương"
+          "Trượng hỗn mang"
         ]
       ],
       "badges": [
@@ -9314,17 +9395,16 @@
         "Ma hỏa",
         "Cường công",
         "Ma chú",
-        "Sung mãn",
-        "Xuyên tâm"
+        "Shm",
+        "Thợ săn"
       ],
       "spells": [
         "Tốc biến"
       ],
       "notes": [
-        "Bộ trang bị thiên về lối chơi cấu rỉa cho Điêu Thuyền với nhiều giảm hồi chiêu giúp ra chiêu thường xuyên hơn trong giao tranh tổng. Trượng băng là công cụ cải thiện khả năng làm chậm cho Điêu Thuyền, tuy nhiên nếu muốn sốc sát thương tốt hơn có thể tính đến các trang bị khác như Trượng bùng nổ và Sách thánh. Ngoài ra nếu gặp kẻ địch hồi phục mạnh thì nên ưu tiên lên Sách truy hồn từ giữa game để bớt gặp trở ngại.",
-        "Nếu mang Điêu Thuyền đi hỗ trợ (dù không quá hiệu quả ở các mức rank cao), đừng quên lên trang bị phụ trợ như hồi máu hay giải khống tùy vào đội hình kẻ địch.",
-        "Bộ trang bị này sẽ đánh đổi khả năng cấu rỉa để đẩy mạnh khả năng bùng nổ sát thương trong một nhịp cho Điêu Thuyền. Tuy nhiên sát thương của cô nàng không cao bằng nhiều pháp sư thuần về sốc sát thương như veera, krixi hay yue, do đó vẫn nên tham gia giao tranh cùng đồng đội thường xuyên.",
-        "Phù hiệu trung tâm Thần quang giúp Điêu Thuyền sốc sát thương tốt hơn về giai đoạn cuối, trong khi đó Ma chú sẽ tập trung vào khả năng cấu rỉa; có thể lên Ma tính nếu muốn tung chiêu thường xuyên hơn. Tương phản cũng là một lựa chọn ổn áp cho phù hiệu nhánh, nhưng có thể sẽ khiến bạn phải biến về thường xuyên hơn vì thiếu năng lượng."
+        "Bộ trang bị đi đường giữa cho Điêu Thuyền với nhiều giảm hồi chiêu giúp ra chiêu thường xuyên hơn trong giao tranh tổng và cân bằng giữa cấu rỉa và sốc sát thương; đổi sang Giày phù thủy để lấy xuyên giáp phép có thể cải thiện khả năng này. Nếu gặp kẻ địch hồi phục mạnh thì nên ưu tiên lên Sách truy hồn từ giữa game để bớt gặp trở ngại. Ngoài ra nội tại của Điêu Thuyền cũng có thể được tận dụng tốt hơn khi lên Thập tự kiếm. Về cuối game hãy lên các trang bị giữ mạng như Quả cầu băng sương để tránh bị sát thủ hay đấu sĩ đối phương bắt lẻ.",
+        "Nếu mang Điêu Thuyền đi hỗ trợ (dù không thật sự hiệu quả ở các mức rank cao), đừng quên lên trang bị phụ trợ như hồi máu hay giải khống tùy vào đội hình kẻ địch.",
+        "Phù hiệu trung tâm Thần quang giúp Điêu Thuyền sốc sát thương tốt hơn trong một nhịp chiêu, trong khi đó Ma chú sẽ tập trung vào khả năng cấu rỉa; có thể lên Ma tính nếu muốn tung chiêu thường xuyên hơn. Tương phản cũng là một lựa chọn ổn áp cho phù hiệu nhánh, nhưng có thể sẽ khiến bạn phải biến về thường xuyên hơn vì thiếu năng lượng."
       ]
     },
     "balanceHistory": [],
@@ -9448,12 +9528,14 @@
       ],
       "spells": [
         "Tốc biến",
+        "Dịch chuyển",
         "Trừng trị",
         "Tê tái"
       ],
       "notes": [
         "Bộ trang bị đi đường đơn giúp Edras ở dạng thần có thể gây sát thương siêu bùng nổ bằng Thánh quang hủy diệt đồng thời có thể cắn trộm công trình của đối phương vô cùng hiệu quả khi trong dạng ma nhờ nội tại của mình.",
-        "Edras không phải là một tướng có thể chủ động mở giao tranh tốt hay sống sót lâu dài trong giao tranh; vị trí đi rừng có thể là lựa chọn phù hợp hơn cho Thánh quang đạo sư giúp Edras giảm đi áp lực khi phải thường xuyên chạm mặt đối phương."
+        "Edras không phải là một tướng có thể chủ động mở giao tranh tốt hay sống sót lâu dài trong giao tranh; vị trí đi rừng có thể là lựa chọn phù hợp hơn cho Thánh quang đạo sư giúp Edras giảm đi áp lực khi phải thường xuyên chạm mặt đối phương.",
+        "Đem theo phép bổ trợ mới Dịch chuyển sẽ khiến Edras trở nên cực kỳ khó chịu với kẻ địch khi liên tục xuất hiện ở những nơi khác nhau trên bản đồ để cắn trộm công trình của chúng ở trong dạng ma."
       ]
     },
     "balanceHistory": [],
@@ -10394,12 +10476,12 @@
           "Giáp hộ mệnh"
         ],
         [
-          "Đại địa hồi huyết",
+          "Đại địa ma nhãn",
           "Giày kiên cường",
-          "Phù chú trường sinh",
           "Áo choàng thần Ra",
-          "Giáp Gaia",
-          "Giáp thống khổ"
+          "Khiên thánh quang",
+          "Phù chú trường sinh",
+          "Giáp Gaia"
         ]
       ],
       "badges": [
@@ -11158,6 +11240,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T5limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3017311head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/17311.jpg"
+      },
+      {
+        "index": 13,
+        "name": "Fennik Sứ giả may mắn",
+        "shortName": "Sứ giả may mắn",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/51913.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3017312head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/17312.jpg"
       }
     ],
     "stats": [
@@ -11494,6 +11584,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T3limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3052113head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/52113.jpg"
+      },
+      {
+        "index": 14,
+        "name": "Florentino Quán quân",
+        "shortName": "Quán quân",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/52114.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3052114head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/52114.jpg"
       }
     ],
     "stats": [],
@@ -11534,7 +11632,7 @@
         [
           "Giày hộ vệ",
           "Thương khung kiếm",
-          "Áo choàng băng giá",
+          "Khiên thánh quang",
           "Giáp Gaia",
           "Khiên thất truyền",
           "Giáp hộ mệnh"
@@ -12089,6 +12187,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T35limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2025/07/305961head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2025/07/59601.jpg"
+      },
+      {
+        "index": 3,
+        "name": "Goverra Swampseer",
+        "shortName": "Swampseer",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T3limited.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/305962head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/59602.jpg"
       }
     ],
     "stats": [],
@@ -14761,6 +14867,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/11009_1.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/301109head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/11009.jpg"
+      },
+      {
+        "index": 10,
+        "name": "Kahlii Oán nữ Tai Ương",
+        "shortName": "Oán nữ Tai Ương",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/11011.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3011011head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/11011.jpg"
       }
     ],
     "stats": [
@@ -15377,12 +15491,12 @@
   {
     "slug": "kilgroth",
     "name": "Kil’Groth",
-    "title": null,
+    "title": "Đồ tể đại dương",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Rừng nguyên sinh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4dd76a3f07965ade3c71b89874b64b935a29291ca4a111.gif",
     "searchKey": "kil groth",
     "damageType": "Vật lý",
@@ -15404,7 +15518,9 @@
         "name": "Áp suất biển sâu",
         "description": "Mỗi đòn đánh thường giúp tăng tốc đánh (tăng theo cấp tướng), tối đa cộng dồn 5 lần. Đặc biệt các đòn thứ ba có phạm vi công kích rộng hơn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0dd5a46133f416e70f5cc9e1e1767cfc5a292a1ebefc71.png",
-        "effects": []
+        "effects": [
+          "Tăng tốc đánh"
+        ]
       },
       {
         "slot": "1",
@@ -15412,7 +15528,10 @@
         "name": "Sóng tử vong",
         "description": "Kil'Groth lướt tới trước đâm mâu vào kẻ địch, gây sát thương vật lý và làm giảm tốc chạy mục tiêu. Đâm trúng tướng giúp giảm hồi chiêu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/35766d268f4bcf8c3315140487a5da785a292a86def831.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "2",
@@ -15420,7 +15539,10 @@
         "name": "Mâu thần lực",
         "description": "\"Nội tại: Mỗi đòn đánh thứ ba gây thêm sát thương phép.\n\nKích hoạt: Kil'Groth cường hóa đòn đánh thường gây thêm sát thương vật lý thời gian ngắn. Mỗi mục tiêu trúng đòn giúp hắn hồi máu. Giá trị hồi phục được tăng lên nếu nạn nhận nhân là tướng địch.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f08f0260703279666b228c847aab578a5a292b51031f41.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Tăng ST"
+        ]
       },
       {
         "slot": "3",
@@ -15428,7 +15550,10 @@
         "name": "Ác mộng biển khơi",
         "description": "Kil’Groth lập tức nhận 5 điểm cộng dồn nội tại Áp suất biển sâu, loại bỏ mọi trạng thái khống chế và được tăng tốc chạy giảm dần. Chưa hết, trong 4 giây kế tiếp, hắn được miễn nhiễm hoàn toàn khỏi mọi trạng thái khống chế. Mỗi đòn đánh thường trúng tướng địch kéo dài trạng thái này thêm thời gian hiệu quả, tối đa 3 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d54e0da837d2dc76e49b451dd47f0fc05a292cab9ec8f1.png",
-        "effects": []
+        "effects": [
+          "Miễn khống",
+          "Tăng tốc"
+        ]
       }
     ],
     "skins": [
@@ -15570,7 +15695,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 05-09",
+      "Chiều cao: 237cm",
+      "Nơi sinh: Rừng nguyên sinh",
+      "Vai trò: Lĩnh chủ biển Slaughter",
+      "Khác: Kil'Groth luôn khinh thường nhân loại. Kil'Groth tàn sát liên tục trăm ngày cho đến khi hắn thống trị được biển Slaughter.",
+      "Bí mật: Thực lực của Kil'Groth và cresht là ngang nhau. Kil'Groth từng bị Rừng nguyên sinh liệt vào nhân vật nguy hiểm số một. Biển Slaughter đã đem lại cho Kil'Groth năng lực cuồng bạo dũng mãnh."
+    ],
     "lore": [
       "The blood red sea roiled and boiled with fury.",
       "Kil'groth was the ruler of the seas, where rage served as the only way to survive. Survival of the fittest was the normal natural order, but Kil'groth's fanaticism stemmed from a complete disregard for balance in the food chain. The only thing cared about was instilling the fury of killing in all sea creatures. As for what they killed, well, that was up to them.",
@@ -15581,11 +15713,50 @@
       "Tip: Flicker & Execute are the best suited talents for Kil'Groth. You prioritize on squishy opponents/damage dealers who pose a threat to your team. Stay away from opponents that has trap ability like Aleister or Arum's ultimate. Use s3 before getting hit by Gildur's annoying ultimate that continously stuns heroes within his Area of Effect. Great burst hero & tank. Don't rely on the Popular Build since the WR is low. Make your own build in your own terms. His Item build style & his Enchantment build will depend on how you build his Arcana. Always save his s1 for chase after and escape thorugh walls. Don't be afraid to spam S3 when split-pushing. To prevent from being knocked up, slowed down, stunned, simply use S3. Don't ever be the one that initiates the teamfights even If you're a tank/warrior. Prioritize towers since he is known as a Tower Destroyer along with Omega & Nakroth. Using Flicker with his s1, you can chase dying heroes or squishy heroes easier or situations like teamfights where you attack from point A to point B in a matter of seconds (fighting 2 dying opponents in a team fight). He shines as a Burst hero ambushing squishies from Bushes, Bush Killer. Don't expect your teammate to save your peach. Use them as pawns. Once they've burst the opponents including the ADC & Mage, this is where you jump in & take adavantage of their window of vulnerability for they have used their skills. If you're fast enough to sell & buy a Blade of Eternity/Death Sickle/Rock Shield when dying to escape at the End game, I'll be great. Don't just attack heroes. After matches through matches, you'll know what heroes not to attack & who to prey on under the circumstances of the odds favoring in your side."
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày hộ vệ",
+          "Kiếm Fafnir",
+          "Thánh kiếm",
+          "Liềm Đoạt Mệnh",
+          "Thương Xuyên Phá",
+          "Nanh Fenrir"
+        ],
+        [
+          "Kiếm truy hồn",
+          "Giày du mục",
+          "Thánh kiếm",
+          "Song đao bão táp",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Hấp huyết",
+        "Cường công",
+        "Ma tính",
+        "Canh gác",
+        "Bơm máu"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Dịch chuyển",
+        "Trừng trị",
+        "Tê tái"
+      ],
+      "notes": [
+        "Bộ trang bị gợi ý cho Kil'Groth đi đường đơn. Vị tướng này cần càng nhiều tốc đánh và tỷ lệ chí mạng càng tốt để thi triển các đòn đánh thường liên tục, do đó hãy ưu tiên các trang bị này như thể bạn đang chơi một vị tướng xạ thủ. Tuy nhiên lối trang bị này cũng sẽ dẫn đến hệ quả là Kil'Groth rất mỏng manh, do đó nếu muốn giao tranh lâu dài thì nên lên thêm một vài trang bị gia tăng khả năng sống sót cho hắn, ví dụ như Giáp Gaia, Khiên thất truyền hay Thương khung kiếm.",
+        "Hoặc bạn có thể lựa chọn một lối chơi khác, mặc dù có thể gọi là tương đối cục súc: đẩy trụ. Không cần thiết phải lên đồ thủ, chỉ cần chăm chỉ farm lính và một vài quái nhỏ rồi lăm le từng công trình của đối phương nhân lúc chúng không để ý. Tuy nhiên hãy đảm bảo đồng đội của bạn có thể tự sống sót với lối chơi này vì phần lớn thời gian bạn sẽ không có mặt trong giao tranh tổng.",
+        "Bộ trang bị gợi ý cho Kil'Groth đi rừng. Vẫn tương tự như đi đường đơn, hãy ưu tiên chăm chỉ farm quái rừng và mục tiêu lớn thay vì giao tranh mù quáng. Khi đạt đủ điểm cộng dồn công vật lý từ nội tại (ví dụ tầm 80-100) cộng thêm lượng tỷ lệ chí mạng ổn định từ trang bị thì bạn có thể đẩy trụ lén hoặc thoải mái bắt lẻ vào những kẻ địch kém cơ động của đối phương nhờ chiêu cuối mang lại khả năng miễn khống.",
+        "Có thể xoay phù hiệu nhánh phụ sang Tương phản + Xuyên tâm hoặc Siêu hồi máu + Thợ săn.",
+        "Đem theo phép bổ trợ mới Dịch chuyển có thể giúp lối chơi đẩy trụ lén của Kil'Groth hiệu quả hơn."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/kilgroth/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Kil'Groth",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Kil'Groth"
     }
   },
@@ -16809,12 +16980,12 @@
   {
     "slug": "laville",
     "name": "Laville",
-    "title": null,
+    "title": "Tay súng thần quang",
     "classes": [
       "Xạ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Rồng",
+    "faction": "Tháp quang minh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c30059d2dc46ed31b72a4b02aa9e61f75eb136829228d1.jpg",
     "searchKey": "laville",
     "damageType": "Vật lý",
@@ -16835,7 +17006,9 @@
         "name": "Đạn liên châu",
         "description": "Mỗi đòn đánh thường trúng đích của Laville lên mục tiêu sẽ giúp bản thân tích lũy nội tại, tối đa tích lũy 3 tầng. Mỗi tầng nội tại giúp Laville tăng tốc đánh. Khi đạt đủ 3 tầng đòn đánh thường của hắn sẽ chuyển thành Đạn liên châu khiến mỗi đòn đánh bắn ra 3 phát đạn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0b76661f92471b3ed091c8124b5e4fa75eb1371715d2d1.png",
-        "effects": []
+        "effects": [
+          "Tăng tốc đánh"
+        ]
       },
       {
         "slot": "1",
@@ -16843,7 +17016,10 @@
         "name": "Đạn truy ảnh",
         "description": "Laville cường hóa bản thân khiến mỗi đòn đánh gây sát thương vật lý. Nếu bản thân đang trong trạng thái Đạn liên châu, mỗi phát đạn đồng thời gây sát thương lên 2 kẻ địch khác trong phạm vi.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/eeebbefa841f2c544b0eaf730b2501ba5eb1375cdbc991.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng ST"
+        ]
       },
       {
         "slot": "2",
@@ -16851,7 +17027,10 @@
         "name": "Khiên phản tốc",
         "description": "Laville nhận 1 lá chắn đỡ chiêu và tăng tốc chạy cho bản thân. Đồng thời đòn đánh thường trong 3 giây kế sẽ khiến mục tiêu bị làm chậm, tối đa cộng dồn 3 lần.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9e349ef6a32f686840b5e79de3dad52d5eb13791bab9d1.png",
-        "effects": []
+        "effects": [
+          "Đặc biệt",
+          "Lá chắn"
+        ]
       },
       {
         "slot": "3",
@@ -16859,7 +17038,10 @@
         "name": "Đạn thần quang",
         "description": "Laville kết hợp đôi súng thần quang bắn ra phát đạn ánh sáng có thể bay xuyên bản đồ gây sát thương vật lý bùng nổ trong phạm vi lên tướng địch và khiến chúng bị choáng. Tướng địch trực tiếp trúng chiêu này sẽ bị choáng.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/215bd4a1b6d3fb2d95d4eb49cac578485eb137d1a09a01.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Choáng"
+        ]
       }
     ],
     "skins": [
@@ -17070,7 +17252,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 01-06",
+      "Chiều cao: 181cm",
+      "Nơi sinh: Tân liên hiệp",
+      "Vai trò: Thành viên Tiểu đội ánh sáng",
+      "Khác: Laville tuy hơi nháo nhào nhưng thật ra rất biết ẩn giấu suy nghĩ thật sự của mình. Laville cho rằng may mắn cũng là một phần của thực lực.",
+      "Bí mật: Laville đôi lúc vụng trộm mở xới sau lưng tulen. Dáng ngủ của Laville hoàn toàn không dám khen ngợi. Tửu lượng như biển của Laville cũng chính là năng khiếu của người dân Mildar."
+    ],
     "lore": [
       "Laville is a typical Mildarian: Idle and a born optimist.",
       "He spent the first twenty years of his life loitering aimlessly around the streets of Mildar. His one and only interest was the shooting range.",
@@ -17089,7 +17278,41 @@
       "“The Light Chasers may not look like much, but our faith is strong!”"
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày du mục",
+          "Thánh kiếm",
+          "Song đao bão táp",
+          "Cung tà ma",
+          "Diệt thần cung",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Giày du mục",
+          "Thánh kiếm",
+          "Kiếm Fafnir",
+          "Xạ Nhật Cung",
+          "Diệt thần cung",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Tương phản",
+        "Bí quyết",
+        "Tinh linh",
+        "Shm",
+        "Uy áp"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị gợi ý cho Laville đi xạ thủ giúp cải thiện sát thương lẫn hút máu.",
+        "Lối lên trang bị này sẽ hiệu quả hơn khi gặp nhiều kẻ địch trâu bò, ngoài ra cũng cung cấp cho Laville khả năng tăng cự ly đánh thường để giữ khoảng cách với kẻ địch.",
+        "Có thể lên Xuyên tâm để lấy thêm xuyên giáp và/hoặc Thánh châu để hồi chiêu cuối nhanh hơn."
+      ]
+    },
     "balanceHistory": [
       "13th August 2020, update Beta 27.",
       "LAVILLE: NERFED",
@@ -17119,7 +17342,7 @@
     ],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/laville/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Laville",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Laville"
     }
   },
@@ -17430,12 +17653,12 @@
   {
     "slug": "lindis",
     "name": "Lindis",
-    "title": null,
+    "title": "Ẩn sĩ ngân nguyệt",
     "classes": [
       "Xạ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Rồng",
+    "faction": "Rừng nguyên sinh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4b2928793044600d4ca60ec95fb31f205a73d88927ca01.jpg",
     "searchKey": "lindis",
     "damageType": "Vật lý",
@@ -17455,7 +17678,10 @@
         "name": "Phục kích",
         "description": "Nội tại: Di chuyển giữa các bụi cỏ giúp Lindis tăng tốc chạy thoáng chốc, đồng thời khiến đòn đánh thường kế tiếp bắn hai lần, mỗi lần gây thêm sát thương vật lý.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d5655f3a63b12b4fb6323c81f899ee785a61c0669e8f71.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng tốc"
+        ]
       },
       {
         "slot": "1",
@@ -17463,7 +17689,10 @@
         "name": "Nguyệt Quang",
         "description": "\"Nội tại: Đòn đánh thứ 3 trúng cùng mục tiêu sẽ gây thêm sát thương vật lý.\n\nLindis triệu hồi mặt trăng giúp soi sáng xung quanh và phát hiện kẻ địch trong 5 giây, tối đa dự trữ 2 điểm cộng dồn.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3af16fdd29f8abb9ef6ba8df82cf005a5a61c0c835c0e1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Lộ diện"
+        ]
       },
       {
         "slot": "2",
@@ -17471,7 +17700,10 @@
         "name": "Nguyệt Vực",
         "description": "Lindis tạo ra một cái bẫy tồn tại tối đa 2 phút tại điểm đã chọn. Khi tiếp xúc với kẻ địch chiếc bẫy sẽ làm mục tiêu lộ diện đồng thời bộc phát tạo ra một vùng\n\nlàm chậm tốc chạy và gây sát thương vật lý sau thoáng chốc.\n\nLindis tối đa dự trữ được 2 bẫy. Những chiếc bẫy này nếu không bị kích hoạt bởi kẻ địch sẽ trở nên tàng hình sau 2 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/50239f9433a5b986616eea9c275efb155a61c115efca01.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "3",
@@ -17479,7 +17711,10 @@
         "name": "Nguyệt Ảnh",
         "description": "Lindis triệu hồi ảo ảnh tấn công kẻ địch, gây sát thương vật lý kèm các hiệu ứng trên đòn đánh. Lindis có thể dự trữ tối đa 5 ảo ảnh, và thời gian hồi giữa hai lần dùng ảo ảnh liên tiếp là 2 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4dc8f451d8703c7444fa829f9e81e3b75a61c15bc637d1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Dịch chuyển"
+        ]
       }
     ],
     "skins": [
@@ -17549,11 +17784,11 @@
       },
       {
         "index": 9,
-        "name": "Lindis Linh Hoa thần nữ",
-        "shortName": "Linh Hoa thần nữ",
+        "name": "Lindis Linh Hoa tiễn",
+        "shortName": "Linh Hoa tiễn",
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/17709.png",
-        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/17709-1.jpg",
-        "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/17709.jpg"
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/301779head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/17709.jpg"
       }
     ],
     "stats": [
@@ -17645,14 +17880,61 @@
     ],
     "goldCost": "18888",
     "voucherCost": "959 (temporary)",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 18-02",
+      "Chiều cao: 165cm",
+      "Nơi sinh: Rừng nguyên sinh",
+      "Vai trò: Tư tế bộ lạc ngân nguyệt",
+      "Khác: Lindis hay tự nói chuyện 1 mình nhưng thực ra là đang nói chuyện với linh hồn của chị gái mình. Lindis rất ghét bị lừa, kẻ nào lừa nàng đều bị ăn mũi tên.",
+      "Bí mật: Lindis căm hận mganga vì giết chị gái mình và thề sẽ trả thù cho chị vào một ngày nào đó. Lindis từng hỏi krizzix về cách quản lý bộ lạc nhưng nàng không thể áp dụng được. Trước khi trở thành tư tế, Lindis vẫn thường cùng arum giúp đỡ các sinh vật trong Rừng nguyên sinh."
+    ],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày du mục",
+          "Thánh kiếm",
+          "Thương Xuyên Phá",
+          "Song đao bão táp",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Cung Bão Tố",
+          "Giày kiên cường",
+          "Thánh kiếm",
+          "Diệt thần cung",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Shm",
+        "Uy áp",
+        "Luyện kim",
+        "Tương phản",
+        "Xuyên tâm",
+        "Hấp huyết",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Trừng trị",
+        "Tê tái"
+      ],
+      "notes": [
+        "Bộ trang bị đi đường xạ thủ cho Lindis. Khi có đủ trang bị cần thiết thì tung chiêu cuối có thể gây sát thương chí mạng cực kỳ khổng lồ; tuy nhiên đây là sát thương đơn lẻ nên sẽ không có hiệu quả quá cao nếu trúng phải những kẻ địch trâu bò thay vì máu giấy. Ngoài ra chiêu 1 cũng giúp Lindis phát hiện các kẻ địch đang tàng hình hoặc nấp trong bụi, do đó hãy tận dụng tốt.",
+        "Bộ trang bị đi rừng cho Lindis."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/lindis/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Lindis",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Lindis"
     }
   },
@@ -19182,6 +19464,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T6limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/301809head-1.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/18009-1.jpg"
+      },
+      {
+        "index": 11,
+        "name": "Max Người đưa thư",
+        "shortName": "Người đưa thư",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/51913.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3018010head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/18010.jpg"
       }
     ],
     "stats": [],
@@ -21371,6 +21661,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T3limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/07/16712s.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/07/16712.jpg"
+      },
+      {
+        "index": 14,
+        "name": "Ngộ Không Đại náo văn phòng",
+        "shortName": "Đại náo văn phòng",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T5limited.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3016713head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/16713.jpg"
       }
     ],
     "stats": [
@@ -21623,6 +21921,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/19511.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/301147head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/11407.jpg"
+      },
+      {
+        "index": 8,
+        "name": "Omega Khởi nguyên",
+        "shortName": "Khởi nguyên",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T6limited.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/301148head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/11408.jpg"
       }
     ],
     "stats": [
@@ -22871,10 +23177,10 @@
         [
           "Giày phù thủy",
           "Mặt nạ Berith",
+          "Trượng bùng nổ",
           "Vương miện Hecate",
-          "Sách thánh",
           "Trượng hỗn mang",
-          "Quả cầu băng sương"
+          "Sách thánh"
         ]
       ],
       "badges": [
@@ -24658,12 +24964,12 @@
   {
     "slug": "roxie",
     "name": "Roxie",
-    "title": null,
+    "title": "Nhà thám hiểm mù đường",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Tân liên hiệp\nMildar",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/51400-1.jpg",
     "searchKey": "roxie",
     "damageType": "Phép",
@@ -24686,7 +24992,9 @@
         "name": "Cuốc lửa",
         "description": "Mỗi 50 máu tối đa Roxie có, cô được tăng thêm 1 công phép Đòn đánh thường thứ ba lên kẻ địch sẽ giúp Roxie hồi 8% năng lượng tối đa, và đánh dấu Cuốc lửa lên nạn nhân trong 5 giây",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/198264bbca603677993387df6d66837d5b5eba85b8a121.png",
-        "effects": []
+        "effects": [
+          "Tăng ST"
+        ]
       },
       {
         "slot": "1",
@@ -24694,7 +25002,10 @@
         "name": "Patin lửa",
         "description": "Roxie tự tiêu hao năng lượng trong 5 giây để duy trì vệt lửa dưới đôi patin khiến mọi nơi cô lướt qua đều bùng cháy trong 2.5 giây. Tàn lửa gây sát thương phép mỗi nửa giây lên các đơn vị trong vùng ảnh hưởng, tối đa cộng dồn ba lần. Nếu nạn nhân đang chịu dấu ấn Cuốc lửa thì Roxie sẽ được hồi 1% máu tổn thất (2% nếu là tướng). Hiệu ứng hồi phục không cộng dồn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3dca3080c6226d80c7d5e5553958ae0f5b5ebb41682fa1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "2",
@@ -24702,7 +25013,10 @@
         "name": "Balo lửa",
         "description": "Roxie tăng 20% tốc chạy và tạo lá chắn lửa giúp chặn đứng sát thương trong 3 giây. Suốt thời gian này kẻ địch va phải Roxie sẽ bị làm chậm trong thời gian ngắn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e049eca888cabfc47203461432dab4d05b5ebca1987041.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Lá chắn"
+        ]
       },
       {
         "slot": "3",
@@ -24710,7 +25024,10 @@
         "name": "Keo lửa",
         "description": "Agnie bay đến lôi mục tiêu đầu tiên tóm được về phía bản thân trong 2.5 giây, đồng thời giúp Roxie làm mới lại thời gian hồi Patin lửa, khắc dấu ấn Cuốc lửa lên nạn nhân và gây sát thương phép sau khi chiêu kết thúc. Suốt thời gian này Roxie đi đâu nạn nhân sẽ bị kéo theo đó, thậm chí có thể kéo vượt địa hình, nhưng bù lại nạn nhân miễn nhiễm với tất cả các khống chế khác. Không có tác dụng lên quái khủng.  Đồng thời chiêu cuối khi trúng Tướng có thể hồi thời gian hồi chiêu của chiêu 1 và 2. Keo lửa sẽ không thể bị giảm thời gian tồn tại nhờ Kháng hiệu ứng",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/10709eb686383432a953a9eb7e851f5e5b5ebddd65b7d1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Áp chế"
+        ]
       }
     ],
     "skins": [
@@ -24881,7 +25198,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 21-12",
+      "Chiều cao: 160cm",
+      "Nơi sinh: Tân liên hiệp",
+      "Vai trò: Nhà thám hiểm",
+      "Khác: Roxie là nhà thám hiểm nổi tiếng nhưng không ngờ lại là một cô gái mù đường. Agnie tuy hay mắng mỏ Roxie nhưng thực ra nó rất lo cho cô.",
+      "Bí mật: Roxie từ bé đã được moren giúp đỡ. Đôi giày của Roxie chính là quà mà max tặng cho cô. Agnie cùng wisp đều là dạng phá hoại đồ đạc chuyên nghiệp."
+    ],
     "lore": [
       "Roxie and Agnie were a happy go lucky pair of adventure seekers.",
       "Roxie came from a long line of historically renowned explorers—some of them were, in fact, the ones who dug up the mineral veins that brought riches and prosperity to Mildar. The happy (and definitely a bit insane) family would have been able to just settle down and enjoy a peaceful life of affluence, yet the desire for adventure that ran in their veins would not allow them to do so. Instead, they paid their most trusted friends a generous amount, enough to raise a newborn all the way to adulthood, and entrusted them their offspring so that they could continue seeking out grand new worlds without needing to lug around a whining child.",
@@ -24898,11 +25222,58 @@
       "“But where, oh where is my Prince Charming?”"
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa ma nhãn",
+          "Giày kiên cường",
+          "Phù chú trường sinh",
+          "Khiên thánh quang",
+          "Giáp Gaia",
+          "Áo choàng thần Ra"
+        ],
+        [
+          "Giày kiên cường",
+          "Áo choàng thần Ra",
+          "Mặt nạ Berith",
+          "Giáp Gaia",
+          "Khiên thất truyền",
+          "Sách Truy Hồn"
+        ],
+        [
+          "Giày phù thủy",
+          "Ngọc đại pháp sư",
+          "Gươm tận thế",
+          "Vương miện Hecate",
+          "Sách thánh",
+          "Quả cầu băng sương"
+        ]
+      ],
+      "badges": [
+        "Canh gác",
+        "Sinh tồn",
+        "Trói buộc",
+        "Mật ngữ",
+        "Hấp huyết",
+        "Tương phản",
+        "Xuyên tâm",
+        "Thần quang",
+        "Ma hỏa",
+        "Cường công"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị đi trợ thủ cho Roxie, tận dụng tối đa hiệu quả áp chế tướng địch đến từ chiêu cuối để tạo đột biến trong giao tranh. Tùy tình huống có thể xoay sang những trang bị khác như Khiên thất truyền hay Giáp thống khổ.",
+        "Bộ trang bị đi đường đơn cho Roxie, cân bằng giữa công và thủ.",
+        "Lối lên trang bị full phép cho Roxie sẽ giúp cô nàng cải thiện đáng kể sát thương, đổi lại khả năng chống chịu sẽ giảm đi tương đối nhiều. Có thể lên Trượng hỗn mang để lấy thêm xuyên giáp phép."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/roxie/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Roxie",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Roxie"
     }
   },
@@ -25076,6 +25447,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/16313.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3016313head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16313.jpg"
+      },
+      {
+        "index": 14,
+        "name": "Ryoma Bá Tước Rừng Đen",
+        "shortName": "Bá Tước Rừng Đen",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T4limited.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3016314head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/16314.jpg"
       }
     ],
     "stats": [
@@ -25962,6 +26341,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/13614.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3013410head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13410.jpg"
+      },
+      {
+        "index": 8,
+        "name": "Skud Nhà thám hiểm",
+        "shortName": "Nhà thám hiểm",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T6limited.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3013411head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/13411.jpg"
       }
     ],
     "stats": [
@@ -27026,6 +27413,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T35limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/305429head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/54209.jpg"
+      },
+      {
+        "index": 9,
+        "name": "Tachi Đao Khách Trừ Yêu",
+        "shortName": "Đao Khách Trừ Yêu",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/11011.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3054210head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/54210.jpg"
       }
     ],
     "stats": [
@@ -28021,6 +28416,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/50121.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3050121head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/50121.jpg"
+      },
+      {
+        "index": 20,
+        "name": "Tel'Annas S - Quang Vinh",
+        "shortName": "Tel'Annas S - Quang Vinh",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/50122.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3050122head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/50122.jpg"
       }
     ],
     "stats": [
@@ -28293,6 +28696,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/13506.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/301356head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13506.jpg"
+      },
+      {
+        "index": 8,
+        "name": "Thane Dũng sĩ Diệt Yêu",
+        "shortName": "Dũng sĩ Diệt Yêu",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/11011.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/301357head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/13507.jpg"
       }
     ],
     "stats": [],
@@ -28442,12 +28853,12 @@
   {
     "slug": "thorne",
     "name": "Thorne",
-    "title": null,
+    "title": "Ma súng khế ước",
     "classes": [
       "Xạ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Rồng",
+    "faction": "Hội ám hoàng\nTân liên hiệp",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/dd8031b80a4fc5978cdd4886a65a6eb35f5070fd5d0221.jpg",
     "searchKey": "thorne",
     "damageType": "Hỗn hợp",
@@ -28468,7 +28879,9 @@
         "name": "Điều Luật Ma Súng",
         "description": "Chiêu của Thorne không bị ảnh hưởng bởi giảm hồi chiêu mà mỗi 1% giảm hồi chiêu sẽ chuyển thành 4 công vật lý.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13f4e4231c42f79891f4c55c34d12d9f610006c20421b1.png",
-        "effects": []
+        "effects": [
+          "Tăng ST"
+        ]
       },
       {
         "slot": "1",
@@ -28476,7 +28889,11 @@
         "name": "Đạn ma năng",
         "description": "Thorne chọn 1 trong 3 loại ma đạn nạp vào súng để cường hóa đòn đánh thường thành kế. Đạn tím: Gây thêm máu hiện tại của mục tiêu thành sát thương phép Đạn vàng: Khiến mục tiêu bị làm chậm Đạn xanh: Gây sát thương nổ trong phạm vi",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/59e4d767e21346fd1cc27d01a603dba7610007dedf5601.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Đặc biệt",
+          "Tăng ST"
+        ]
       },
       {
         "slot": "2",
@@ -28484,7 +28901,11 @@
         "name": "Ma súng nhập hồn",
         "description": "Thorne lướt về phía trước và cường hóa đòn đánh thường trong 3 giây kế thành ma đạn công kích. Đạn tím: bắn trúng mục tiêu gây thêm sát thương chuẩn dựa trên lượng máu mục tiêu đã mất Đạn vàng: bắn trúng mục tiêu gây choáng Đạn xanh: bắn trúng mục tiêu gây nổ",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a32183ab88f248cad2ff57945abdec8f61000888b9a451.png",
-        "effects": []
+        "effects": [
+          "Chuẩn",
+          "Dịch chuyển",
+          "Đặc biệt"
+        ]
       },
       {
         "slot": "3",
@@ -28492,7 +28913,10 @@
         "name": "Ma súng phán quyết",
         "description": "horne tụ lực 1 giây rồi gây 300 (+1.25 công vật lý) sát thương vật lý lên các mục tiêu trong phạm vi. Kẻ địch đứng trong trung tâm khu vực bị công kích sẽ phải chịu gấp đôi sát thương.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/306ffc0357c3704743973c1cb597b070610009c6795b91.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "ST vùng"
+        ]
       }
     ],
     "skins": [
@@ -28645,14 +29069,45 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 07-11",
+      "Chiều cao: 174cm",
+      "Nơi sinh: Tân liên hiệp",
+      "Vai trò: Thành viên Hội ám hoàng",
+      "Khác: Thorne thích sưu tập đủ các loại quân cờ vua. Thorne luôn sắp xếp cho quản gia mua socola thủ công được làm từ các bậc thầy đồ ngọt ở Kazell.",
+      "Bí mật: Thorne hay viết thư cho violet nhưng nàng rất ít khi hồi âm. Muốn thâu tóm được Hội ám hoàng thì điều đầu tiên là Thorne phải hạ bệ được quillen. Thorne rất hứng thú với tri thức uyên bác thâm sâu của liliana."
+    ],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Giày thuật sĩ",
+          "Kiếm Fafnir",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Shm",
+        "Uy áp",
+        "Luyện kim",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị cho Thorne đi xạ thủ. Nội tại của Thorne khiến cho sát thương của vị tướng này mạnh mẽ hơn khi lên các trang bị công vật lý chứ không phải chí mạng như nhiều xạ thủ khác. Lên Giày thuật sĩ sẽ giúp Thorne chuyển hóa 15% giảm hồi chiêu thành 60 công vật lý từ đầu trận, lấy lợi thế ban đầu trước xạ thủ đối phương. Có thể thay thế Kiếm Fafnir thành Chùy băng sương để tăng sát thương gây ra nếu kẻ địch không có quá nhiều tướng máu trâu, nhưng cũng sẽ khiến Thorne phải đánh đổi bằng 10% hút máu để lấy khả năng làm chậm."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/thorne/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Thorne",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Thorne"
     }
   },
@@ -29098,6 +29553,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T3limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3012913head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/12913.jpg"
+      },
+      {
+        "index": 13,
+        "name": "Triệu Vân Phá ma thương",
+        "shortName": "Phá ma thương",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T6limited.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3012915head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/12915.jpg"
       }
     ],
     "stats": [
@@ -31600,6 +32063,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T35limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3050810head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/50810.jpg"
+      },
+      {
+        "index": 11,
+        "name": "Wisp Te Tò He",
+        "shortName": "Te Tò He",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/50811.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3050811head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/50811.jpg"
       }
     ],
     "stats": [],
@@ -32307,8 +32778,8 @@
           "Giày kiên cường",
           "Khiên thất truyền",
           "Giáp Gaia",
-          "Phù chú trường sinh",
-          "Giáp thống khổ"
+          "Khiên thánh quang",
+          "Phù chú trường sinh"
         ]
       ],
       "badges": [
@@ -32337,12 +32808,12 @@
   {
     "slug": "yan",
     "name": "Yan",
-    "title": null,
+    "title": "Kiếm họa Thiên Sơn",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Vương quốc Rồng",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f9471319a98fac8dce266dc86cd1efea658d4042ae0051.jpg",
     "searchKey": "yan",
     "damageType": null,
@@ -32366,7 +32837,10 @@
         "name": "Thiên sơn kiếm",
         "description": "Mỗi khi dùng chiêu 1, chiêu 2, Yan được tích 1 cộng dồn. Đủ 2 cộng dồn sẽ được cường hóa đòn đánh thường tiếp theo. Căn cứ theo chiêu nào dùng trước đó để có hiệu ứng cường hóa riêng. Đánh trúng tướng địch giúp bản thân nhận được hồi máu và tăng tốc đánh.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fc03070fa0ef1f470c555beb9152c711658d4b4936dfe1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "1",
@@ -32374,7 +32848,10 @@
         "name": "Phá vân kiếm",
         "description": "Dùng vũ khí gây sát thương, làm chậm địch và cường hóa bản thân. Sau đó Yan tụ lực nhảy lên và chém xuống gây sát thương trong phạm vi và hất tung địch.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b12b549ed8ffba3c0efc7d9b98983168658d4b8c83cfd1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hất tung"
+        ]
       },
       {
         "slot": "2",
@@ -32382,7 +32859,11 @@
         "name": "Hoành long kiếm",
         "description": "Lướt nhanh theo quỹ đạo, nhận miễn khống và gây sát thương lên địch trên đường lướt. Khi được cường hóa, sẽ có hiệu ứng riêng.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a2e7df0c941762e644b87d746de7b945658d4bc41b9051.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Dịch chuyển",
+          "Miễn khống"
+        ]
       },
       {
         "slot": "3",
@@ -32390,7 +32871,11 @@
         "name": "Thánh quang bút",
         "description": "Yan giải phóng toàn bộ phong ấn và nhận miễn khống đồng thời miễn thương. Sau 1 giây, Yan gây sát thương lên kẻ địch trong phạm vi và khiên giai đoạn 2 của chiêu cuối tiến vào trạng thái cường hóa.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/feb702cd4e7e030035b78c12e8d563c7658d4c124bbf41.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng ST",
+          "Hất tung"
+        ]
       }
     ],
     "skins": [
@@ -32540,7 +33025,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 17-08",
+      "Chiều cao: 165cm",
+      "Nơi sinh: Vương quốc Rồng",
+      "Vai trò: Họa gia, đệ tử Mộng sơn họa phái",
+      "Khác: Sở thích của Yan là tái hiện những tác phẩm nổi tiếng. Yan không thích bị coi như con nít.",
+      "Bí mật: Rất nhiều nhà xuất bản ở Vương quốc Rồng muốn được hợp tác với Yan. Yan từng đến phòng tranh đắt giá nhất trong thành Thương Kính để thách thức các họa sĩ. Cứ mỗi hai tháng Yan lại gửi thư về cho cha mẹ để báo mình vẫn bình an."
+    ],
     "lore": [
       "Yan was the last disciple of the Dreamount Academy of Arts' current master in the Dragon Kingdom.",
       "Handpicked by the master at the break of dawn, he was named after a scholar's four jewels - \"ink\" and \"inkstone\". In the Dragon kigndom, \"ink\" was also known as \"green pine nut\", and this was how the name Yan came about.",
@@ -32552,7 +33044,44 @@
       "And so, the art prodigy of the Dragon Kingdom made his way down the mountain."
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Rìu Leviathan",
+          "Giày kiên cường",
+          "Kiếm Muramasa",
+          "Thương khung kiếm",
+          "Giáp cuồng nộ",
+          "Giáp Gaia"
+        ],
+        [
+          "Giày kiên cường",
+          "Kiếm Muramasa",
+          "Áo choàng băng giá",
+          "Thương khung kiếm",
+          "Nanh Fenrir",
+          "Giáp Gaia"
+        ]
+      ],
+      "badges": [
+        "Dư ảnh",
+        "Cường công",
+        "Ma tính",
+        "Canh gác",
+        "Sinh tồn"
+      ],
+      "spells": [
+        "Trừng trị",
+        "Tê tái",
+        "Tốc biến",
+        "Ma chủng hắc ám"
+      ],
+      "notes": [
+        "Bộ trang bị cho Yan đi rừng, lối lên đồ semi giúp Yan cân bằng công thủ và có thể sinh tồn lâu dài trong giao tranh. Để mở khóa toàn bộ ngưỡng sức mạnh thì Yan cần đạt cấp độ 12 để chiêu cuối đạt đủ cấp, do đó hãy ưu tiên làm tốt việc của một người chơi đi rừng trước giai đoạn này. Ngoài ra Yan cũng tương đối khó chơi khi bộ kỹ năng tương đối lả lướt và rối mắt, đặc biệt là sau khi vào trạng thái cường hóa, cũng như cần phải biết lựa chọn hiệu ứng cường hóa đòn đánh thường, do đó sẽ cần nhiều thời gian để thật sự thành thạo vị tướng này.",
+        "Về cuối trận hãy lên thêm các trang bị giữ mạng như Giáp hộ mệnh và Liềm đoạt mệnh để có thể cò quay được lâu hơn trong giao tranh tổng.",
+        "Bộ trang bị cho Yan đi đường đơn."
+      ]
+    },
     "balanceHistory": [
       "10th June 2022, update Beta 36 Hotfix 2",
       "I. Yan Designer's perspective: This time we've made some improvements to improve players' bad experiences with Yan, allowing him to grow more efficiently while nerfing the percentage of his damage bonus during his ultimate. Details:",
@@ -32576,7 +33105,7 @@
     ],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/yan/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Yan",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Yan"
     }
   },
