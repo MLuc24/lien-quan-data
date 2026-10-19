@@ -8432,8 +8432,7 @@
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fca1ebc235843a3a92a8fcb89f08c8465e16e37f40d491.png",
         "effects": [
           "Phép",
-          "Đặc biệt",
-          "ST vùng"
+          "Đặc biệt"
         ]
       }
     ],
@@ -8669,7 +8668,7 @@
         "Tốc biến"
       ],
       "notes": [
-        "Bộ trang bị đi đường giữa cho Dirak giúp cải thiện lượng sát thương phép gây ra đồng thời Thập tự kiếm sẽ cung cấp tốc đánh cho Dirak, tối ưu hiệu quả hiệu ứng từ chiêu cuối. Mặc dù là một pháp sư tay dài, nhưng Dirak chỉ phát huy hiệu quả tốt khi tiến lại gần kẻ địch ở cự ly tầm trung và một pha tung Thiên hỏa trận trúng địa hình có thể gây khống chế tương đối khó chịu lên kẻ địch, kết hợp với chiêu 1 thì có thể tạo cơ hội cho đồng đội xả chiêu. Khiên lô cốt được dựng lên từ chiêu cuối cũng có thể là công cụ chặn đứng sát thương dồi dào từ kẻ địch lao thẳng về phía bản thân và đồng đội, chẳng hạn như kahlii.",
+        "Bộ trang bị đi đường giữa cho Dirak giúp cải thiện lượng sát thương phép gây ra đồng thời Thập tự kiếm sẽ cung cấp tốc đánh cho Dirak, tối ưu hiệu quả hiệu ứng từ chiêu 3. Mặc dù là một pháp sư tay dài, nhưng Dirak chỉ phát huy hiệu quả tốt khi tiến lại gần kẻ địch ở cự ly tầm trung và một pha tung Thiên hỏa trận trúng địa hình có thể gây khống chế tương đối khó chịu lên kẻ địch, kết hợp với chiêu 1 thì có thể tạo cơ hội cho đồng đội xả chiêu. Khiên lô cốt được dựng lên từ chiêu 3 cũng có thể là công cụ chặn đứng sát thương dồi dào từ kẻ địch lao thẳng về phía bản thân và đồng đội, chẳng hạn như kahlii.",
         "Nhờ nội tại chặn sát thương bằng năng lượng của mình, Dirak có cơ hội lật ngược tình thế khi sắp bị hạ gục trong giao tranh; đem theo phù hiệu nhánh Hấp huyết và Siêu hồi máu sẽ giúp Dirak hồi máu và năng lượng nhanh chóng."
       ]
     },
@@ -11079,6 +11078,142 @@
     }
   },
   {
+    "slug": "evita",
+    "name": "Evita",
+    "title": "Tạo Vật Hắc Ám",
+    "classes": [
+      "Pháp sư"
+    ],
+    "lane": "Đường giữa",
+    "faction": "Chưa rõ",
+    "portrait": "https://lienquan.garena.vn/wp-content/uploads/2026/10/200x200.jpeg",
+    "searchKey": "evita",
+    "damageType": "Phép",
+    "tags": [
+      "Khống chế",
+      "Làm chậm",
+      "Lá chắn"
+    ],
+    "derived": {
+      "tags": true,
+      "damageType": true
+    },
+    "skills": [
+      {
+        "slot": "passive",
+        "slotLabel": "Nội tại",
+        "name": "Ma lực hắc ám",
+        "description": "Evita sẽ chuyển hóa Ma lực hắc ám theo thời gian. Khi tích đầy ma lực, lần kế tiếp tung chiêu trúng mục tiêu sẽ tiêu hao toàn bộ ma lực khiến Ma vật hỗn mang lao tới mục tiêu gây sát thương phép đồng thời giúp bản thân nhận lá chắn",
+        "icon": "https://lienquan.garena.vn/wp-content/uploads/2026/10/SeaTalk_IMG_20261014_172717-1.png",
+        "effects": [
+          "Phép",
+          "Làm chậm"
+        ]
+      },
+      {
+        "slot": "1",
+        "slotLabel": "Chiêu 1",
+        "name": "Bộc phá hắc ám",
+        "description": "Evita thả Ma vật hỗn mang hướng về phía chỉ định. Khi trúng kẻ địch hoặc bay đến vị trí xa nhất, nó sẽ phát nổ và bắn các đạn năng lượng ra xung quanh gây sát thương",
+        "icon": "https://lienquan.garena.vn/wp-content/uploads/2026/10/SeaTalk_IMG_20261014_172732.png",
+        "effects": [
+          "Phép",
+          "ST vùng"
+        ]
+      },
+      {
+        "slot": "2",
+        "slotLabel": "Chiêu 2",
+        "name": "Quyền lực hắc ám",
+        "description": "Evita triệu hồi Vết nứt bản nguyên trên mặt đất. Sau một khoảng trễ ngắn, Ma lực hắc ám bùng phát, gây sát thương và làm chậm kẻ địch. Nạn nhân ở vùng trung tâm còn phải chịu sát thương cao hơn kèm bị hất tung.",
+        "icon": "https://lienquan.garena.vn/wp-content/uploads/2026/10/SeaTalk_IMG_20261014_172728-2.png",
+        "effects": [
+          "Phép",
+          "Khống chế"
+        ]
+      },
+      {
+        "slot": "3",
+        "slotLabel": "Chiêu 3",
+        "name": "Triệu hồi hắc ám",
+        "description": "Evita nhận lá chắn và triệu hồi Ma vật hỗn mang tạo thành một lần Ma vật xung kích gây hiệu ứng làm chậm cho kẻ địch. Sau đó, Ma vật sẽ tiến vào trạng thái tự tìm mục tiêu để tấn công. Trong thời gian này, tốc độ chuyển hóa Ma lực hắc ám tăng mạnh; mỗi lần Ma vật hỗn mang chạm vào kẻ địch, nó sẽ gây sát thương và giảm giáp phép mục tiêu đồng thời mang đến lá chắn cho Evita.",
+        "icon": "https://lienquan.garena.vn/wp-content/uploads/2026/10/SeaTalk_IMG_20261014_172724.png",
+        "effects": [
+          "Phép",
+          "Đặc biệt"
+        ]
+      }
+    ],
+    "skins": [
+      {
+        "index": 1,
+        "name": "Evita",
+        "shortName": "Mặc định",
+        "rarityIcon": null,
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/avt.jpeg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/SeaTalk_IMG_20261014_172710-1.jpeg"
+      }
+    ],
+    "stats": [],
+    "goldCost": null,
+    "voucherCost": null,
+    "profile": [
+      "Sinh nhật: Chưa rõ",
+      "Chiều cao: Chưa rõ",
+      "Nơi sinh: Chưa rõ",
+      "Vai trò: Tạo vật của Oru",
+      "Khác: Evita trải qua chiến tranh Hồn trụ cổ xưa và chứng kiến sự kết thúc của Thời đại chư thần. Khởi động lại Khe nứt truy nguyên là bước quan trọng trong kế hoạch đánh thức Chủ thần hắc ám của Evita.",
+      "Bí mật: Để thuyết phục violet tham gia Hắc ám cổ đại, Evita đã dùng ảo ảnh diễn hóa thành hạo kiếp tương lai cho cô thấy. Evita không nghĩ rằng sức mạnh quang minh và hắc ám edras sở hữu đủ để thay đổi tương lai. tamyn khiến Evita nhớ lại những chuyện mình từng trải qua trong nghi thức hàng ngàn năm trước, chính vì vậy nàng cực kỳ ghét Tamyn."
+    ],
+    "lore": [],
+    "trivia": [
+      "Các hé lộ ban đầu về bộ kỹ năng đều cho thấy Evita sở hữu bộ chiêu thức tương đồng của Hằng Nga và đã gây thất vọng ban đầu cho người chơi đối với một vị tướng ra mắt kỷ niệm 10 năm Liên Quân Mobile."
+    ],
+    "build": {
+      "itemSets": [
+        [
+          "Giày phù thủy",
+          "Mặt nạ Berith",
+          "Trượng bùng nổ",
+          "Quả cầu băng sương",
+          "Trượng hỗn mang",
+          "Sách thánh"
+        ],
+        [
+          "Giày thuật sĩ",
+          "Mặt nạ Berith",
+          "Quyền trượng Rhea",
+          "Quả cầu băng sương",
+          "Gươm hiền triết",
+          "Sách thánh"
+        ]
+      ],
+      "badges": [
+        "Thánh châu",
+        "Xuyên tâm",
+        "Thần quang",
+        "Ma hỏa",
+        "Cường công",
+        "Sung mãn",
+        "Xuyên tâm",
+        "Thánh thuẫn",
+        "Ma hỏa",
+        "Cường công"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Ma chủng hắc ám"
+      ],
+      "notes": []
+    },
+    "balanceHistory": [],
+    "sources": {
+      "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/evita/",
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Evita",
+      "fandomEn": null
+    }
+  },
+  {
     "slug": "fennik",
     "name": "Fennik",
     "title": "Cáo siêu thanh",
@@ -11664,7 +11799,7 @@
   {
     "slug": "flowborn-2",
     "name": "Flowborn",
-    "title": "Vạn đạo quy tâm",
+    "title": "Hậu duệ Khởi Nguyên",
     "classes": [
       "Pháp sư"
     ],
@@ -18167,10 +18302,10 @@
         [
           "Giày kiên cường",
           "Mặt nạ Berith",
+          "Quyền trượng Rhea",
           "Băng nhẫn Skadi",
           "Quả cầu băng sương",
-          "Ma pháp trường bào",
-          "Quyền trượng Rhea"
+          "Ma pháp trường bào"
         ]
       ],
       "badges": [
@@ -21111,8 +21246,8 @@
           "Giày du mục",
           "Phức hợp kiếm",
           "Thương Xuyên Phá",
-          "Nanh Fenrir",
-          "Thương khung kiếm"
+          "Thánh kiếm",
+          "Nanh Fenrir"
         ],
         [
           "Kiếm truy hồn",
@@ -21135,11 +21270,8 @@
         "Tê tái"
       ],
       "notes": [
-        "Bộ trang bị đi rừng giúp Nakroth vừa gây sát thương bùng nổ vừa mang lại tốc đánh nhanh. Nếu gặp phải nhiều khống chế cứng hãy đổi sang Giày kiên cường, còn nếu muốn tiết kiệm vàng có thể đánh đổi nội tại của Nanh Fenrir để lấy tỷ lệ chí mạng khi lên Thánh kiếm.",
-        "Lối chơi đánh đổi giày để tăng mạnh sát thương gây ra sẽ khiến khả năng di chuyển của Nakroth gần như phụ thuộc hoàn toàn vào chiêu thức và bùa xanh, đòi hỏi người chơi cần kỹ năng đủ cao để ứng phó.",
-        "Phù hiệu trung tâm Ma tính giúp Nakroth hồi chiêu nhanh hơn và dễ dàng lả lướt.",
-        "Nakroth là một vị tướng đánh tay khá nhiều và do đó tỷ lệ chí mạng cùng hút máu từ bảng ngọc sẽ cải thiện sát thương lẫn khả năng sinh tồn của hắn.",
-        "Trừng trị là phép bổ trợ không thể thiếu với các tướng đi rừng như Nakroth."
+        "Bộ trang bị đi rừng giúp Nakroth vừa gây sát thương bùng nổ vừa mang lại tốc đánh nhanh. Nếu gặp phải nhiều khống chế cứng hãy đổi sang Giày kiên cường, còn nếu muốn sinh tồn trong giao tranh thì có thể lên Thương khung kiếm để lấy miễn thương.",
+        "Lối chơi đánh đổi giày để tăng mạnh sát thương gây ra sẽ khiến khả năng di chuyển của Nakroth gần như phụ thuộc hoàn toàn vào chiêu thức và bùa xanh, đòi hỏi người chơi cần kỹ năng đủ cao để ứng phó."
       ]
     },
     "balanceHistory": [
@@ -22964,13 +23096,12 @@
     ],
     "lane": "Đường giữa",
     "faction": "Vực hỗn mang\nTháp quang minh (từng)",
-    "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f2f8893606262e7c0547c4f47f670995590bf38eabfc81.jpg",
+    "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/p1.jpeg",
     "searchKey": "preyta",
     "damageType": "Phép",
     "tags": [
       "Khống chế",
       "Làm chậm",
-      "Lá chắn",
       "Tăng tốc"
     ],
     "derived": {
@@ -22981,9 +23112,9 @@
       {
         "slot": "passive",
         "slotLabel": "Nội tại",
-        "name": "Rồng dịch bênh",
-        "description": "Preyta: Vật cưỡi giúp tăng tốc chạy của Preyta.",
-        "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ac8aef131836caf5646fa660cad895bb590bf40f5cd461.png",
+        "name": "Dịch bệnh truyền nhiễm",
+        "description": "Khi chiêu của Preyta trúng kẻ địch, sẽ cộng dồn tầng dịch bệnh lên chúng. Dịch bệnh sẽ gây sát thương liên tục; khi cộng đủ 3 tầng sẽ phát nổ, gây một lần sát thương phạm vi. Đồng thời, khi chiêu của Preyta trúng tướng địch hoặc hạ lính và quái rừng, hắn cũng sẽ nhận được năng lượng dịch bệnh. Năng lượng dịch bệnh sẽ tăng công phép của Preyta và tiến hóa vĩnh viễn chiêu của hắn – năng lượng cộng dồn càng nhiều, chiêu càng mạnh.",
+        "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/普雷塔被动技能图标.png",
         "effects": [
           "Phép",
           "Cường hóa"
@@ -22992,9 +23123,9 @@
       {
         "slot": "1",
         "slotLabel": "Chiêu 1",
-        "name": "Hơi độc hại",
-        "description": "\"Preyta niệm chú 2 giây tập trung toàn bộ năng lượng để phát tán dịch bệnh theo hướng chỉ định. Trong thời gian này nếu thức hiện bất kỳ động tác gì khác sẽ khiến chiêu thức được kích hoạt ngay lập tức, gây sát thương phép.\n\nKhi Preyta trong trạng thái Siêu khuẩn, hắn để lại một cái bóng niệm chú hộ.\"",
-        "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/88a1871d3fdd1b032a0e8a58c3f2583f590bf44f3636b1.png",
+        "name": "Dịch bệnh bùng phát",
+        "description": "Preyta cường hóa bản thân và nhận trạng thái đánh thường cường hóa kéo dài 4 giây. Trong trạng thái cường hóa, Preyta sẽ được tăng tốc đánh, mở rộng tầm đánh, tăng tốc chạy đồng thời mỗi ba đòn đánh thường sẽ gây sát thương phạm vi.\n\n25 tầng dịch bệnh: Preyta cường hóa bản thân khiến các đòn đánh thường tiếp theo đều chuyển thành sát thương phạm vi.",
+        "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/一技能.png",
         "effects": [
           "Phép",
           "Tăng ST"
@@ -23003,9 +23134,9 @@
       {
         "slot": "2",
         "slotLabel": "Chiêu 2",
-        "name": "Bom hoại tử",
-        "description": "\"Preyta tạo ra một vụ nổ dịch bệnh đẩy lùi kẻ địch trong vùng ảnh hưởng, gây sát thương phép kèm hiệu ứng làm chậm.\n\nTrong trạng thái Siêu khuẩn, vụ nổ còn gây kèm hiệu ứng làm choáng.\"",
-        "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b6ae875a9f960dcf91a8023f3eb854c8590bf4a781a751.png",
+        "name": "Pháp trận hoại tử",
+        "description": "Preyta tung pháp trận tại vị trí chỉ định gây sát thương lên kẻ địch trúng chiêu và khiến chúng bị làm chậm. Sau 1 giây, gây sát thương và hất tung kẻ địch.\n\n75 tầng năng lượng dịch bệnh: Tăng phạm vi chiêu.",
+        "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/二技能.png",
         "effects": [
           "Phép",
           "Làm chậm"
@@ -23014,9 +23145,9 @@
       {
         "slot": "3",
         "slotLabel": "Chiêu 3",
-        "name": "Dịch Hạch",
-        "description": "\"Preyta tiến vào trạng thái Siêu khuẩn, tạo lá chắn, làm mới hồi chiêu và cường hóa Hơi độc hại và Bom hoại tử kế tiếp.\n\nTrong thời gian hiệu lực, Preyta còn được tăng tầm đánh, tốc chạy, tốc đánh và khiến đòn đánh thường gây thêm sát thương phép diện rộng.\"",
-        "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4318a8dd0536d490049f0be5b0ab776b590bf4db0b69b1.png",
+        "name": "Làn sóng dịch bệnh",
+        "description": "Preyta tụ năng lượng dịch bệnh về hướng chỉ định và phóng ra ba làn sóng xung kích về phía trước gây sát thương phép. Di chuyển hoặc tái kích hoạt Chiêu 3 sẽ lập tức phóng sóng xung kích; thời gian tụ lực ảnh hưởng đến khoảng cách của sóng xung kích (tối đa 1800).\n\n145 tầng năng lượng dịch bệnh: Chiêu cuối có thể vừa di chuyển vừa thi triển, vừa đi vừa đánh, tung chiêu linh hoạt hơn.",
+        "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/三技能.png",
         "effects": [
           "Phép",
           "ST vùng"
@@ -23029,8 +23160,8 @@
         "name": "Preyta",
         "shortName": "Mặc định",
         "rarityIcon": null,
-        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/90b107838232d5d8db37eb34f4fa5f70590bf518910481.jpg",
-        "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/90b107838232d5d8db37eb34f4fa5f70590bf51876ccd1.jpg"
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/p2.jpeg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/SeaTalk_IMG_20261015_101919.jpeg"
       },
       {
         "index": 2,
@@ -23163,7 +23294,7 @@
     "goldCost": "18888",
     "voucherCost": "1199",
     "profile": [
-      "Sinh nhật: 13 tháng 3",
+      "Sinh nhật: 13-03",
       "Chiều cao: Không rõ",
       "Nơi sinh: Không rõ",
       "Vai trò: Đọa lạc giả",
@@ -25203,7 +25334,7 @@
       "Chiều cao: 160cm",
       "Nơi sinh: Tân liên hiệp",
       "Vai trò: Nhà thám hiểm",
-      "Khác: Roxie là nhà thám hiểm nổi tiếng nhưng không ngờ lại là một cô gái mù đường. Agnie tuy hay mắng mỏ Roxie nhưng thực ra nó rất lo cho cô.",
+      "Khác: Roxie là nhà thám hiểm nổi tiếng nhưng không ai ngờ cô lại là một cô gái mù đường. Agnie tuy hay mắng mỏ Roxie nhưng thực ra nó rất lo cho cô.",
       "Bí mật: Roxie từ bé đã được moren giúp đỡ. Đôi giày của Roxie chính là quà mà max tặng cho cô. Agnie cùng wisp đều là dạng phá hoại đồ đạc chuyên nghiệp."
     ],
     "lore": [
@@ -29673,25 +29804,9 @@
         [
           "Đại địa ma nhãn",
           "Giày kiên cường",
-          "Tim Incubus",
+          "Áo choàng thần Ra",
           "Giáp thống khổ",
           "Huân chương Troy",
-          "Giáp hộ mệnh"
-        ],
-        [
-          "Giày hộ vệ",
-          "Áo choàng thần Ra",
-          "Thương khung kiếm",
-          "Nanh Fenrir",
-          "Giáp thống khổ",
-          "Giáp hộ mệnh"
-        ],
-        [
-          "Kiếm truy hồn",
-          "Giày kiên cường",
-          "Thánh kiếm",
-          "Phức hợp kiếm",
-          "Nanh Fenrir",
           "Giáp hộ mệnh"
         ]
       ],
@@ -29700,12 +29815,7 @@
         "Sinh tồn",
         "Trói buộc",
         "Thánh châu",
-        "Xuyên tâm",
-        "Hấp huyết",
-        "Cường công",
-        "Ma tính",
-        "Siêu hồi máu",
-        "Thợ săn"
+        "Xuyên tâm"
       ],
       "spells": [
         "Trừng trị",
@@ -29714,12 +29824,9 @@
         "Bộc phá"
       ],
       "notes": [
-        "Lối lên đồ semi cho Triệu Vân gõ thẳng chiêu cuối vào đầu chủ lực mà vẫn giữ được an toàn cho bản thân. Đặc biệt, hiệu ứng gây thêm sát thương chuẩn từ chiêu cuối có thể áp dụng cho cả trang bị, vì vậy khi đối đầu với các vị tướng gây sát thương vật lý liên tục như xạ thủ đối phương hoặc các vị tướng cùng đường như Sinestrea, Triệu Vân lên Giáp thống khổ có thể khiến kẻ địch tự làm hại mình.",
-        "Lối chơi trợ thủ cho Triệu Vân, khi dư dả vàng có thể lên Áo choàng thần Ra để thiêu đốt kèm giảm hồi máu của kẻ địch. Để Triệu Vân nắm vai trò đi trợ thủ đòi hỏi chủ lực đồng minh phải biết tự bảo kê tốt, vì Triệu Vân không được thiết kế để bảo kê cho đồng đội.",
-        "Lối lên đồ semi đi đường đơn cho Triệu Vân, đảm bảo sát thương lẫn khả năng sinh tồn hiệu quả.",
-        "Trước đây khả năng giải khống của Triệu Vân chỉ đến từ chiêu 1 và nội tại cũ của vị tướng này sẽ gia tăng công vật lý cho bản thân mỗi khi hạ hoặc phụ; đã từng có thời điểm \"Triệu Vân 20 nội tại\" có thể mang đến sự khiếp sợ cho các vị tướng kém cơ động khi chỉ cần một gõ từ chiêu cuối là có thể mang lại lượng sát thương chuẩn khổng lồ khiến nạn nhân xám màn hình trong chớp mắt. Mặc dù đã thay đổi cơ chế, lối lên đồ full sát thương này vẫn khiến Triệu Vân không khác gì một sát thủ, nhưng cũng đồng thời khiến hắn trở nên rất mỏng manh và do đó không nên lên build đồ này nếu kẻ địch có quá nhiều tướng cơ động, ví dụ như Nakroth hay Hayate.",
+        "Lối lên đồ semi cho Triệu Vân gõ thẳng chiêu cuối vào đầu chủ lực mà vẫn giữ được an toàn cho bản thân. Sau khi Giáp thống khổ được làm lại, Triệu Vân có thể tận dụng cực kỳ tốt trang bị này, và một khi bật lên thì vừa có thể gõ kẻ địch vừa phản lại cả tấn sát thương lên chúng.",
+        "Lối lên đồ trợ thủ cho Triệu Vân. Để Triệu Vân nắm vai trò đi trợ thủ đòi hỏi chủ lực đồng minh phải biết tự bảo kê tốt, vì Triệu Vân không được thiết kế để bảo kê cho đồng đội.",
         "Phù hiệu Trói buộc cũng có thể kích hoạt hiệu ứng gây sát thương chuẩn của chiêu cuối. Có thể thay thế các phù hiệu nhánh sang Hấp huyết, Ma hỏa hoặc Tương phản.",
-        "Lối lên phù hiệu này cũng đồng thời gắn liền với Triệu Vân thời kỳ ban đầu.",
         "Trừng trị là không thể thiếu cho Triệu Vân khi đi rừng, nếu đi đường đơn hoặc trợ thủ có thể chọn giữa Tốc biến hoặc Bộc phá."
       ]
     },
@@ -31061,7 +31168,7 @@
         "Tê tái"
       ],
       "notes": [
-        "Bộ trang bị phù hợp cho Veres tùy vào đi đường đơn, đi rừng hay trợ thủ. Riêng với khi đi hỗ trợ, Veres nên lên trang bị chống chịu để đỡ đòn cho đồng đội thay vì cố chấp lên lối chơi nhiều sát thương.",
+        "Bộ trang bị cho Veres tùy vào đi đường đơn, đi rừng hay trợ thủ. Riêng với khi đi hỗ trợ, Veres nên lên trang bị chống chịu để đỡ đòn cho đồng đội thay vì cố chấp lên lối chơi nhiều sát thương.",
         "Đối với Veres đi hỗ trợ, tương tự như lối lên trang bị chống chịu, phù hiệu Rừng nguyên sinh giúp vị tướng này sống sót tốt hơn trong giao tranh tổng."
       ]
     },
@@ -34849,12 +34956,12 @@
   {
     "slug": "zip",
     "name": "Zip",
-    "title": null,
+    "title": "Tiểu quỷ quái",
     "classes": [
       "Trợ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Vực hỗn mang",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e0f8f382d1be41adc8947bf1b849479b5d3823c7418f71.jpg",
     "searchKey": "zip",
     "damageType": "Phép",
@@ -34875,7 +34982,9 @@
         "name": "BÉO ĐÔ ĐÔ",
         "description": "Zip biến lớn và được tăng miễn thương đồng thời mỗi giây gây sát thương phép lên địch trong phạm vi.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/962645d2da9b844430d1d5ac1072cbb25d3ac86ecc8591.png",
-        "effects": []
+        "effects": [
+          "Miễn thương"
+        ]
       },
       {
         "slot": "1",
@@ -34883,7 +34992,10 @@
         "name": "ÁC HẬN",
         "description": "Zip niệm ma chú, gây sát thương phép lên mục tiêu và làm choáng mục tiêu. Sau đó ma chú tiếp tục tìm và khóa các tướng địch lân cận. Nếu không có đối tượng gần đấy, mục tiêu chính sẽ bị giảm tốc chạy.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1d1170e66af811becb805934a3fa95a55d3ac8b5bbbca1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Choáng"
+        ]
       },
       {
         "slot": "2",
@@ -34891,7 +35003,10 @@
         "name": "KHÍ THÔN",
         "description": "Zip há to mồm mở ra không gian thứ nguyên. Sau 1 giây hút đồng đội và quái rừng lân cận vào bụng trong 4 giây. Đồng đội trong phạm vi ảnh hưởng được nhận lá chắn, miễn thương còn Zip mỗi lần hút được 1 mục tiêu sẽ được hồi máu. Lúc này tất cả sát thương Zip gánh chịu sẽ truyền vào lá chắn của đồng đội. Trong quá trình hút, Zip được miễn khống chế và liên tục gây sát thương lên lính địch. Nếu ngừng hút nửa chừng sẽ được giảm phần lớn thời gian hồi chiêu này.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c64fd1262ed0d921a220fed54b3cdecf5d3ac90975b151.png",
-        "effects": []
+        "effects": [
+          "Đặc biệt",
+          "Lá chắn"
+        ]
       },
       {
         "slot": "3",
@@ -34899,7 +35014,10 @@
         "name": "LĂN LONG LÓC",
         "description": "Zip biến thành trái cầu thịt, tăng tốc di chuyển lên tối đa và được miễn khống chế đồng thời lăn theo hướng chỉ định. Trong khi lăn Zip gây sát thương phép lên kẻ địch trên đường lăn và hất tung. Khi kết thúc giảm tốc chạy của địch xung quanh. Nếu lăn trúng vách cản sẽ lăn ngược lại và tăng thêm tốc lăn. Kích hoạt thêm một lần sẽ khiến dừng lăn, thời gian hồi chiêu được tính theo thời gian đã lăn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/22707a803789fdd00fb1e8de70d7cd645d3ac93b562d31.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Tăng tốc"
+        ]
       }
     ],
     "skins": [
@@ -35062,7 +35180,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 04-03",
+      "Chiều cao: 121cm",
+      "Nơi sinh: Vực hỗn mang",
+      "Vai trò: Chiến binh ma tộc",
+      "Khác: Có lẽ là thường xuyên bị mina cho ăn đạp nên Zip rất sợ giày cao gót. Zip ước mơ tương lai sẽ luyện được cơ bụng 8 múi.",
+      "Bí mật: Để làm mượt tóc và lông, Zip mỗi ngày đều chăm chỉ tắm xà phòng thơm thảo mộc. Zip biết mình có vẻ ngoài đáng yêu nên toàn lợi dụng điều đó để ôm đùi Mina. Zip rất nhát gan, nghe truyện ma xong là mất ngủ."
+    ],
     "lore": [
       "The Abyss. A realm of chaos, filth, blood, and endless darkness. Powerful and twisted abominations lurk in every corner, waiting to prey on those weaker than themselves, such as Zip.",
       "Zip is one of a new generation of species native to the Abyss, and one would be forgiven for thinking that he was less evolved than the creatures that try to eat him - he has neither sharp claws nor imposing physique, a little fur ball that lacks any of the impressiveness or menace expected of an Abyss monster. But Zip is \"he\", not \"it\", and therein lies all the difference.",
@@ -35082,11 +35207,41 @@
       "\"Wait for me!\""
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa hồi huyết",
+          "Giày kiên cường",
+          "Khiên thánh quang",
+          "Huân chương Troy",
+          "Phù chú trường sinh",
+          "Giáp thống khổ"
+        ]
+      ],
+      "badges": [
+        "Canh gác",
+        "Bơm máu",
+        "Mộc giáp",
+        "Thánh châu",
+        "Hấp huyết",
+        "Hấp huyết",
+        "Cố thủ",
+        "Ma tính",
+        "Thánh châu",
+        "Mật ngữ"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị cho Zip đi trợ thủ giúp mang lại nhiều khả năng chống chịu để đỡ đòn cho đồng đội. Tùy tình huống có thể cân nhắc các trang bị khác như Nham thuẫn hay Khiên thất truyền. Bên cạnh việc bảo kê cho đồng đội bằng chiêu 2, Zip còn là công cụ hiệu quả trong việc đẩy lén trụ kẻ địch bằng việc hút lính và đồng minh vào rồi dùng chiêu cuối để lăn thật nhanh đến đó. Tuy nhiên điều này cũng đòi hỏi Zip phải là người chủ động mở đầu giao tranh và đồng đội cũng phải hiểu ý, do đó hãy cân nhắc khi chơi vị tướng này.",
+        "Đem theo phù hiệu nhánh Thánh châu sẽ giúp chiêu cuối hồi nhanh hơn và dễ dàng cùng đồng đội đẩy trụ lén hơn. Lối lên phù hiệu trung tâm ở nhánh Rừng nguyên sinh sẽ hiệu quả hơn để gia tăng khả năng chống chịu cho Zip."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/zip/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Zip",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Zip"
     }
   },

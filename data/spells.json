@@ -1,21 +1,5 @@
 [
   {
-    "slug": "la-chan-sinh-menh",
-    "name": "Lá chắn sinh mệnh",
-    "icon": "https://lienquan.garena.vn/wp-content/uploads/2026/01/SeaTalk_IMG_20260119_104208-1.png",
-    "description": "Cơ chế mùa – Chỉ xuất hiện trong S1/2026. 90 giây hồi chiêu: Linh bảo tạo thêm lá chắn giúp tướng hấp thu 700 – 1400 (+20% máu đã mất của tướng) sát thương trong 5 giây.",
-    "seasonal": true,
-    "searchKey": "la chan sinh menh"
-  },
-  {
-    "slug": "tu-bao-bon",
-    "name": "Tụ bảo bồn",
-    "icon": "https://lienquan.garena.vn/wp-content/uploads/2026/01/SeaTalk_IMG_20260119_104213-1.png",
-    "description": "Cơ chế mùa – Chỉ xuất hiện trong S1/2026. Mỗi 10 giây nhận 10 cộng dồn Tụ Bảo; đủ 200 tầng có thể rút vàng. Phụ/hạ thêm 10 cộng dồn mỗi lần.",
-    "seasonal": true,
-    "searchKey": "tu bao bon"
-  },
-  {
     "slug": "suy-nhuoc",
     "name": "Suy nhược",
     "icon": "https://lienquan.garena.vn/wp-content/uploads/2025/01/suy-nhuoc.png",
