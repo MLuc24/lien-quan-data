@@ -6669,6 +6669,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T6limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3052416head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/52416.jpg"
+      },
+      {
+        "index": 16,
+        "name": "Capheny ECHO",
+        "shortName": "ECHO",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/52417.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3052417head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/52417.jpg"
       }
     ],
     "stats": [
@@ -11183,9 +11191,9 @@
           "Giày thuật sĩ",
           "Mặt nạ Berith",
           "Quyền trượng Rhea",
-          "Quả cầu băng sương",
+          "Băng nhẫn Skadi",
           "Gươm hiền triết",
-          "Sách thánh"
+          "Quả cầu băng sương"
         ]
       ],
       "badges": [
@@ -18369,12 +18377,12 @@
   {
     "slug": "lumburr",
     "name": "Lumburr",
-    "title": null,
+    "title": "Khổng lồ lục địa",
     "classes": [
       "Đỡ đòn"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Rừng nguyên sinh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/119dc57d5a3a59b520b93a42301ffb135e7dedbf1c28a1.jpg",
     "searchKey": "lumburr",
     "damageType": "Vật lý",
@@ -18393,7 +18401,9 @@
         "name": "Ỷ mạnh vệ yếu",
         "description": "Nội tại: Lumburr gia tăng giáp vật lý và giáp phép cho bản thân và đồng đội có lượng máu thấp nhất trong bán kính 5m xung quanh.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c1a3c5396b8cc76452b9bbbd8ba70aa65875b567028fb1.png",
-        "effects": []
+        "effects": [
+          "Cường hóa"
+        ]
       },
       {
         "slot": "1",
@@ -18401,7 +18411,10 @@
         "name": "Đất bằng dậy sóng",
         "description": "Lumburr giận dữ đấm xuống đất hất văng đất đá gây sát thương vật lý. Kẻ địch trúng chiêu sẽ chịu suy yếu, bị giảm sát thương vật lý và phép gây ra (chỉ hiệu lực với Tướng) trong thời gian hiệu lực.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a35f4b82e40be2c9be97123b6ddb1c375875b7dbe06a81.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hất tung"
+        ]
       },
       {
         "slot": "2",
@@ -18409,7 +18422,10 @@
         "name": "Bất khả cản phá",
         "description": "Lumberr xông về phía trước gây sát thương vật lý, đồng thời hất văng những kẻ địch trúng chiêu. Sau khi rớt xuống đất nạn nhân sẽ bị làm chậm. Đồng đội trúng chiêu sẽ nhận lá chắn và tốc chạy trong thời gian hiệu lực.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8460fbae99e55da9c206313656dc36205875b855bc9141.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Suy yếu"
+        ]
       },
       {
         "slot": "3",
@@ -18417,7 +18433,10 @@
         "name": "Long trời lở đất",
         "description": "Lumburr nổi thịnh nộ tạo ra một cơn động đất hất văng kẻ địch, gây sát thương vật lý. Khe nứt tồn tại trong 1 thời gian, khiến những nạn nhân còn bên trong sẽ bị làm chậm và chịu sát thương vật lý.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fd854ecf2e82d85fcd8f1cc67f4512545875b89f098dc1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Hất tung"
+        ]
       }
     ],
     "skins": [
@@ -18481,7 +18500,14 @@
     "stats": [],
     "goldCost": null,
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 27-08",
+      "Chiều cao: 240cm",
+      "Nơi sinh: Rừng nguyên sinh",
+      "Vai trò: Thân vệ Rừng nguyên sinh",
+      "Khác: Lumburr tin rằng vạn vật đều tuần hoàn theo đạo lý của tự nhiên. Lumburr là người biết rõ nhất trên mảnh đất này trồng cây gì thì tươi tốt.",
+      "Bí mật: Lumburr nhận lời mời của zill và gia nhập phe Rừng nguyên sinh. Trong mắt Lumburr, lãng phí lương thực là điều không thể tha thứ. Nếu Lumburr muốn lẩn trốn thì không ai có thể tìm ra được."
+    ],
     "lore": [
       "\"Ashes to ashes, dust to dust!\"",
       "Without the element of earth, this world would be nothing! As the manifestation of Mother Earth's will, Lumburr inherited all of the consciousness and powers of the mother earth, giving him the ability to control the earth element.Lumburr was bestowed with sentience and unmatched resolve. He had silently guarded the earth and its creatures for millennia. Lumburr acted in accordance with the laws of nature: the survival of the fittest! With this single law as his moral code, he never intervened between the wars of Men and Beasts.",
@@ -18491,11 +18517,33 @@
       "\"I must eradicate all those who would oppose nature!\""
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa hồi huyết",
+          "Giày kiên cường",
+          "Phù chú trường sinh",
+          "Khiên thánh quang",
+          "Nham thuẫn",
+          "Huân chương Troy"
+        ]
+      ],
+      "badges": [
+        "Nhạy bén",
+        "Cứu viện",
+        "Mộc giáp",
+        "Mật ngữ",
+        "Hấp huyết"
+      ],
+      "spells": [
+        "Tốc biến"
+      ],
+      "notes": []
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/lumburr/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Lumburr",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Lumburr"
     }
   },
@@ -20163,12 +20211,12 @@
   {
     "slug": "ming",
     "name": "Ming",
-    "title": null,
+    "title": "Dị giới thuật sư",
     "classes": [
       "Trợ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Vương quốc Rồng (lữ khách)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/58ba051be8f5ab56c0ea840ceb29c489658d529e847cf1.jpg",
     "searchKey": "ming",
     "damageType": "Phép",
@@ -20187,7 +20235,10 @@
         "name": "Hồi huyết trảo",
         "description": "Mỗi 5 giây, đón đánh thường kế tiếp sẽ gây sát thương phép và kích hoạt hiệu ứng đánh thường trên người địch về hồi máu cho bản thân và đồng đội được liên kết. Đánh mục tiêu không phải tướng sẽ hồi máu ít hơn.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/00_9435406.webp",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Hồi phục"
+        ]
       },
       {
         "slot": "1",
@@ -20195,7 +20246,10 @@
         "name": "Bí thuật cường hóa",
         "description": "Thời gian hồi chiêu 3s - Năng lượng tiêu hao 50+5/cấp chiêu\n\nNém pháp khí để kết nối với đồng đội, nếu không trúng mục tiêu, pháp khí sẽ tự động tìm kiếm một đồng minh trong phạm vi để kết nối và tăng: 20 + 4/cấp chiêu (+10% công phép) thuộc tính tấn công chính (1 thuộc tính tấn công chính = 1 công vật lý hoặc 2 công phép) & (10 + 2/cấp chiêu)% tốc đánh.\n\nKẻ địch chạm vào sợi dây liên kết sẽ phải chịu 30/cấp chiêu (+20% công phép) sát thương phép mỗi 0.5 giây.\n\nNội tại: Bản thân nhận thêm 30 + 6/cấp chiêu công vật lý, /75 + 15cấp chiêu công phép và (7.5 + 1.5/cấp chiêu)% tốc chạy",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ming1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Cường hóa"
+        ]
       },
       {
         "slot": "2",
@@ -20203,7 +20257,10 @@
         "name": "Bí thuật phòng ngự",
         "description": "Thời gian hồi chiêu 3s - Năng lượng tiêu hao 50+5/cấp chiêu\n\nNém pháp khí kết nối kẻ địch, nếu không trúng sẽ tự động tìm kiếm tướng địch trong phạm vi để liên kết, giảm (15 + 2/cấp chiêu)% giáp và kháng phép của mục tiêu.\n\nKẻ địch chạm vào dây xích mỗi 0.5 giây sẽ chịu 30/cấp chiêu (+20% công phép) sát thương phép.\n\nNội tại: Bản thân tăng (15 + 3/cấp chiêu)% giáp và kháng phép.\n\nKẻ địch bị liên kết bởi pháp khí sẽ lộ diện.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ming2.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Bùa hại"
+        ]
       },
       {
         "slot": "3",
@@ -20211,7 +20268,11 @@
         "name": "Bí thuật trường sinh",
         "description": "Thời gian hồi chiêu 40-5/cấp chiêu - Năng lượng tiêu hao 100+20/cấp chiêu\n\nSau 0.75 giây niệm chú, Ming sẽ gây sát thương chuẩn lên kẻ địch bị pháp khí liên kết hoặc hồi phục cho đồng đội được liên kết.\n\nNếu pháp khí liên kết với một mục tiêu: Ming tiêu hao 800 (+150% công phép) + 400/cấp chiêu máu của bản thân để gây lượng sát thương chuẩn tương đương lên kẻ địch bị liên kết hoặc hồi phục lượng máu tương đương sát thương chuẩn cho đồng đội được liên kết.\n\nNếu pháp khí liên kết với hai mục tiêu: Ming hút 800 (+150% công phép) + 400/cấp chiêu máu từ kẻ địch rồi chuyển lượng máu đó cho đồng đội.\n\nTrong thời gian niệm chú nếu tất cả mục tiêu liên kết bị hạ gục, Ming sẽ được hoàn trả 70% thời gian hồi chiêu. Lượng máu Ming đã tiêu hao sẽ dần hồi phục trong 5 giây.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/33_9927194.webp",
-        "effects": []
+        "effects": [
+          "Chuẩn",
+          "Hồi phục",
+          "Cướp máu"
+        ]
       }
     ],
     "skins": [
@@ -20291,7 +20352,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": null,
-    "profile": [],
+    "profile": [
+      "Sinh nhật: Chưa rõ",
+      "Chiều cao: 181cm",
+      "Nơi sinh: Chưa rõ",
+      "Vai trò: Mưu sĩ cuốn vào tranh đấu hoàng tộc",
+      "Khác: Ẩn mình phía sau hậu trường, Ming luôn quan sát thế thái nhân tình ở Athanor. Hồn lực của Ming cộng hưởng với mạch thuật của Vương quốc Rồng.",
+      "Bí mật: Ming rất giỏi đọc tâm thuật trong khi không ai nhìn rõ anh ta nghĩ gì. Ming thường mơ thấy mình bị mắc kẹt trong dị giới thiên lôi và đang cố gắng tìm đường trở về nhà. Mặc dù Ming đồng ý giúp đỡ nhị hoàng tử, trong thâm tâm anh ta lại coi thường những tranh đấu tương tàn trong hoàng tộc."
+    ],
     "lore": [
       "Like water flowing into a river, Ming has no fixed residence, often lurking on the streets of the Dragon Kingdom, on the one hand examining the world of common people, on the other hand looking for a way to return to his homeland.",
       "Past experiences make Ming always remain wary of anyone. The struggle of the royal family in the Dragon Kingdom is becoming more and more serious. Even if Ming avoids disaster, evil plans will turn into good and will be forced to choose to participate in that war.",
@@ -20299,11 +20367,47 @@
       "This calm and scheming appearance made the Second Prince feel that Ming would be an important source of help in his royal struggle, so he gave him back his freedom and sent people to help him. Investigate strange phenomena, find a way to return to your homeland."
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa hồi huyết",
+          "Giày kiên cường",
+          "Ngọc đại pháp sư",
+          "Sách Truy Hồn",
+          "Vương miện Hecate",
+          "Sách thánh"
+        ],
+        [
+          "Liệt hoả hồi huyết",
+          "Giày kiên cường",
+          "Khiên thánh quang",
+          "Huân chương Troy",
+          "Vương miện Hecate",
+          "Sách thánh"
+        ]
+      ],
+      "badges": [
+        "Ám kích",
+        "Cứu viện",
+        "Du hiệp",
+        "Ma hỏa",
+        "Cường công",
+        "Nhạy bén",
+        "Bơm máu",
+        "Du hiệp",
+        "Ma hỏa",
+        "Shm"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Cấp cứu"
+      ],
+      "notes": []
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/ming/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Ming",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Ming"
     }
   },
@@ -21943,12 +22047,12 @@
   {
     "slug": "omega",
     "name": "Omega",
-    "title": null,
+    "title": "Cỗ máy thần binh",
     "classes": [
       "Đỡ đòn"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Không\nTháp quang minh (từng)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/cb7b811e7978882aefac079de6c93daf5fbcc5716f8ad1.jpg",
     "searchKey": "omega",
     "damageType": "Vật lý",
@@ -21970,7 +22074,10 @@
         "name": "Chế độ phá hoại",
         "description": "Nội tại: Các kĩ năng của Omega gây sát thương chuẩn lên công trình",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2793706eb605b6c46e84b9c781324d475b30b70597bcf1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Đặc biệt"
+        ]
       },
       {
         "slot": "1",
@@ -21978,7 +22085,11 @@
         "name": "Chế độ xung phong",
         "description": "Sau khi kích hoạt, Omega tạo khiên chắn hấp thụ sát thương và tăng tốc chạy trong 3 giây. Đòn đánh thường tiếp theo của hắn sẽ gây thêm sát thương vật lý và hất tung mục tiêu cùng nạn nhân lân cận.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e41502909ea0eab2494f6511f537259e583f926571d1d1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng tốc",
+          "Hất tung"
+        ]
       },
       {
         "slot": "2",
@@ -21986,7 +22097,10 @@
         "name": "Chế độ nghiền nát",
         "description": "Omega xông tới những kẻ thù trong phạm vi, gây sát thương vật lý và làm choáng chúng.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/138572737910e863881f1d150fd6360f583f92837bad41.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Choáng"
+        ]
       },
       {
         "slot": "3",
@@ -21994,7 +22108,10 @@
         "name": "Chế độ huỷ diệt",
         "description": "Omega mở rộng hai cánh tay, liên tục tấn công những kẻ thù gần đó và gây sát thương vật lý mỗi lượt đồng thời đẩy lui chúng.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7335d47f572b8741da6cbc124def537d583f92a544c171.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Đẩy lùi"
+        ]
       }
     ],
     "skins": [
@@ -22157,7 +22274,14 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 03-05",
+      "Chiều cao: 210cm",
+      "Nơi sinh: Tháp quang minh",
+      "Vai trò: Vũ khí chiến tranh",
+      "Khác: Omega sau khi được hồi sinh đã dựa vào những thanh kiếm ký ức gắn xung quanh mà trở nên mạnh mẽ hơn. Omega cực kỳ ghét những gì đại diện cho hắc ám.",
+      "Bí mật: Omega từng cùng moren nghiên cứu thuật chế tác máy móc cổ đại. Omega thường xuyên gửi quà cho sephera vì nàng đã cứu mình. Nụ cười của ishar làm Omega nhớ lại cô gái nhân loại 1000 năm trước."
+    ],
     "lore": [
       "\"Peace or war? That is the question\".",
       "Legend has it that the Sage Omega was born to end all wars with the capability of annihilating all weapons. Its body is unbreakable - not even the most powerful weapons and magic in the world can completely destroy it.",
@@ -22166,13 +22290,36 @@
       "\"Violence for violence, war for war!\""
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa ma nhãn",
+          "Giày kiên cường",
+          "Phù chú trường sinh",
+          "Khiên thánh quang",
+          "Áo choàng thần Ra",
+          "Huân chương Troy"
+        ]
+      ],
+      "badges": [
+        "Canh gác",
+        "Bơm máu",
+        "Trói buộc",
+        "Hấp huyết",
+        "Cố thủ"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Bộc phá"
+      ],
+      "notes": []
+    },
     "balanceHistory": [
       "December 2020 Hotfix update"
     ],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/omega/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Omega",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Omega"
     }
   },
@@ -22502,12 +22649,12 @@
   {
     "slug": "ormarr",
     "name": "Ormarr",
-    "title": null,
+    "title": "Cuồng chiến sĩ",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Vương quốc Norman",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fd2a04f2b129ef58988f2d311eac83e45b6d0919e7d901.jpg",
     "searchKey": "ormarr",
     "damageType": "Vật lý",
@@ -22527,7 +22674,10 @@
         "name": "Man lực",
         "description": "Nội tại: Tất cả sát thương của Ormarr đều có tỷ lệ làm choáng và gây sát thương phép bằng 1 số máu tối đa của hắn (6 giây hồi).",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/cac76363847391d6b4f9d581a043ea8a583f9a81dee021-1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Choáng"
+        ]
       },
       {
         "slot": "1",
@@ -22535,7 +22685,10 @@
         "name": "Búa Cuồng",
         "description": "Ormarr lướt về phía trước vung búa hất tung mục tiêu, gây ra sát thương vật lý",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/93cc8c63bc065f5fe786f2dc331e8998583f9aa3642481-1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Hất tung"
+        ]
       },
       {
         "slot": "2",
@@ -22543,7 +22696,10 @@
         "name": "Búa tạ",
         "description": "Ormarr nện búa xuống đất gây sát thương vật lý và giảm tốc chạy kẻ địch. Mỗi lần trúng tướng địch sẽ tự cộng cho bản 1 điểm Chiến dã. Đạt đến 3 điểm, nếu dùng kỹ năng sẽ gây choáng kẻ địch.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ee0b33849d37fd2ab6aa1c3a940a8f6c583f9affe6dcf1-1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "3",
@@ -22551,7 +22707,10 @@
         "name": "Hiên ngang",
         "description": "Vũ khí trên tay Ormarr xoay vòng cực nhanh gây sát thương vật lý mỗi đợt lên kẻ địch trúng chiêu. Nếu có tướng địch trúng chiêu sẽ khiến Ormarr được hồi 2% máu tối đa của bản thân. Suốt thời gian này Ormarr không thể bị ngắt quãng chiêu và có thể sử dụng Búa cuồng, nhưng vẫn có thể bị làm chậm.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/14c941885a33d2eb215d55f85d10943e583f9b287569b1-2.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Tăng tốc"
+        ]
       }
     ],
     "skins": [
@@ -22710,11 +22869,34 @@
       "\"The battlefield is the only place for a warrior to die!\""
     ],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa hồi huyết",
+          "Giày kiên cường",
+          "Áo choàng thần Ra",
+          "Khiên thánh quang",
+          "Giáp Gaia",
+          "Giáp thống khổ"
+        ]
+      ],
+      "badges": [
+        "Nhạy bén",
+        "Bơm máu",
+        "Trói buộc",
+        "Hấp huyết",
+        "Cố thủ"
+      ],
+      "spells": [
+        "Tốc biến",
+        "Bộc phá"
+      ],
+      "notes": []
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/ormarr/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Ormarr",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Ormarr"
     }
   },
@@ -27025,12 +27207,12 @@
   {
     "slug": "superman",
     "name": "Superman",
-    "title": null,
+    "title": "Siêu nhân",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đường Tà Thần",
+    "faction": "Không (bản quyền DC)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3310a88f1a679a6940e2f6e0da287c415a02b6ac709e01.jpg",
     "searchKey": "superman",
     "damageType": "Vật lý",
@@ -27051,7 +27233,10 @@
         "name": "Siêu Phàm",
         "description": "\"Nội tại: Superman có hai cơ chế di chuyển: Phi hành và Bộ hành.\n\nAnh tích tụ siêu năng và được tăng tốc chạy theo mỗi 1m di chuyển, rồi chuyển sang phi hành khi tích đủ siêu năng. Superman được tăng tốc chạy khi bay về phía kẻ địch.\n\nNgoài ra đòn đánh thường đầu tiên trong trạng thái này sẽ gây thêm sát thương vật lý dựa trên máu tối đa bản thân. Trạng thái phi hành sẽ biến mất khi Superman có tốc chạy dưới 375.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/24bf7c4eaf085ee571ec7ce0de5904075a02b71f542431.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Đẩy lùi"
+        ]
       },
       {
         "slot": "1",
@@ -27059,7 +27244,11 @@
         "name": "Siêu Năng Lực",
         "description": "Superman thổi hơi cực lạnh gây sát thương vật lý lên những kẻ địch trúng chiêu và làm chậm tốc chạy của chúng. Nếu tung chiêu trong trạng thái phi hành, anh lướt đến gây sát thương vật lý, đồng thời bắn tia laze cũng gây sát thương vật lý.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7cc318a9ecf50c34796f27dbe32aee835a02b762c9a2b1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Làm chậm",
+          "Đẩy lùi"
+        ]
       },
       {
         "slot": "2",
@@ -27067,7 +27256,10 @@
         "name": "Người đàn ông thép",
         "description": "Lập tức loại bỏ mọi trạng thái khống chế, đồng thời giúp tăng tốc chạy. Nếu tung chiêu trong trạng thái phi hành, bên cạnh những lợi ích trên, Superman sẽ lướt đến nện tay xuống đất gây sát thương vật lý.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/76c4654d08299b62d6f5839df0c951b15a02b7a14b16a1.png",
-        "effects": []
+        "effects": [
+          "Giải khống",
+          "Tăng tốc"
+        ]
       },
       {
         "slot": "3",
@@ -27075,7 +27267,11 @@
         "name": "Superman",
         "description": "Superman hấp thu năng lượng mặt trời , giúp tăng tốc độ nạp siêu năng trong thời gian tiếp theo. Nếu tung chiêu trong trạng thái phi hành, anh bay đến đẩy lùi nạn nhân, gây sát thương vật lý và tăng 100% tốc độ nạp siêu năng.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e76cd16ed2ecab3a4890240819ff5f5b5a02b7ebee1cb1.png",
-        "effects": []
+        "effects": [
+          "Đặc biệt",
+          "Vật lý",
+          "Đẩy lùi"
+        ]
       }
     ],
     "skins": [
@@ -27196,11 +27392,53 @@
     "profile": [],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa ma nhãn",
+          "Giày kiên cường",
+          "Phù chú trường sinh",
+          "Giáp cuồng nộ",
+          "Giáp Gaia",
+          "Khiên thánh quang"
+        ],
+        [
+          "Giày kiên cường",
+          "Thương Xuyên Phá",
+          "Nham thuẫn",
+          "Giáp thống khổ",
+          "Phù chú trường sinh",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Nhạy bén",
+        "Sinh tồn",
+        "Mộc giáp",
+        "Ma hỏa",
+        "Cố thủ",
+        "Nhạy bén",
+        "Sinh tồn",
+        "Du hiệp",
+        "Ma hỏa",
+        "Cố thủ",
+        "Canh gác",
+        "Sinh tồn",
+        "Trói buộc",
+        "Thánh châu",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Tốc hành",
+        "Tốc biến",
+        "Bộc phá"
+      ],
+      "notes": []
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/superman/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Superman",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Superman"
     }
   },
@@ -28896,12 +29134,12 @@
   {
     "slug": "the-flash",
     "name": "The Flash",
-    "title": null,
+    "title": "Hiệp sĩ Thần tốc",
     "classes": [
       "Pháp sư"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Không (bản quyền DC)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/dbb8d783c711cc0d2961e72cc8ed122c5ad9685dd58c11.jpg",
     "searchKey": "the flash",
     "damageType": "Phép",
@@ -28922,7 +29160,10 @@
         "name": "Thần tốc lực",
         "description": "The Flash nhận 1 điểm tốc lực sau mỗi 4 mét di chuyển; khi tích đủ 10 điểm sẽ khiến bản thân cường hóa đòn đánh kế giúp lướt đến mục tiêu, gây sát thương phép và làm chậm tốc chạy của nạn nhân. Đòn đánh trúng đích giúp The Flash nhận lá chắn hấp thu sát thương.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/808777edec1f90c25ec449a87d9d73685ad969e8830a21.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "1",
@@ -28930,7 +29171,10 @@
         "name": "Hành trình siêu tốc",
         "description": "The Flash lướt đi cực nhanh gây sát thương phép lên những kẻ địch trúng chiêu dọc đường. Khi đến đích, The Flash có thể kích hoạt chiêu lần nữa để lướt về điểm khởi đầu, gây sát thương phép lên những kẻ địch trúng chiêu dọc đường. Các nạn nhân trúng cả hai lần sẽ phải chịu thêm sát thương phép.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b8e01c4279ab212ba7ce5062a2ef3ae95ad96a81ac9421.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Dịch chuyển"
+        ]
       },
       {
         "slot": "2",
@@ -28938,7 +29182,10 @@
         "name": "Cú đấm chớp nhoáng",
         "description": "The Flash tung chuỗi liên hoàn đấm công kích kẻ địch 5 lần trong 0.8 giây, mỗi đợt đều gây sát thương phép. Đặc biệt, cú đấm cuối có thể gây gấp đôi sát thương, đồng thời giúp bản thân tăng tốc chạy nếu đánh trúng địch.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/28e59ebddcaec5727f000077918d85695ad9711da360e1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Tăng tốc"
+        ]
       },
       {
         "slot": "3",
@@ -28946,7 +29193,10 @@
         "name": "Lốc chân không",
         "description": "The Flash chạy vòng quanh tạo nên một cơn lốc chân không giúp bản thân không bị chọn làm mục tiêu và gây sát thương phép lên những kẻ địch trong phạm vi ảnh hưởng, bù lại tự giảm tốc chạy của bản thân trong 2 giây. Sau 2 giây The Flash dừng lại đột ngột khiến kẻ địch bị hút về tâm bão, gây sát thương phép và gây thêm 1 giây giảm tốc.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1f3550ad239ebc98101e46028ffbddd25ad971a5cca0c1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Khống chế"
+        ]
       }
     ],
     "skins": [
@@ -28973,11 +29223,43 @@
     "profile": [],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Gươm Loki",
+          "Giày kiên cường",
+          "Trượng bùng nổ",
+          "Mặt nạ ma quái",
+          "Vương miện Hecate",
+          "Quyền trượng Rhea"
+        ],
+        [
+          "Giày phù thủy",
+          "Gươm tận thế",
+          "Vương miện Hecate",
+          "Trượng hỗn mang",
+          "Quyền trượng Rhea",
+          "Sách thánh"
+        ]
+      ],
+      "badges": [
+        "Ma hỏa",
+        "Cường công",
+        "Ma chú",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Trừng trị",
+        "Tê tái",
+        "Tốc biến"
+      ],
+      "notes": []
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/the-flash/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/The%20Flash",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/The%20Flash"
     }
   },
@@ -31008,6 +31290,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T6limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3052015head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/52015.jpg"
+      },
+      {
+        "index": 15,
+        "name": "Veres ECHO",
+        "shortName": "ECHO",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/52016.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3052016head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/52016.jpg"
       }
     ],
     "stats": [
@@ -31403,6 +31693,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T6limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3011117head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/11117.jpg"
+      },
+      {
+        "index": 21,
+        "name": "Violet ECHO",
+        "shortName": "ECHO",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/11122.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3011122head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/11122.jpg"
       }
     ],
     "stats": [
@@ -32229,12 +32527,12 @@
   {
     "slug": "wonder-woman",
     "name": "Wonder Woman",
-    "title": null,
+    "title": "Chiến thần Amazon",
     "classes": [
       "Đấu sĩ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Đi rừng",
+    "faction": "Không (bản quyền DC)",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/108ae03944a6aa1eb4313a2baa64efcd5a0e6c1551db11.jpg",
     "searchKey": "wonder woman",
     "damageType": "Vật lý",
@@ -32258,7 +32556,10 @@
         "name": "Khiên thần lực",
         "description": "\"Sau mỗi 2 đòn đánh thường liên tiếp, Wonder Woman sẽ phóng khiên tấn công những kẻ địch phía trước trong đòn thứ ba, gây thêm sát thương chuẩn và giảm tốc chạy của kẻ địch trúng chiêu.\n\nĐồng thời, Wonder Woman được hồi máu (gấp ba hiệu lực nếu trúng tướng địch).\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1827b1d68988d8c443a10243b83c87235a0e6c68599c71.png",
-        "effects": []
+        "effects": [
+          "Chuẩn",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "1",
@@ -32266,7 +32567,10 @@
         "name": "Khiên kiếm liên kích",
         "description": "\"Wonder Woman lướt đi tấn công kẻ địch bằng khiên gây sát thương vật lý, và làm chậm tốc chạy các nạn nhân trúng đòn. Chiêu trúng tướng địch giúp bản thân tăng miễn thương.\n\nWonder Woman có thể tiếp tục vung gươm tấn công kẻ địch phía trước, gây sát thương vật lý tương đương đòn tấn công bằng khiên. Nạn nhân trúng mũi kiếm chịu gấp đôi sát thương.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fca4aad1c20fbbca36f11c3ee8b23bb85a0e6cb46ea201.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Làm chậm"
+        ]
       },
       {
         "slot": "2",
@@ -32274,7 +32578,10 @@
         "name": "Dây thừng chân thật",
         "description": "\"Wonder Woman phóng dây thừng về phía trước, nếu trúng kẻ địch với máu cao hơn 50% sẽ kéo bản thân về phía mục tiêu, nếu thấp hơn sẽ kéo mục tiêu về phía bản thân.\n\nDây thừng gây sát thương vật lý và giảm hồi chiêu khi trúng đích.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/83d3d64c39b2d57719054cf87aad8a515a0e6cfb608e61.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Khống chế"
+        ]
       },
       {
         "slot": "3",
@@ -32282,7 +32589,10 @@
         "name": "Giáp tay thần kì",
         "description": "\"Wonder Woman chắp tay phóng sóng năng lượng gây sát thương vật lý và làm choáng những kẻ địch trước mặt. Đồng thời khiến bản thân và đồng minh phía sau nhận lá chắn chặn sát thương.\n\nTất cả các mục tiêu trong vùng hiệu lực được tăng tốc chạy. Suốt thời gian tung chiêu Wonder Woman được tăng miễn thương.\"",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/461014df38f770824080ac3db72e35d35a0e6d3abb89a1.png",
-        "effects": []
+        "effects": [
+          "Vật lý",
+          "Miễn khống"
+        ]
       }
     ],
     "skins": [
@@ -32395,23 +32705,55 @@
     "profile": [],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Kiếm truy hồn",
+          "Giày du mục",
+          "Thương Xuyên Phá",
+          "Phức hợp kiếm",
+          "Nanh Fenrir",
+          "Giáp hộ mệnh"
+        ],
+        [
+          "Giày kiên cường",
+          "Thương Longinus",
+          "Phức hợp kiếm",
+          "Nanh Fenrir",
+          "Kiếm Muramasa",
+          "Giáp hộ mệnh"
+        ]
+      ],
+      "badges": [
+        "Dư ảnh",
+        "Cường công",
+        "Ma tính",
+        "Tương phản",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Trừng trị",
+        "Tê tái",
+        "Tốc biến"
+      ],
+      "notes": []
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/wonder-woman/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Wonder%20Woman",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Wonder%20Woman"
     }
   },
   {
     "slug": "xeniel",
     "name": "Xeniel",
-    "title": null,
+    "title": "Sứ giả thần thánh",
     "classes": [
       "Trợ thủ"
     ],
-    "lane": null,
-    "faction": null,
+    "lane": "Hỗ trợ",
+    "faction": "Tháp quang minh",
     "portrait": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a56369ce162e24700689527a54d89b755a179e8628f391.jpg",
     "searchKey": "xeniel",
     "damageType": "Phép",
@@ -32431,7 +32773,9 @@
         "name": "Sách Thánh Tích",
         "description": "Nội tại: Mỗi đòn đánh thường thứ ba gây thêm sát thương dựa trên máu tối đa bản thân thành sát thương phép.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/46e8c4740009ca31ce2e7954bb9cd16b5a179f1d105061.png",
-        "effects": []
+        "effects": [
+          "Phép"
+        ]
       },
       {
         "slot": "1",
@@ -32439,7 +32783,10 @@
         "name": "Thần Hộ Thể",
         "description": "Xeniel tự phủ một lớp bản hộ lên bản thân, giúp chặn sát thương. Sau thoáng chốc, Xeniel có thể tự hủy khiên, gây sát thương phép lên những kẻ địch lân cận và làm chậm nạn nhân trúng chiêu. Nếu lớp bảo hộ bị phá sẽ không thể gây sát thương.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0d10686f7bc4c3560a0ddf5e9292d48d5a179f6e7ca8c1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Lá chắn"
+        ]
       },
       {
         "slot": "2",
@@ -32447,7 +32794,10 @@
         "name": "Chùy Thần Lực",
         "description": "Xeniel nhảy đến một vùng chỉ định gây sát thương phép và hất tung những kẻ địch trúng chiêu.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d70060e371bfafc5cbe782809c5f0e415a17a02bebd9c1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Hất tung"
+        ]
       },
       {
         "slot": "3",
@@ -32455,7 +32805,10 @@
         "name": "Sứ Mệnh Cứu Thể",
         "description": "Xeniel chọn một tướng đồng minh để tặng lá chắn. Sau khi tặng lá chắn, Xeniel sẽ niệm chú rồi phòng lên trời bay đến mục tiêu sau một thời gian ngắn. Khi Xeniel giáng trần, hắn gây sát thương phép và giúp đồng mình được chọn hồi một phần máu tối đa. Nếu lá chắn mà Xeniel tặng cho đồng minh bị phá vỡ hoặc hết thời gian, bản thân lá chắn sẽ gây sát thương phép lên kẻ địch trong phạm vi.",
         "icon": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2d430e7572c6a3d6f5aba143ce46f42b5a17a06fbde3c1.png",
-        "effects": []
+        "effects": [
+          "Phép",
+          "Chuyển hóa"
+        ]
       }
     ],
     "skins": [
@@ -32637,14 +32990,56 @@
     ],
     "goldCost": "18888",
     "voucherCost": "1199",
-    "profile": [],
+    "profile": [
+      "Sinh nhật: 01-10",
+      "Chiều cao: 193cm",
+      "Nơi sinh: Vương quốc Okka",
+      "Vai trò: Thánh đồ",
+      "Khác: Xeniel sẽ theo thời gian cố định mà ra khỏi Thánh sơn để đi truyền giáo. Cách giải trí của Xeniel là vào rừng sâu trong Okka để ngồi thiền, ngắm núi, ngắm tuyết, ngắm mọi thứ.",
+      "Bí mật: Xeniel là Thánh đồ duy nhất có thể báo cáo trực tiếp với ilumia. Thời còn chưa trở thành thánh đồ, Xeniel thường xuyên giúp hàng xóm trông trẻ. Sau khi truyền giáo, Xeniel còn dẫn người dọn dẹp sạch sẽ giáo đường."
+    ],
     "lore": [],
     "trivia": [],
-    "build": null,
+    "build": {
+      "itemSets": [
+        [
+          "Đại địa hồi huyết",
+          "Giày thuật sĩ",
+          "Khiên thánh quang",
+          "Phù chú trường sinh",
+          "Giáp Gaia",
+          "Nham thuẫn"
+        ],
+        [
+          "Giày phù thủy",
+          "Ngọc đại pháp sư",
+          "Gươm tận thế",
+          "Băng nhẫn Skadi",
+          "Ma pháp trường bào",
+          "Phù chú trường sinh"
+        ]
+      ],
+      "badges": [
+        "Canh gác",
+        "Sinh tồn",
+        "Trói buộc",
+        "Thánh châu",
+        "Xuyên tâm"
+      ],
+      "spells": [
+        "Bộc phá",
+        "Cấp cứu",
+        "Tốc biến"
+      ],
+      "notes": [
+        "Bộ trang bị gợi ý cho Xeniel đi trợ thủ giúp đảm bảo khả năng chống chịu nhất định cũng như cung cấp rất nhiều lá chắn để bổ sung cho khả năng tạo lá chắn của chiêu 1 và chiêu cuối. Các trang bị thủ khác có thể tính đến bao gồm Giáp thống khổ hay Khiên thất truyền nếu kẻ địch mạnh về khả năng gây sát thương vật lý, và Giày kiên cường nếu kẻ địch có nhiều hiệu ứng khống chế.",
+        "Bộ trang bị đi đường đơn cho Xeniel, lối chơi full phép giúp sát thương gây ra được cải thiện mạnh mẽ nhưng cũng sẽ khiến vị tướng này mỏng manh đi rất nhiều."
+      ]
+    },
     "balanceHistory": [],
     "sources": {
       "garena": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/xeniel/",
-      "fandomVi": null,
+      "fandomVi": "https://arenaofvalor.fandom.com/vi/wiki/Xeniel",
       "fandomEn": "https://arenaofvalor.fandom.com/wiki/Xeniel"
     }
   },
@@ -33180,8 +33575,7 @@
       "spells": [
         "Trừng trị",
         "Tê tái",
-        "Tốc biến",
-        "Ma chủng hắc ám"
+        "Tốc biến"
       ],
       "notes": [
         "Bộ trang bị cho Yan đi rừng, lối lên đồ semi giúp Yan cân bằng công thủ và có thể sinh tồn lâu dài trong giao tranh. Để mở khóa toàn bộ ngưỡng sức mạnh thì Yan cần đạt cấp độ 12 để chiêu cuối đạt đủ cấp, do đó hãy ưu tiên làm tốt việc của một người chơi đi rừng trước giai đoạn này. Ngoài ra Yan cũng tương đối khó chơi khi bộ kỹ năng tương đối lả lướt và rối mắt, đặc biệt là sau khi vào trạng thái cường hóa, cũng như cần phải biết lựa chọn hiệu ứng cường hóa đòn đánh thường, do đó sẽ cần nhiều thời gian để thật sự thành thạo vị tướng này.",
@@ -34015,6 +34409,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T25limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/305457head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/54507.jpg"
+      },
+      {
+        "index": 7,
+        "name": "Yue ECHO",
+        "shortName": "ECHO",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/54508.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/305458head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/54508.jpg"
       }
     ],
     "stats": [
