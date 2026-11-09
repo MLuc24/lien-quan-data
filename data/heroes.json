@@ -3409,6 +3409,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/50121.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3050210head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/50210.jpg"
+      },
+      {
+        "index": 12,
+        "name": "Astrid Nữ Hoàng Bất Bại",
+        "shortName": "Nữ Hoàng Bất Bại",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/50211.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/11/3050211head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/11/50211.jpg"
       }
     ],
     "stats": [
@@ -5377,6 +5385,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T6limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/11/305981head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/11/59801.jpg"
+      },
+      {
+        "index": 4,
+        "name": "Bolt Baron Veldora Tempest",
+        "shortName": "Veldora Tempest",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/59804.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/11/305984head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/11/59804.jpg"
       }
     ],
     "stats": [
@@ -9697,6 +9713,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/19909.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/301999head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/19909.jpg"
+      },
+      {
+        "index": 11,
+        "name": "Eland'orr Lãnh Chúa Độc Hành",
+        "shortName": "Eland'orr Lãnh Chúa Độc Hành",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/50211.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/11/3019910head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/11/19910.jpg"
       }
     ],
     "stats": [
@@ -11807,7 +11831,7 @@
   {
     "slug": "flowborn-2",
     "name": "Flowborn",
-    "title": "Hậu duệ Khởi Nguyên",
+    "title": "Hậu Duệ Khởi Nguyên",
     "classes": [
       "Pháp sư"
     ],
@@ -11923,7 +11947,7 @@
   {
     "slug": "flowborn",
     "name": "Flowborn",
-    "title": "Hậu duệ Khởi Nguyên",
+    "title": "Hậu Duệ Khởi Nguyên",
     "classes": [
       "Xạ thủ"
     ],
@@ -14130,6 +14154,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/13614.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3013614head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13614.jpg"
+      },
+      {
+        "index": 16,
+        "name": "Ilumia Shuna",
+        "shortName": "Shuna",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/59804.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/11/3013615head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/11/13615.jpg"
       }
     ],
     "stats": [
@@ -17108,9 +17140,9 @@
         "Thanh tẩy"
       ],
       "notes": [
-        "Lauriel là một vị tướng thiên về giao tranh; càng nhiều kẻ địch trong phạm vi chiêu cuối thì lượng sát thương chuẩn cùng khả năng hồi phục từ nội tại càng mạnh, miễn là Lauriel không bị dính phải khống chế. Các trang bị giảm hồi chiêu cũng như cung cấp một ít chống chịu và máu sẽ là lựa chọn tốt nhất cho vị tướng này, với Ngọc đại pháp sư là trang bị trấn phái.",
-        "Phù hiệu Ma tính mang lại cho Lauriel khả năng ra chiêu thường xuyên hơn, cùng với kháng hiệu ứng từ Cố thủ và Canh gác giúp bản thân sinh tồn tốt hơn. Có thể thay thế phù hiệu nhánh thành Siêu hồi máu + Thợ săn.",
-        "Lựa chọn tốt nhất cho Lauriel giúp bản thân múa thoải mái trong giao tranh tổng là Thanh tẩy."
+        "Lauriel là một vị tướng thiên về giao tranh; miễn là có thể giữ chân kẻ địch đứng trong phạm vi của chiêu cuối thì tần suất xả chiêu thức sẽ càng thường xuyên và giúp nội tại phát huy toàn bộ uy lực của nó. Các trang bị giảm hồi chiêu cũng như cung cấp khả năng chống chịu và máu sẽ là lựa chọn tốt nhất cho Lauriel.",
+        "Có thể thay thế phù hiệu nhánh thành Siêu hồi máu + Thợ săn.",
+        "Trở ngại lớn nhất khi chơi Lauriel là các hiệu ứng khống chế dồn dập từ kẻ địch; Thanh tẩy sẽ giúp khắc phục nhược điểm này."
       ]
     },
     "balanceHistory": [],
@@ -19152,16 +19184,16 @@
         [
           "Giày kiên cường",
           "Thương khung kiếm",
-          "Đao Truy Hồn",
-          "Giáp Gaia",
           "Nanh Fenrir",
-          "Khiên thất truyền"
+          "Giáp Gaia",
+          "Khiên thánh quang",
+          "Giáp hộ mệnh"
         ],
         [
           "Đại địa hồi huyết",
           "Giày kiên cường",
-          "Thương khung kiếm",
-          "Đao Truy Hồn",
+          "Khiên thánh quang",
+          "Nanh Fenrir",
           "Giáp Gaia",
           "Phù chú trường sinh"
         ]
@@ -19182,7 +19214,7 @@
         "Tốc biến"
       ],
       "notes": [
-        "Bộ trang bị gợi ý cho Maloch đi đường đơn, cân bằng công và thủ cho vị tướng này cũng như giúp đối phó tốt hơn với các kẻ địch hồi phục mạnh. Nội tại cùng lượng công vật lý đến từ Nanh Fenrir biến trang bị này thành thứ cần phải có nếu muốn cải thiện mạnh mẽ sát thương của Maloch.",
+        "Bộ trang bị gợi ý cho Maloch đi đường đơn, cân bằng giữa công và thủ. Nội tại cùng lượng công vật lý đến từ Nanh Fenrir biến trang bị này thành thứ cần phải có nếu muốn cải thiện mạnh mẽ sát thương của Maloch; ngoài ra Giáp Gaia cũng sẽ giúp khả năng hồi phục của Maloch được cải thiện rõ rệt.",
         "Bộ trang bị gợi ý cho Maloch trong vai trò hỗ trợ, gây sát thương khiêm tốn hơn nhưng sẽ phát huy hiệu quả hơn trong việc sống sót sau khi mở giao tranh bằng Luyện ngục vào giữa đội hình kẻ địch. Tùy tình huống có thể thay thế sang các trang bị khác, ví dụ như Đại địa ma nhãn.",
         "Phù hiệu trung tâm Ma tính giúp Maloch tung chiêu thường xuyên hơn sau khi tung chiêu cuối, còn Mộc giáp sẽ đề cao khả năng sinh tồn, đặc biệt là khi đi hỗ trợ."
       ]
@@ -20291,6 +20323,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T6limited.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ming.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2024/05/56801.jpg"
+      },
+      {
+        "index": 3,
+        "name": "Ming Đại học giả",
+        "shortName": "Đại học giả",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/50211.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/11/305683head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/11/56803.jpg"
       }
     ],
     "stats": [
@@ -23507,7 +23547,7 @@
         "Tốc biến"
       ],
       "notes": [
-        "Sau khi được làm lại bộ kỹ năng, Preyta đã thay đổi lối chơi từ xoay quanh đánh thường sang tung chiêu thức như phần lớn các pháp sư khác, do đó nên tập trung lên các món trang bị công phép để cải thiện sát thương."
+        "Sau khi được làm lại, nguồn sát thương chính của Preyta đã chuyển sang bộ kỹ năng của mình như phần lớn các pháp sư khác, do đó nên tập trung lên các món trang bị công phép để cải thiện sát thương. Khi có đủ trang bị thì chỉ một pha chiêu cuối Làn sóng dịch bệnh chuẩn xác thẳng vào đội hình đối phương kết hợp với sát thương bùng nổ từ nội tại sẽ có thể khiến chúng nằm xuống sau thoáng chốc."
       ]
     },
     "balanceHistory": [],
@@ -27790,6 +27830,14 @@
         "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/11011.png",
         "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/10/3054210head.jpg",
         "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/10/54210.jpg"
+      },
+      {
+        "index": 10,
+        "name": "Tachi Benimaru",
+        "shortName": "Benimaru",
+        "rarityIcon": "https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/59804.png",
+        "thumb": "https://lienquan.garena.vn/wp-content/uploads/2026/11/3054211head.jpg",
+        "splash": "https://lienquan.garena.vn/wp-content/uploads/2026/11/54211.jpg"
       }
     ],
     "stats": [
@@ -31841,7 +31889,7 @@
       "notes": [
         "Bộ trang bị phổ biến nhất cho Violet giúp các đòn đánh thường cường hóa từ chiêu 1 có thể gây sát thương cực lớn lên các tướng máu giấy về giai đoạn cuối trận. Có thể đổi Nanh Fenrir thành Diệt thần cung để đục tank hiệu quả hơn.",
         "Lối lên đồ này có thể phát huy hiệu quả lên cả tướng máu mỏng lẫn trâu bò. Violet không phải là một vị tướng đánh tay dồn dập trong giao tranh như nhiều tướng xạ thủ khác, do đó Thánh kiếm là đủ để cô nàng phát huy uy lực với các món đồ xuyên giáp.",
-        "Violet là một vị tướng cần trang bị để phát huy uy lực, do đó chăm chỉ farm vàng với Luyện kim là lựa chọn phù hợp nhất cho vị tướng này."
+        "Violet là một vị tướng cần trang bị để phát huy uy lực, do đó chăm chỉ farm vàng với Luyện kim là lựa chọn phù hợp nhất cho vị tướng này. Ngoài ra cũng nên cân nhắc lên phù hiệu nhánh Sung mãn vì cô nàng này tiêu hao năng lượng tương đối nhiều."
       ]
     },
     "balanceHistory": [],
