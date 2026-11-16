@@ -1982,8 +1982,7 @@
       "Secrets: Pernah tersasar di kamar D'Arcy akibat salah mantera. Suka pria berkulit gelap dengan senyum mempesona. Melewatkan pagi dengan berlatih di mantera sihir."
     ],
     "trivia": [
-      "Annette được gọi vui là \"Bà hoàng Sổ sứ mệnh\" trong cộng đồng Liên Quân Mobile khi có tới 7 trang phục của vị tướng này đến từ Sổ sứ mệnh.",
-      "Nội tại của Annette tính theo khoảng cách chứ không phụ thuộc vào việc người chơi có di chuyển hay không; nếu sử dụng biến về thì sẽ có thể thấy rõ các chiêu giảm hồi chiêu đột ngột, chẳng hạn chiêu cuối có thể giảm tới tận 10-20 giây sau khi biến về thành công."
+      "Nội tại của Annette tính theo khoảng cách di chuyển, không nhất thiết phải chủ động dùng nút di chuyển; nếu sử dụng biến về thì sẽ có thể thấy rõ các chiêu giảm hồi chiêu đột ngột, chẳng hạn chiêu cuối có thể giảm tới tận 10-20 giây sau khi biến về thành công."
     ],
     "build": {
       "itemSets": [
@@ -1998,10 +1997,10 @@
         [
           "Giày thuật sĩ",
           "Mặt nạ Berith",
-          "Trượng băng",
           "Trượng bùng nổ",
-          "Gươm hiền triết",
-          "Vương miện Hecate"
+          "Vương miện Hecate",
+          "Trượng hỗn mang",
+          "Sách thánh"
         ]
       ],
       "badges": [
@@ -2309,12 +2308,7 @@
         "Trừng trị",
         "Tê tái"
       ],
-      "notes": [
-        "Tương tự các sát thủ vật lý đi rừng khác, Kiếm truy hồn là thứ không thể thiếu dành cho Aoi để bắt lẻ chủ lực cùng với các món đồ cải thiện khả năng xuyên giáp và gây sát thương. Về cuối trận khi vào giao tranh tổng có thể đổi Giáp hộ mệnh sang các trang bị giữ mạng khác nhằm lật ngược tình thế.",
-        "Phù hiệu Ma chú giúp Aoi cải thiện sát thương đầu ra cùng với nhánh phụ Tương phản và Xuyên tâm tăng cường khả năng xuyên giáp.",
-        "Aoi có khả năng hồi máu đến từ chiêu 1, do đó mang theo ngọc hút máu có thể bổ sung cho khả năng hồi phục của cô nàng.",
-        "Bộ kỹ năng của Aoi chỉ hợp với vị trí đi rừng; Trừng trị chính là lựa chọn tối ưu nhất."
-      ]
+      "notes": []
     },
     "balanceHistory": [],
     "sources": {
@@ -3804,9 +3798,9 @@
     ],
     "lore": [],
     "trivia": [
-      "Khác với Tôn Ngộ Không là biểu tượng được biết đến phổ biến trong phạm vi toàn cầu, kể cả wukong lẫn bản gốc của vị tướng này đều được đưa vào game, thì hầu hết các nhân vật khác trong Tây Du Ký như Trư Bát Giới hay Ngưu Ma Vương đều không được phép đưa vào phiên bản toàn cầu theo cách thông thường do các vấn đề về bản quyền và văn hóa.",
-      "Trư Bát Giới là một yêu quái lợn, thiết kế và truyền thuyết của nhân vật này có thể gây ra những sự nhạy cảm không cần thiết về vấn đề tôn giáo, đặc biệt là cộng đồng Hồi giáo ở các quốc gia Trung Đông hay Đông Nam Á (Malaysia & Indonesia) nơi lợn bị coi là ô uế. Do đó, vị tướng Ata trở thành sự thay thế cho Bát Giới ở cả HoK Global và Liên Quân Mobile.",
-      "Ngoài ra, Ngưu Ma Vương (bản gốc của Lumburr) cũng được lấy hình tượng dựa trên loài bò, và vì chúng là loài linh thiêng ở các quốc gia như Ấn Độ, việc đưa một nhân vật như vậy vào game rồi phát hành ở những thị trường này cũng có thể khiến nhà phát hành vướng vào rắc rối không đáng có, chứ chưa cần nói đến việc đây là một vị tướng đỡ đòn. Bản thân Ngưu Ma Vương khi được phát hành tại HoK Global cũng có cho mình một ngoại hình hoàn toàn khác biệt với tên gọi Lapulapu. (Tuy nhiên cũng có thể là do vị tướng Toro được gọi bằng tên Ngưu Ma Vương ở máy chủ Đài Loan nên mới dẫn đến sự thay đổi ngoại hình này nhằm tránh xung đột giữa tên gọi các vị tướng ở các game khác nhau.)"
+      "Khác với Tôn Ngộ Không là biểu tượng được biết đến phổ biến trong phạm vi toàn cầu, và Liên Quân lẫn VGVD đều có sự xuất hiện của tướng wukong, thì hầu hết các nhân vật khác trong Tây Du Ký như Trư Bát Giới hay Ngưu Ma Vương đều không được phép đưa vào HoK Global theo cách thông thường do các vấn đề về bản quyền và văn hóa.",
+      "Trư Bát Giới là một yêu quái lợn, thiết kế và truyền thuyết của nhân vật này có thể gây ra những sự nhạy cảm không cần thiết về vấn đề tôn giáo, đặc biệt là ở các quốc gia Hồi giáo nơi lợn bị coi là ô uế. Do đó, vị tướng Ata trở thành sự thay thế cho Bát Giới ở cả HoK Global và Liên Quân Mobile.",
+      "Ngoài ra, Ngưu Ma Vương (bản gốc của lumburr) cũng được lấy hình tượng dựa trên loài bò, và vì chúng là loài linh thiêng ở các quốc gia như Ấn Độ, việc đưa một nhân vật như vậy vào game rồi phát hành ở những thị trường này cũng có thể khiến nhà phát hành vướng vào rắc rối không đáng có, chứ chưa cần nói đến việc đây là một tướng đỡ đòn. Bản thân Ngưu Ma Vương khi được phát hành tại HoK Global cũng có cho mình một ngoại hình hoàn toàn khác biệt với tên gọi Lapulapu. (Tuy nhiên cũng có thể là do vị tướng toro được gọi bằng tên Ngưu Ma Vương ở máy chủ Đài Loan nên mới dẫn đến sự thay đổi ngoại hình này nhằm tránh xung đột giữa tên gọi các vị tướng ở các game khác nhau.)"
     ],
     "build": {
       "itemSets": [
@@ -3814,16 +3808,8 @@
           "Đại địa hồi huyết",
           "Giày kiên cường",
           "Áo choàng thần Ra",
+          "Khiên thánh quang",
           "Giáp Gaia",
-          "Phù chú trường sinh",
-          "Giáp thống khổ"
-        ],
-        [
-          "Áo choàng thần Ra",
-          "Giày kiên cường",
-          "Đai kháng phép",
-          "Giáp cuồng nộ",
-          "Huân chương Troy",
           "Phù chú trường sinh"
         ]
       ],
@@ -3835,13 +3821,11 @@
         "Cố thủ"
       ],
       "spells": [
-        "Bộc phá"
+        "Bộc phá",
+        "Tốc biến"
       ],
       "notes": [
-        "Bộ trang bị đi trợ thủ giúp Ata băng càn trong giao tranh với Áo choàng thần Ra thiêu đốt kèm giảm hồi máu kẻ địch và Giáp Gaia giúp Ata cải thiện khả năng hồi phục.",
-        "Bộ trang bị cho Ata đi đường đơn, tiết kiệm vàng với các trang bị cấp 2 như Đai kháng phép và Giáp cuồng nộ; nếu đem vào rừng, Rìu Leviathan sẽ là trấn phái.",
-        "Cải thiện khả năng băng càn và gây sát thương lên kẻ địch.",
-        "Phép bổ trợ Bộc phá giúp Ata kết liễu kẻ địch thấp máu hiệu quả; nếu đi rừng hãy đem theo Trừng trị."
+        "Bộ trang bị đi trợ thủ giúp Ata băng càn trong giao tranh với Áo choàng thần Ra thiêu đốt kèm giảm hồi máu kẻ địch và Giáp Gaia giúp cải thiện khả năng hồi phục. Nếu đi đường đơn cho Ata thì có thể lên thêm Giáp thống khổ."
       ]
     },
     "balanceHistory": [
@@ -6484,9 +6468,7 @@
         "Tê tái"
       ],
       "notes": [
-        "Bộ trang bị đi rừng cho Butterfly, nội tại bất tử đến từ Liềm đoạt mệnh sẽ là công cụ giúp bản thân giữ mạng trong giao tranh, tạo thời cơ cho đồng đội.",
-        "Phù hiệu giúp cải thiện sát thương và khả năng hồi phục khi thi triển chiêu cuối.",
-        "Bộ kỹ năng của Butterfly phù hợp nhất khi đi rừng; Trừng trị chính là lựa chọn tối ưu nhất."
+        "Thời điểm Butterfly tỏ ra mạnh mẽ nhất là khi có thể liên tục tung chiêu cuối để ám sát tướng địch yếu máu, do đó hãy đảm bảo có ít nhất là 2 tầng nội tại trước khi vào giao tranh để thoải mái bay nhảy và vét mạng. Liềm đoạt mệnh giúp Butterfly có thêm tối đa 1.25 giây bất tử để vét mạng trước khi bị hạ gục, do đó nếu có thể xanh từ sớm thì hãy cố gắng tận dụng hết mức."
       ]
     },
     "balanceHistory": [],
@@ -6852,7 +6834,7 @@
       ],
       "notes": [
         "Bộ trang bị đi xạ thủ hiệu quả dành cho Capheny với Xạ nhật cung giúp tăng tầm đánh thường; nếu gặp phải nhiều khống chế hãy lên Giày kiên cường để đối phó.",
-        "Phù hiệu nhánh Uy áp giúp Capheny farm vàng nhanh; có thể đổi phù hiệu trung tâm sang Thánh thuẫn để tránh bị sốc sát thương."
+        "Có thể đổi phù hiệu trung tâm sang Thánh thuẫn để tránh bị sốc sát thương."
       ]
     },
     "balanceHistory": [],
@@ -9425,7 +9407,7 @@
         "Tốc biến"
       ],
       "notes": [
-        "Bộ trang bị đi đường giữa cho Điêu Thuyền với nhiều giảm hồi chiêu giúp ra chiêu thường xuyên hơn trong giao tranh tổng và cân bằng giữa cấu rỉa và sốc sát thương; đổi sang Giày phù thủy để lấy xuyên giáp phép có thể cải thiện khả năng này. Nếu gặp kẻ địch hồi phục mạnh thì nên ưu tiên lên Sách truy hồn từ giữa game để bớt gặp trở ngại. Ngoài ra nội tại của Điêu Thuyền cũng có thể được tận dụng tốt hơn khi lên Thập tự kiếm. Về cuối game hãy lên các trang bị giữ mạng như Quả cầu băng sương để tránh bị sát thủ hay đấu sĩ đối phương bắt lẻ.",
+        "Bộ trang bị đi đường giữa cho Điêu Thuyền với nhiều giảm hồi chiêu giúp ra chiêu thường xuyên hơn trong giao tranh tổng và cân bằng giữa cấu rỉa và sốc sát thương; đổi sang Giày phù thủy để lấy xuyên giáp phép có thể cải thiện khả năng này. Nếu gặp kẻ địch hồi phục mạnh thì nên ưu tiên lên Sách truy hồn từ giữa game để bớt gặp trở ngại. Ngoài ra nội tại của Điêu Thuyền cũng có thể được tận dụng tốt hơn khi lên Thập tự kiếm và Trượng băng. Về cuối game hãy lên các trang bị giữ mạng như Quả cầu băng sương để tránh bị sát thủ hay đấu sĩ đối phương bắt lẻ.",
         "Nếu mang Điêu Thuyền đi hỗ trợ (dù không thật sự hiệu quả ở các mức rank cao), đừng quên lên trang bị phụ trợ như hồi máu hay giải khống tùy vào đội hình kẻ địch.",
         "Phù hiệu trung tâm Thần quang giúp Điêu Thuyền sốc sát thương tốt hơn trong một nhịp chiêu, trong khi đó Ma chú sẽ tập trung vào khả năng cấu rỉa; có thể lên Ma tính nếu muốn tung chiêu thường xuyên hơn. Tương phản cũng là một lựa chọn ổn áp cho phù hiệu nhánh, nhưng có thể sẽ khiến bạn phải biến về thường xuyên hơn vì thiếu năng lượng."
       ]
@@ -9556,7 +9538,7 @@
         "Tê tái"
       ],
       "notes": [
-        "Bộ trang bị đi đường đơn giúp Edras ở dạng thần có thể gây sát thương siêu bùng nổ bằng Thánh quang hủy diệt đồng thời có thể cắn trộm công trình của đối phương vô cùng hiệu quả khi trong dạng ma nhờ nội tại của mình.",
+        "Bộ trang bị đi đường đơn giúp Edras ở dạng thần có thể gây sát thương siêu bùng nổ bằng Thánh quang thần trảm và Thánh quang hủy diệt đồng thời có thể \"rút lõi\" công trình của đối phương vô cùng hiệu quả khi trong dạng ma nhờ lượng tốc đánh nhanh mang lại.",
         "Edras không phải là một tướng có thể chủ động mở giao tranh tốt hay sống sót lâu dài trong giao tranh; vị trí đi rừng có thể là lựa chọn phù hợp hơn cho Thánh quang đạo sư giúp Edras giảm đi áp lực khi phải thường xuyên chạm mặt đối phương.",
         "Đem theo phép bổ trợ mới Dịch chuyển sẽ khiến Edras trở nên cực kỳ khó chịu với kẻ địch khi liên tục xuất hiện ở những nơi khác nhau trên bản đồ để cắn trộm công trình của chúng ở trong dạng ma."
       ]
@@ -11199,33 +11181,20 @@
     ],
     "lore": [],
     "trivia": [
-      "Các hé lộ ban đầu về bộ kỹ năng đều cho thấy Evita sở hữu bộ chiêu thức tương đồng của Hằng Nga và đã gây thất vọng ban đầu cho người chơi đối với một vị tướng ra mắt kỷ niệm 10 năm Liên Quân Mobile."
+      "Các hé lộ ban đầu về bộ kỹ năng đều cho thấy Evita sở hữu bộ chiêu thức tương đồng của Hằng Nga bên Vương Giả Vinh Diệu và đã gây thất vọng ban đầu cho người chơi đối với một vị tướng ra mắt kỷ niệm 10 năm Liên Quân Mobile."
     ],
     "build": {
       "itemSets": [
         [
-          "Giày phù thủy",
-          "Mặt nạ Berith",
-          "Trượng bùng nổ",
-          "Quả cầu băng sương",
-          "Trượng hỗn mang",
-          "Sách thánh"
-        ],
-        [
           "Giày thuật sĩ",
           "Mặt nạ Berith",
           "Quyền trượng Rhea",
-          "Băng nhẫn Skadi",
+          "Quả cầu băng sương",
           "Gươm hiền triết",
-          "Quả cầu băng sương"
+          "Sách thánh"
         ]
       ],
       "badges": [
-        "Thánh châu",
-        "Xuyên tâm",
-        "Thần quang",
-        "Ma hỏa",
-        "Cường công",
         "Sung mãn",
         "Xuyên tâm",
         "Thánh thuẫn",
@@ -11816,7 +11785,7 @@
         "Tốc biến"
       ],
       "notes": [
-        "Bộ trang bị gợi ý cho Florentino đi đường đơn, nếu biết múa chắc tay thì có thể lả lướt cực tốt. Tên quý tộc này cần duy trì khả năng đâm chọt và hồi phục liên tục trong giao tranh đến từ nội tại, do đó các trang bị mang lại chống chịu là sự lựa chọn tối ưu nhất cho vị tướng được mệnh danh là \"thước đo của mọi đấu sĩ\" này trong Liên Quân.",
+        "Florentino là một vị tướng rất khó chơi khi cần duy trì việc nhặt hoa và đâm thẳng vào đội hình kẻ địch, do đó các trang bị mang lại chống chịu là sự lựa chọn tối ưu nhất cho vị tướng được mệnh danh là \"thước đo của mọi đấu sĩ\" này trong Liên Quân. Bên cạnh đó, lượng miễn thương từ việc kích hoạt trang bị Thương khung kiếm cũng sẽ giúp cải thiện khả năng sinh tồn của vị tướng này.",
         "Có thể lên sớm và dừng lại ở Găng bạch kim để tiết kiệm vàng lên Thương khung kiếm; về cuối trận trong giao tranh tổng nên thay đổi một món đồ sang các trang bị giữ mạng như Giáp hộ mệnh, Liềm đoạt mệnh hay Nham thuẫn nhằm tạo điều kiện cho đồng đội xả sát thương mà bản thân vẫn có thể múa giữa đội hình kẻ địch, miễn là người chơi có kỹ năng tốt. Nếu bạn tự tin vào khả năng múa của mình thì có thể lên Nanh Fenrir để cải thiện sát thương lên kẻ địch thấp máu.",
         "Bên cạnh lối lên đồ thủ, phù hiệu Rừng nguyên sinh cũng sẽ giúp bổ sung cho khả năng chống chịu của Florentino."
       ]
@@ -17790,7 +17759,8 @@
     "lore": [],
     "trivia": [
       "Hiệu ứng cường hóa đòn đánh thường của chiêu 1 dạng người không bị giới hạn lên quái rừng như nhiều tướng khác, do đó Liliana có thể thật sự một mình ăn Caesar bạo chúa chỉ trong vài giây nếu như combo chuẩn xác.",
-      "Combo: 24 → 24(→ 24) → 24 → đánh thường."
+      "Combo: 24 → 24(→ 24) → 24 → đánh thường.",
+      "Mặc dù vậy, khi chuyển giao sang VGVD, Liliana vẫn sẽ bị giới hạn sát thương lên quái rừng từ hiệu ứng này để tránh việc dọn sạch mục tiêu khủng nhanh đến mức vô lý đối với môi trường cạnh tranh mạnh mẽ của tựa game này."
     ],
     "build": {
       "itemSets": [
@@ -18360,7 +18330,7 @@
         "Bộc phá"
       ],
       "notes": [
-        "Bộ trang bị gợi ý cho Lorion đem lại khả năng cấu rỉa và chống chịu ngay từ sớm giúp hắn có thể phi vào giữa đội hình kẻ địch cùng đồng đội. Lorion là một vị tướng tương đối khó chơi khi phải áp sát để có thể hồi máu trong giao tranh cũng như cần phải có kỹ năng điều khiển cầu nhất định để gây sát thương và khống chế ổn định nhất, tiêu biểu là giấu cầu trước khi kích hoạt Bão từ trường.",
+        "Bộ trang bị cho Lorion đem lại khả năng gây sát thương lẫn hồi phục cực kỳ ổn định ngay từ đầu game. Lorion cần có kỹ năng nhất định để thành thạo cách combo và điều khiển hắc lôi cầu, đặc biệt là canh chuẩn vị trí và thời điểm Bão từ trường bùng nổ để hất tung nhiều tướng địch nhất có thể và tạo đột biến trong giao tranh. Thời gian khống chế của chiêu này là 1.25 giây và đặc biệt không thể bị trừ đi bởi chỉ số kháng hiệu ứng, do đó kẻ địch nếu không có khả năng miễn khống sẽ rất khó chạy thoát toàn vẹn sau khi trúng chiêu.",
         "Có thể thay bằng phù hiệu nhánh Ma hỏa + Cường công để cải thiện sát thương, nhưng sẽ khá mạo hiểm nếu chấp nhận việc không có Quả cầu băng sương ở đầu trận.",
         "Lối chơi của Lorion xoay quanh hồi máu liên tục, do đó mang theo ngọc hút máu phép sẽ là lựa chọn tốt giúp cải thiện khả năng này."
       ]
@@ -30796,7 +30766,7 @@
       "Nơi sinh: Tân liên hiệp",
       "Vai trò: Chỉ huy Thợ săn quỷ",
       "Khác: Valhein từ nhỏ đã mất đi cha mẹ. Hắc ám xâm lăng lần thứ 2, đích thân Valhein đã chỉ huy quân đoàn Thợ săn quỷ chiến đấu chống địch.",
-      "Bí mật: Quân đoàn Thợ săn quỷ chia làm 2 thế hệ, Valhein và Violet chính là thế hệ thứ 2. Tuy hay cãi nhau nhưng nội tâm Valhein rất hân thưởng Violet. Tửu lượng của Valhein kém cỏi nhất trong quân đoàn khiến cho hắn luôn xấu hổ."
+      "Bí mật: Quân đoàn Thợ săn quỷ chia làm 2 thế hệ, Valhein và violet chính là thế hệ thứ 2. Tuy hay cãi nhau nhưng nội tâm Valhein rất hân thưởng Violet. Tửu lượng của Valhein kém cỏi nhất trong quân đoàn khiến cho anh luôn xấu hổ."
     ],
     "lore": [
       "\"Mankind's only hope during the century-long vampire war.\"",
@@ -30811,9 +30781,9 @@
         [
           "Giày du mục",
           "Kiếm Fafnir",
-          "Liềm Đoạt Mệnh",
           "Xạ Nhật Cung",
           "Diệt thần cung",
+          "Liềm Đoạt Mệnh",
           "Giáp hộ mệnh"
         ]
       ],
@@ -30822,14 +30792,14 @@
         "Xuyên tâm",
         "Tinh linh",
         "Siêu hồi máu",
-        "Hấp huyết"
+        "Thợ săn"
       ],
       "spells": [
         "Tốc biến"
       ],
       "notes": [
-        "Valhein là một vị tướng đánh đầu game rất khỏe với sát thương tay lớn khi kích hoạt nội tại, tuy nhiên đây không phải một vị tướng có độ cơ động cao và sức mạnh sẽ đuối dần kể từ giữa game; trận đấu càng kéo dài sẽ càng khó cho vị tướng này sinh tồn trong giao tranh nếu không được bảo kê. Có thể lên một trang bị thủ khác về cuối game như Giáp Gaia hoặc Giáp cuồng nộ. Sải tay của Valhein khá bé so với các xạ thủ khác, do đó Xạ nhật cung sẽ là trang bị kích hoạt cần thiết để phần nào hỗ trợ trong việc xả sát thương.",
-        "Có thể lên Thợ săn ở nhánh phụ 2."
+        "Valhein là một vị tướng đánh đầu game rất khỏe, một khi kích hoạt thành công nội tại sẽ có thể gây áp lực rất lớn lên xạ thủ đối phương trong giai đoạn này với khả năng xả ra phi tiêu cường hóa liên tục. Tuy nhiên bản thân vị tướng này không có độ cơ động cao và sức mạnh sẽ đuối dần nếu không thể lăn cầu tuyết (snowball) từ sớm; trận đấu càng kéo dài sẽ càng khó cho Valhein sinh tồn trong giao tranh nếu không được bảo kê. Có thể lên một trang bị thủ khác về cuối game như Giáp Gaia hoặc Giáp cuồng nộ, hoặc lên Thương xuyên phá để cải thiện xuyên giáp. Sải tay của Valhein khá bé so với các xạ thủ khác, do đó Xạ nhật cung sẽ là trang bị kích hoạt cần thiết để phần nào hỗ trợ trong việc xả sát thương từ xa.",
+        "Có thể lên Hấp huyết ở nhánh phụ 2."
       ]
     },
     "balanceHistory": [],
@@ -31485,16 +31455,16 @@
           "Rìu Leviathan",
           "Giày kiên cường",
           "Thương Longinus",
-          "Phức hợp kiếm",
+          "Liềm Đoạt Mệnh",
           "Nanh Fenrir",
           "Giáp hộ mệnh"
         ],
         [
           "Đại địa hồi huyết",
           "Giày kiên cường",
-          "Phù chú trường sinh",
+          "Khiên thánh quang",
           "Giáp Gaia",
-          "Áo choàng thần Ra",
+          "Phù chú trường sinh",
           "Giáp thống khổ"
         ]
       ],
